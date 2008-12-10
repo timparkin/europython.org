@@ -1,0 +1,366 @@
+http://planet.python.org/rss10.xml
+<?xml version="1.0"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns="http://purl.org/rss/1.0/"
+>
+<channel rdf:about="http://planet.python.org/">
+	<title>Planet Python</title>
+	<link>http://planet.python.org/</link>
+	<description>Planet Python - http://planet.python.org/</description>
+
+	<items>
+		<rdf:Seq>
+			<rdf:li rdf:resource="http://blog.showmedo.com/2008/02/14/build-a-wxpython-image-viewer/" />
+			<rdf:li rdf:resource="http://compoundthinking.com/blog/index.php/2008/02/14/requestresponse-objects-in-tg2-and-beyond/" />
+			<rdf:li rdf:resource="http://pyre.third-bit.com/blog/archives/1374.html" />
+			<rdf:li rdf:resource="http://radian.org/notebook/open-future" />
+			<rdf:li rdf:resource="http://www.dougma.com/archives/64" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-496482.post-8282279164135480523" />
+			<rdf:li rdf:resource="http://fettig.net/weblog/2008/02/14/copies-of-twisted-book-available/" />
+			<rdf:li rdf:resource="http://panela.blog-city.com/slides_for_feb_2008_utah_python_meeting.htm" />
+			<rdf:li rdf:resource="http://radian.org/notebook/red-carpet" />
+			<rdf:li rdf:resource="http://farmdev.com/thoughts/41/the-monty-hall-problem-win-a-goat-or-a-car-/" />
+			<rdf:li rdf:resource="http://tarekziade.wordpress.com/?p=64" />
+			<rdf:li rdf:resource="http://tarekziade.wordpress.com/?p=63" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-3604515438787408842.post-971728152549891186" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-3604515438787408842.post-6707263584781108369" />
+			<rdf:li rdf:resource="http://www.willmcgugan.com/2008/02/13/writing-a-facebook-application-with-python-pt-ii/" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-5440028356946346379.post-4369825548233085651" />
+			<rdf:li rdf:resource="http://compoundthinking.com/blog/index.php/2008/02/13/site-components-in-django-and-tg2/" />
+			<rdf:li rdf:resource="http://www.philhassey.com/blog/2008/02/12/tinypy-64k-now-with-built-in-garbage-collection/" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-20144447.post-6260183573759662012" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-20144447.post-1714646666935151897" />
+			<rdf:li rdf:resource="http://base-art.net/Articles/95/" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-14094861.post-2844032621241069392" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-11638628.post-7516946297005262746" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-8520.post-7851320024479385371" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-3604515438787408842.post-4507566351079705338" />
+		</rdf:Seq>
+	</items>
+</channel>
+
+<item rdf:about="http://blog.showmedo.com/2008/02/14/build-a-wxpython-image-viewer/">
+	<title>ShowMeDo: Build a wxPython Image Viewer</title>
+	<link>http://blog.showmedo.com/2008/02/14/build-a-wxpython-image-viewer/</link>
+	<content:encoded>&lt;p&gt;The first episodes for our &lt;a href=&quot;http://showmedo.com/videos/series?name=To3wW0reK&quot;&gt;Build a wxPython Image Viewer&lt;/a&gt; series are ready with more episodes to follow over the coming weeks.  In total we will have 10 episodes which walk you through building the Image Viewer from scratch, including the skeleton code you need to develop your own wxPython applications.&lt;/p&gt;
+&lt;p&gt;The series is aimed at Python users who have a little coding experience but no experience with wxPython.  Exercises and background material are included.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;http://showmedo.com/videos/video?name=1790000&amp;amp;fromSeriesID=179&quot;&gt;3 minute overview&lt;/a&gt; will show you what we cover, then we develop a &lt;a href=&quot;http://showmedo.com/videos/video?name=1790010&amp;amp;fromSeriesID=179&quot;&gt;Skeleton wxPython Application&lt;/a&gt; (which you can use for your own applications) and discuss a &lt;a href=&quot;http://showmedo.com/videos/video?name=1790020<?xml version="1.0"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns="http://purl.org/rss/1.0/"
+>
+<channel rdf:about="http://planet.python.org/">
+	<title>Planet Python</title>
+	<link>http://planet.python.org/</link>
+	<description>Planet Python - http://planet.python.org/</description>
+
+	<items>
+		<rdf:Seq>
+			<rdf:li rdf:resource="http://feeds.feedburner.com/~r/voidspace/~3/243881035/arch_d7_2008_03_01.shtml" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-3604515438787408842.post-2788625983262593588" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-3604515438787408842.post-8819337693595871183" />
+			<rdf:li rdf:resource="http://zestyping.livejournal.com/236832.html" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-9266717.post-8512727337131004549" />
+			<rdf:li rdf:resource="http://panela.blog-city.com/fun_with_yui_ie_and_javascript.htm" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-496482.post-503147595469829657" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-3604515438787408842.post-7566362157193244115" />
+			<rdf:li rdf:resource="http://blog.showmedo.com/2008/02/29/using-wximage-wxstaticbitmap/" />
+			<rdf:li rdf:resource="http://blog.delaguardia.com.mx/index.php?op=ViewArticle&amp;articleId=104&amp;blogId=1" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-496482.post-8555093069455813789" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-14094861.post-5599937098881222438" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-3604515438787408842.post-5678272937232277356" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-3604515438787408842.post-6258112883257060401" />
+			<rdf:li rdf:resource="http://www.willmcgugan.com/2008/02/28/practicality-versus-purity-for-python-templates/" />
+			<rdf:li rdf:resource="http://pyre.third-bit.com/blog/archives/1403.html" />
+			<rdf:li rdf:resource="http://radian.org/notebook/surround-stereotypes" />
+			<rdf:li rdf:resource="tag:blogger.com,1999:blog-11638628.post-6323785815033816026" />
+			<rdf:li rdf:resource="http://www.philhassey.com/blog/2008/02/28/tinypy-10-mit-license-and-swell-opengl-demo/" />
+			<rdf:li rdf:resource="http://blog.delaguardia.com.mx/index.php?op=ViewArticle&amp;articleId=103&amp;blogId=1" />
+			<rdf:li rdf:resource="http://www.mechanicalcat.net/richard/log/Python/Language_metrics_from_ohloh" />
+			<rdf:li rdf:resource="http://base-art.net/Articles/97/" />
+			<rdf:li rdf:resource="http://jtauber.com/blog/2008/02/27/google_summer_of_code_2008" />
+			<rdf:li rdf:resource="http://www.protocolostomy.com/2008/02/27/diving-into-django/" />
+			<rdf:li rdf:resource="http://www.protocolostomy.com/2008/02/27/got-a-new-iphone/" />
+		</rdf:Seq>
+	</items>
+</channel>
+
+<item rdf:about="http://feeds.feedburner.com/~r/voidspace/~3/243881035/arch_d7_2008_03_01.shtml">
+	<title>The Voidspace Techie Blog: Resolver One 1.0.1 Released</title>
+	<link>http://feeds.feedburner.com/~r/voidspace/~3/243881035/arch_d7_2008_03_01.shtml</link>
+	<content:encoded>We've released a new version of Resolver One, version 1.0.1. This release mainly focusses on fixing usability bugs, but includes a couple of new features and some performance improvements. ... [241 words]&lt;div class=&quot;feedflare&quot;&gt;
+&lt;a href=&quot;http://feeds.feedburner.com/~f/voidspace?a=LdkG53f&quot;&gt;&lt;img src=&quot;http://feeds.feedburner.com/~f/voidspace?i=LdkG53f&quot; border=&quot;0&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~f/voidspace?a=cH3W3lf&quot;&gt;&lt;img src=&quot;http://feeds.feedburner.com/~f/voidspace?i=cH3W3lf&quot; border=&quot;0&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~f/voidspace?a=GjHV0Cf&quot;&gt;&lt;img src=&quot;http://feeds.feedburner.com/~f/voidspace?i=GjHV0Cf&quot; border=&quot;0&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.feedburner.com/~f/voidspace?a=1aZvEDF&quot;&gt;&lt;img src=&quot;http://feeds.feedburner.com/~f/voidspace?i=1aZvEDF&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src=&quot;http://feeds.feedburner.com/~r/voidspace/~4/243881035&quot; height=&quot;1&quot; width=&quot;1&quot; /&gt;</content:encoded>
+	<dc:date>2008-03-01T13:47:25+00:00</dc:date>
+</item>
+<item rdf:about="http://ironpython-urls.blogspot.com/2008/02/setting-up-silverlight-dlrconsole-on.html">
+	<title>IronPython-URLs: Setting Up the Silverlight DLRConsole on Apache</title>
+	<link>http://ironpython-urls.blogspot.com/2008/02/setting-up-silverlight-dlrconsole-on.html</link>
+	<content:encoded>The DLRConsole lets you execute Python code in the browser. Silverlight 2 may be just around the corner, but this blog entry shows you how to configure Apache to correctly serve the current version (for Silverlight 1.1):&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://ianoxley.wordpress.com/2008/02/29/setting-up-the-silverlight-dlrconsole-on-apache/&quot;&gt;Setting Up the Silverlight DLRConsole on Apache&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;To be fair, these instructions will probably still be valid for the 2.0 version. Let's hope the DLRConsole is updated quickly to work with Silverlight 2!</content:encoded>
+	<dc:date>2008-03-01T01:01:00+00:00</dc:date>
+</item>
+<item rdf:about="http://ironpython-urls.blogspot.com/2008/02/variations-on-trees.html">
+	<title>IronPython-URLs: Variations on Trees</title>
+	<link>http://ironpython-urls.blogspot.com/2008/02/variations-on-trees.html</link>
+	<content:encoded>Martin Maly (one of the chief architects of the DLR) has written another blog entry on creating dynamic languages with the Dynamic Language Runtime. This entry is a comparison of DLR trees (the ASTs used by the DLR to represent dynamic language programs) with LINQ Expression Trees. LINQ Expression Trees can be generated by the C# compiler from expressions that look a bit like list comprehensions. Unfortunately there is no built-in compiler support (yet...) for generating DLR Trees directly, but they are very similar:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://blogs.msdn.com/mmaly/archive/2008/02/29/variations-on-trees.aspx&quot;&gt;Variations on Trees&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+	<dc:date>2008-03-01T00:46:00+00:00</dc:date>
+</item>
+<item rdf:about="http://zestyping.livejournal.com/236832.html">
+	<title>Ka-Ping Yee: More on making our world better.</title>
+	<link>http://zestyping.livejournal.com/236832.html</link>
+	<content:encoded>&lt;p&gt;
+I've been doing a little brainstorming.  Here's what i have so far.
+
+&lt;p&gt;
+If there were no externalities, the free market would solve everything.  But that's not real life.  So this is a picture of influences that occur &lt;em&gt;outside&lt;/em&gt; the free market.
+&lt;p&gt;
+&lt;img src=&quot;http://zesty.ca/lj/world-colour-2.png&quot; /&gt;
+&lt;br /&gt;(&lt;em&gt;Updated Feb. 29, 7pm:&lt;/em&gt; added &quot;war -&amp;gt; poverty&quot; link and &quot;religion&quot; bubble.)
+&lt;p&gt;
+The completely connected triangle — education, health, and poverty — is interesting.
+&lt;p&gt;
+There are people, organizations, and movements sitting on each of these arrows trying to influence them.  These are some of the &quot;good guys&quot;:
+&lt;ul&gt;
+&lt;li&gt;Scientific American, MythBusters, etc.
+&lt;li&gt;Sam Harris, Richard Dawkins, etc.
+&lt;li&gt;&lt;a href=&quot;http://plos.org/&quot;&gt;PLoS&lt;/a&gt;, open access movement
+&lt;li&gt;campaign finance laws
+&lt;li&gt;truth in advertising laws
+&lt;li&gt;responsible bloggers
+&lt;li&gt;Wikipedia
+&lt;li&gt;&lt;a href=&quot;http://factcheck.org/&quot;&gt;FactCheck&lt;/a&gt;, &lt;a href=&quot;http://newstrust.org&quot;&gt;NewsTrust&lt;/a&gt;, etc.
+&lt;li&gt;&lt;a href=&quot;http://lessig08.org/&quot;&gt;Change Congress&lt;/a&gt;
+&lt;li&gt;electoral system reform
+&lt;li&gt;voting machine reliability
+&lt;li&gt;&lt;a href=&quot;http://opencongress.org/&quot;&gt;OpenCongress&lt;/a&gt;, &lt;a href=&quot;http://theyworkforyou.com/&quot;&gt;TheyWorkForYou&lt;/a&gt;
+&lt;li&gt;&lt;a href=&quot;http://au.org/&quot;&gt;Americans United&lt;/a&gt;
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;Where do you fit on this picture?&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2008-02-29T22:58:02+00:00</dc:date>
+</item>
+<item rdf:about="http://aroberge.blogspot.com/2008/02/pycon-and-crunchy.html">
+	<title>Andre Roberge: Pycon and Crunchy</title>
+	<link>http://aroberge.blogspot.com/2008/02/pycon-and-crunchy.html</link>
+	<content:encoded>This year's Pycon program looks very interesting. I wish I could be there but, alas, the timing was just wrong for me this year.  This is doubly disappointing as I would have been able to meet with Johannes Woolard in the flesh.  Yes, forget Guido van Rossum, Alex Martelli and other famous names: the one person I wanted to meet is Johannes.  For more than a year an a half, I have had the pleasure</content:encoded>
+	<dc:date>2008-02-29T22:20:25+00:00</dc:date>
+</item>
+<item rdf:about="http://panela.blog-city.com/fun_with_yui_ie_and_javascript.htm">
+	<title>Matt Harrison: Fun with YUI, IE and JavaScript</title>
+	<link>http://panela.blog-city.com/fun_with_yui_ie_and_javascript.htm</link>
+	<content:encoded>I still develop JS in basically the same way I did back in 2001.  Back then IE had more of a stranglehold on the browser market, but it was a horrible JS development environment.  So one would use Mozilla with the Venkman debugger to make things a li</content:encoded>
+	<dc:date>2008-02-29T17:58:00+00:00</dc:date>
+</item>
+<item rdf:about="http://holdenweb.blogspot.com/2008/02/back-to-drawing-board-for-ooxml.html">
+	<title>Steve Holden: Back to the Drawing Board for OOXML?</title>
+	<link>http://holdenweb.blogspot.com/2008/02/back-to-drawing-board-for-ooxml.html</link>
+	<content:encoded>Even some pretty &lt;a href=&quot;http://ffii.se/pr/2007-08-27-se-ooxml-vote-en.html&quot;&gt;shady manipulation&lt;/a&gt; of the various national committees doesn't appear to have helped Microsoft much in their bid to get OOXML, the proprietary format describing Office documents, declared an international standard. The ISO/EIC Ballot Resolution Meeting in Geneva has ended with what can at best be considered an inconclusive result, with only eight of the 'P' countries and ten countries altogether registering any kind of vote on the main matter put to them.&lt;br /&gt;&lt;br /&gt;The real problem here is Microsoft's attempt, with the assistance of ECMA, to put the standard through the fast track process; that was clearly not appropriate for a standard of such complexity and political significance. There were over 1,100 dispositions to be decided at the meeting, and only 20 substantive dispositions received any measure of individual attention.&lt;br /&gt;&lt;br /&gt;The meeting's convenor attempted to reach a conclusion by bundling together 900 dispositions that had not been discussed and asking the delegations to vote on each without discussion. Unfortunately this led to over 80% of the delegations either &lt;a href=&quot;http://www.consortiuminfo.org/standardsblog/article.php?story=20080229055319727&quot;&gt;refusing to register a vote or abstaining on all dispositions&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;The real problem is that rather than being a standard driven by the requirement to describe structured documents of all types, OOXML is simply an XML-based description of an existing proprietary format.If Microsoft truly want to embrace standardization they should now get behind the Open Office ODF format and support it with all the weight they can. This seems unlikely given their prior position on ODF support, which can at best be described as &lt;a href=&quot;http://blogs.zdnet.com/BTL/?p=3300&quot;&gt;half-hearted&lt;/a&gt;. They apparently have a lot of work to do to make OOXML acceptable.&lt;br /&gt;&lt;br /&gt;Technically there is now a 30-day period in which the ISO/IEC members can vote to approve the adoption of OOXML. I doubt even Microsoft has sufficient clout to persuade them that this travesty or a process represents a satisfactory basis on which to build an international standard.</content:encoded>
+	<dc:date>2008-02-29T17:23:50+00:00</dc:date>
+</item>
+<item rdf:about="http://ironpython-urls.blogspot.com/2008/02/building-dlr-language-answering-some.html">
+	<title>IronPython-URLs: Building a DLR Language - Answering SOME Questions</title>
+	<link>http://ironpython-urls.blogspot.com/2008/02/building-dlr-language-answering-some.html</link>
+	<content:encoded>Martin Maly answers some questions about building a dynamic language using the DLR:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://blogs.msdn.com/mmaly/archive/2008/02/29/building-a-dlr-language-answering-some-questions.aspx&quot;&gt;Building a DLR Language - Answering SOME Questions&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+	<dc:date>2008-02-29T13:59:00+00:00</dc:date>
+</item>
+<item rdf:about="http://blog.showmedo.com/2008/02/29/using-wximage-wxstaticbitmap/">
+	<title>ShowMeDo: Using wx.Image &amp;amp; wx.StaticBitmap</title>
+	<link>http://blog.showmedo.com/2008/02/29/using-wximage-wxstaticbitmap/</link>
+	<content:encoded>&lt;p&gt;Now we actually &lt;a href=&quot;http://showmedo.com/videos/video?name=1790060&amp;amp;fromSeriesID=179&quot;&gt;load and display an Image&lt;/a&gt;! We use a wx.Image which reads a graphic image from our hard-drive.&lt;/p&gt;
+&lt;p&gt;First we show the image&amp;#8217;s dimensions in the status-bar using .SetStatusText(&amp;#8230;). Next we use the new ShowBitmap(self) function to convert the Image to a wx.StaticBitmap which is shown inside the Panel. We ask the Frame to resize itself to fit the picture and also to center itself on-screen.&lt;/p&gt;
+&lt;p&gt;This is one of our &lt;a href=&quot;http://showmedo.com/subscribe&quot;&gt;subscriber-only&lt;/a&gt; tutorials, these build upon our free &lt;a href=&quot;http://showmedo.com/videos/wxpython&quot;&gt;wxPython tutorials&lt;/a&gt; which live with our 179 &lt;a href=&quot;http://showmedo.com/videos/python&quot;&gt;Python tutorials&lt;/a&gt;.  The source code for this episode is freely available (they all are) further down the video&amp;#8217;s page.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&amp;#8220;Really quite enjoying this series - coming back everyday to see if another part has been uploaded!&amp;#8221; - &lt;a href=&quot;http://showmedo.com/videos/video?name=1790050&amp;amp;fromSeriesID=179#comment3580&quot;&gt;John Montgomery&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;&amp;#8220;&amp;#8230;Nevertheless, this is still one of the best tutorial videos I&amp;#8217;ve ever seen and trust me: I&amp;#8217;ve seen lot&amp;#8217;s of &amp;#8216;em!&amp;#8221; - &lt;a href=&quot;http://showmedo.com/videos/video?name=1790040&amp;amp;fromSeriesID=179#comment3537&quot;&gt;Lucas Holland&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+	<dc:date>2008-02-29T13:27:05+00:00</dc:date>
+</item>
+<item rdf:about="http://blog.delaguardia.com.mx/index.php?op=ViewArticle&amp;articleId=104&amp;blogId=1">
+	<title>Carlos de la Guardia: Hosting options, Plone adoption and the Big Green Button</title>
+	<link>http://blog.delaguardia.com.mx/index.php?op=ViewArticle&amp;articleId=104&amp;blogId=1</link>
+	<content:encoded>&lt;p&gt;I recently gave a small introductory talk about Plone at the &lt;a href=&quot;http://www.consol.org.mx/2008/&quot;&gt;CONSOL&lt;/a&gt; (National Free Software Congress) here in México. The aim was to introduce new developers to Plone.&lt;/p&gt;
+&lt;p&gt;There were about a couple dozen students present, most of them quite familiar with Drupal or Joomla. They barely had heard about Plone or Python. No one had actually installed Plone at all.&lt;/p&gt;
+&lt;p&gt;The talk went reasonably well, but I was disappointed in that no one asked a question at the end. A couple of days later, however, one of the students contacted me by email to ask advice on how to install Plone.&lt;/p&gt;
+&lt;p&gt;He was specially interested in finding out how to upload what he did on his machine to a cheap hosting service shared by him and some friends. You see, with the poor economic situation for many students of state universities in México, the pooling of resources with other friends to have a web development testbed shows a lot of initiative. Even as I was writing to him that he just can't use Plone on that kind of hosting environment, I knew that would be the last of his experiences with Plone.&lt;/p&gt;
+&lt;p&gt;Of course, customers will always be able to use a real hosting solution for their projects, but new developers sometimes won't. In some countries, like México, this can have an impact in the adoption of Plone, since customers will be scared of going with it and then not finding any developers to maintain and extend their sites.&lt;/p&gt;
+&lt;p&gt;Now, I don't think that the solution is to try to make Plone run in cheap hosting environments. The effort is just not worth it.  What could be done, a thing which would help Plone adoption at all levels, is to pursuit Martin Aspeli's vision of &lt;a href=&quot;http://martinaspeli.net/articles/pete-and-andy-try-plone-4&quot;&gt;the Big Green Button&lt;/a&gt; that turns a Plone site into a static (or even potentially dynamic) version of itself that can be hosted with one of those $5 a month providers.&lt;/p&gt;
+&lt;p&gt;I have been looking at &lt;a href=&quot;http://plone.org/products/entransit&quot;&gt;Entransit&lt;/a&gt;, from Enfold Systems, and I think it can do most of what Martin describes on his blog post. However, Entransit's out of the box experience is, according to Alan Runyan, very limited and just a small glimpse of what is possible with it. &lt;/p&gt;
+&lt;p&gt;Entransit also has little documentation and very few mentions on plone.org, but that could change fast, since it has been tagged as a possibility for delivering Plone content on the &lt;a href=&quot;http://plone.org/products/plone/releases/4.0/&quot;&gt;4.0 release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am currently testing Entransit for a client's project. I'll let you know how it goes.&lt;/p&gt;&lt;br /&gt;</content:encoded>
+	<dc:date>2008-02-29T11:12:45+00:00</dc:date>
+</item>
+<item rdf:about="http://holdenweb.blogspot.com/2008/02/false-economy.html">
+	<title>Steve Holden: False Economy?</title>
+	<link>http://holdenweb.blogspot.com/2008/02/false-economy.html</link>
+	<content:encoded>I went to a meeting the other day with one of my clients and two third-party developers. We were meeting at the developers' offices, in a town I'm not familiar with, so when I arrived I looked for the closest parking garage and parked there.&lt;br /&gt;&lt;br /&gt;Arriving at the offices, the opening smalltalk included parking. Both my client's representative and the two developers had parked in two-hour free parking areas, and when I said I'd used the parking garage eyebrows were raised and one person asked me &quot;how much does that cost?&quot;. I replied &quot;I don't know, I didn't even think to look&quot;.&lt;br /&gt;&lt;br /&gt;The meeting lasted four hours, so half way through the other three participants in the meeting had to take ten minutes or so out to juggle their cars and avoid tickets. On my return to the parking garage I discovered that the charge equated to approximately three minutes' billable income, which I was happy to write off. Assuming the other three participants are similarly expensive their decision may have saved them personally a dollar or two, but it probably cost the client over a hundred bucks in lost time.&lt;br /&gt;&lt;br /&gt;Yet I'm the one who's regarded as stupid for paying to park so I can happily take as long as I need to meet without interruption. I'd like to think my clients pay me the rates they do so, among other things, they &lt;span&gt;don't&lt;/span&gt; have to pay me to go out and move my car in the middle of meetings. A couple of dollars out of my pocket is well worth it if the client gets (and perceives) better value for money as a result.</content:encoded>
+	<dc:date>2008-02-29T08:26:35+00:00</dc:date>
+</item>
+<item rdf:about="http://bruynooghe.blogspot.com/2008/02/my-favourite-package-description.html">
+	<title>Floris Bruynooghe: My favourite package description</title>
+	<link>http://bruynooghe.blogspot.com/2008/02/my-favourite-package-description.html</link>
+	<content:encoded>&lt;p&gt;This sentence in a package description is always great...&lt;/p&gt;
+&lt;blockquote&gt;
+You probably don't need it if you don't understand what this is all about.
+&lt;/blockquote&gt;
+&lt;p&gt;Brought to you today by &lt;a href=&quot;http://packages.debian.org/unstable/admin/nut-snmp&quot;&gt;nut-snmp&lt;/a&gt; but can be found in many other packages.&lt;/p&gt;</content:encoded>
+	<dc:date>2008-02-29T00:37:06+00:00</dc:date>
+</item>
+<item rdf:about="http://ironpython-urls.blogspot.com/2008/02/dlrscript-use-dlr-based-languages-in.html">
+	<title>IronPython-URLs: DLRScript: use DLR-based languages in the Script tag of a normal HTML Page</title>
+	<link>http://ironpython-urls.blogspot.com/2008/02/dlrscript-use-dlr-based-languages-in.html</link>
+	<content:encoded>An intriguing new project has just surfaced on Codeplex:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.codeplex.com/DLRScript&quot;&gt;DLRScript&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;DLRScript is a SilverLight 2.0 sample using the DLR. It lets you use DLR-based languages in the Script tag of a normal HTML (or .aspx, or .jsp or .php, etc.) page.&lt;br /&gt;&lt;br /&gt;This is an alpha and should work with the Silverlight 1.1 alpha, but is aimed at Silverlight 2 - due to be released (well - a beta anyway) at Mix 2008 shortly. So far it only works with IronPython, but is intended to work with all the DLR languages. It allows you to include scripts (marked with DLRScript) in webpages using Python!</content:encoded>
+	<dc:date>2008-02-29T00:02:00+00:00</dc:date>
+</item>
+<item rdf:about="http://ironpython-urls.blogspot.com/2008/02/twining-ironpython-dsl-for-database.html">
+	<title>IronPython-URLs: Twining: IronPython DSL for Database Update III - Plus Other Incidentals</title>
+	<link>http://ironpython-urls.blogspot.com/2008/02/twining-ironpython-dsl-for-database.html</link>
+	<content:encoded>MetaDeveloper continues his exploration of IronPython with an update to his DSL for working with databased:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://metadeveloper.blogspot.com/2008/02/twining-iron-python-dsl-for-db-update.html&quot;&gt;Twining: IronPython DSL for Databases Update III&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Unfortunately Peter Seale includes IronPython in his &lt;a href=&quot;http://www.pseale.com/blog/CommentView,guid,f1e83f49-2f95-41f9-b0fb-67f61db1a911.aspx&quot;&gt;list of things that he &lt;span&gt;won't&lt;/span&gt; be learning&lt;/a&gt;!&lt;br /&gt;&lt;br /&gt;Mark Ramm has written an interesting entry on the &lt;a href=&quot;http://compoundthinking.com/blog/index.php/2008/02/27/jvm-as-platform-for-dynamic-languages/&quot;&gt;JVM as a Platform for Dynamic Languages&lt;/a&gt; which is relevant to IronPython. An interesting debate in the comments follows.&lt;br /&gt;&lt;br /&gt;I've also found an interesting link from late last year that I don't think I've posted before: on &lt;a href=&quot;http://www.izume.com/2007/10/13/integrating-ironpython-with-visual-studio-2005&quot;&gt;integrating IronPython with Visual Studio 2005&lt;/a&gt;.&lt;span&gt;&lt;/span&gt;</content:encoded>
+	<dc:date>2008-02-28T23:00:00+00:00</dc:date>
+</item>
+<item rdf:about="http://www.willmcgugan.com/2008/02/28/practicality-versus-purity-for-python-templates/">
+	<title>Will McGugan: Practicality versus Purity for Python Templates</title>
+	<link>http://www.willmcgugan.com/2008/02/28/practicality-versus-purity-for-python-templates/</link>
+	<content:encoded>&lt;p&gt;There are a number of very powerful template languages available in Python. Some template languages, such as &lt;a href=&quot;http://genshi.edgewall.org/&quot;&gt;Genshi&lt;/a&gt;, allow complex Python statements and even full Python code within the template file. Others, such as &lt;a href=&quot;http://www.djangoproject.com/&quot;&gt;Django&lt;/a&gt; templates, prefer to restrict templates to presentation only and do not allow general Python expressions within the body of the template.&lt;/p&gt;
+&lt;p&gt;In the context of a web framework, &lt;a href=&quot;http://www.becontrary.com/debates/practicality_versus_purity_in_python_templates&quot;&gt;is it better to have the full expressiveness of Python, or restrict templates to presentation only?&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2008-02-28T19:40:15+00:00</dc:date>
+</item>
+<item rdf:about="http://pyre.third-bit.com/blog/archives/1403.html">
+	<title>Greg Wilson: Research Showcase 2008</title>
+	<link>http://pyre.third-bit.com/blog/archives/1403.html</link>
+	<content:encoded>&lt;p&gt;The &lt;a href=&quot;http://www.cs.toronto.edu&quot;&gt;Department of Computer Science&lt;/a&gt; is holding its second annual research showcase next week; the lineup is pretty impressive:&lt;/p&gt;
+
+&lt;li&gt;Automated Protein Crystallography (Prof. Igor Jurisica, UHN Research Associate Christian A. Cumbaa)&lt;/li&gt;
+&lt;li&gt;Searching the Sky (Prof. Sam Roweis, Graduate Student Dustin Lang)&lt;/li&gt;
+&lt;li&gt;ShapeShop (Prof. Karan Singh, Prof. Ravin Balakrishnan, Graduate Student Ryan Schmidt)&lt;/li&gt;
+&lt;li&gt;Snowflock: Virtual Machine Framework for Parallel and Data-Intensive Computing (Prof. Eyal de Lara, Prof. Michael Brudno, Graduate Students H. Andrés Lagar Cavilla and Joe Whitney)&lt;/li&gt;
+&lt;li&gt;Rethinking Access Control with Social Networks (Prof. Yashar Ganjali, Prof. Stefan Saroiu, Graduate Student Amin Tootoonchian)&lt;/li&gt;
+&lt;li&gt;A Content Delivery System for Bluetooth (Prof. Stefan Saroiu, Graduate Student Tim Smith)&lt;/li&gt;
+&lt;li&gt;Technology to Support Cognition and Combat Memory Impairments (Prof. Ron Baecker, FIS Graduate Student Karen Louise Smith, Political Science Undergraduate Masashi C. Nishihata)&lt;/li&gt;
+&lt;li&gt;All Optical Networks: Networking With Tiny Buffers (Prof. Yashar Ganjali, Graduate Students Monia Ghobadi and Geoff Salmon)&lt;/li&gt;
+&lt;li&gt;Computational Analysis of Ice Hockey Gameplay (Prof. Ryan Lilien, Undergraduate Alumnus Mansoor Siddiqui)&lt;/li&gt;
+&lt;li&gt;Interactive Preference Elicitation (Prof. Craig Boutilier, Graduate Student Darius Braziunas)&lt;/li&gt;
+&lt;li&gt;Novel Interfaces for Molecular Visualization (Prof. Ryan Lilien, Graduate Student Christian Muise)&lt;/li&gt;
+&lt;li&gt;Personalized Search With Provably Good Properties (Prof. Allan Borodin, Post Doctoral Fellow Hyun Chul Lee)&lt;/li&gt;
+&lt;li&gt;Pursuing the Netflix Prize: Large-Scale Collaborative Filtering (Prof. Geoff Hinton, Graduate Students Andriy Mnih and Ruslan Salakhutdinov)&lt;/li&gt;
+&lt;li&gt;Speech Summarization (Prof. Gerald Penn, Graduate Students Xiaodan Zhu, Cosmin Munteanu and Siavash Kazemian)&lt;/li&gt;
+&lt;li&gt;Building Software With Traceability (Prof. Dave Wortman, Graduate Student Arbi Ghazarian)&lt;/li&gt;
+&lt;li&gt;Model Management With TReMer+ (Prof. Marsha Chechik, Prof. Steve Easterbrook, Graduate Students Mehrdad Sabetzadeh and Shiva Nejati)&lt;/li&gt;
+&lt;li&gt;The Vocal Village Number Pad Client (Prof. Mark Chignell, MIE Graduate Students Annie Xu and Flora Wan)&lt;/li&gt;
+&lt;li&gt;Understanding Language Through Interactive Visualization (Prof. Gerald Penn, Graduate Student Christopher Collins)&lt;/li&gt;
+&lt;li&gt;Interactive Performance Control: A New Puppetry of Real and Virtual Robots (Prof. Eugene Fiume, Graduate Student Joe Laszlo)&lt;/li&gt;
+&lt;li&gt;Online Music Recommendation and the Problem of Missing Ratings (Prof. Sam Roweis, Prof. Rich Zemel, Graduate Student Benjamin Marlin)&lt;/li&gt;</content:encoded>
+	<dc:date>2008-02-28T15:03:07+00:00</dc:date>
+</item>
+<item rdf:about="http://radian.org/notebook/surround-stereotypes">
+	<title>ivan krstić · code culture: Surround sound stereotypes</title>
+	<link>http://radian.org/notebook/surround-stereotypes</link>
+	<content:encoded>&lt;p&gt;I took a cab from the &lt;a href=&quot;http://radian.org/notebook/serious-business&quot;&gt;Ministry of Education&lt;/a&gt; to the airport yesterday. As I got in, my Peruvian cabbie looked at me, and with a strong accent, asked simply &amp;#8220;European?&amp;#8221;&lt;/p&gt;
+&lt;p&gt;I nodded my head in assent.&lt;/p&gt;
+&lt;p&gt;With no further questions, he stopped the Latin pop CD he had playing, put in one of &lt;a href=&quot;http://en.wikipedia.org/wiki/Armin_van_Buuren&quot;&gt;Armin van Buuren&amp;#8217;s&lt;/a&gt; trance mixes, and cranked up the volume.&lt;/p&gt;</content:encoded>
+	<dc:date>2008-02-28T12:40:01+00:00</dc:date>
+</item>
+<item rdf:about="http://pycon.blogspot.com/2008/02/tips-for-great-conference.html">
+	<title>PyCon: Tips for a great conference</title>
+	<link>http://pycon.blogspot.com/2008/02/tips-for-great-conference.html</link>
+	<content:encoded>I recommend this article from the &quot;My Bad Habits&quot; blog: &lt;a href=&quot;http://my-bad-habits.blogspot.com/2008/02/good-conferencing-habits-or-how-i.html&quot;&gt;Good Conferencing Habits: Or, How I Learned to Have Fun and Still Get Some Sleep&lt;/a&gt;.</content:encoded>
+	<dc:date>2008-02-28T09:31:27+00:00</dc:date>
+</item>
+<item rdf:about="http://www.philhassey.com/blog/2008/02/28/tinypy-10-mit-license-and-swell-opengl-demo/">
+	<title>Phil Hassey: tinypy 1.0 - MIT License and swell OpenGL demo :)</title>
+	<link>http://www.philhassey.com/blog/2008/02/28/tinypy-10-mit-license-and-swell-opengl-demo/</link>
+	<content:encoded>&lt;p&gt;Its been a long two months getting this project to the 1.0 state.  Here it is:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.philhassey.com/blog/wp-content/uploads/2008/02/tinypy1.zip&quot; title=&quot;tinypy1.zip&quot;&gt;tinypy1.zip&lt;/a&gt; | &lt;a href=&quot;http://www.philhassey.com/blog/wp-content/uploads/2008/02/tinypy.tgz&quot; title=&quot;tinypy.tgz&quot;&gt;tinypy.tgz&lt;/a&gt; | svn://www.imitationpickles.org/tinypy/tags/1.0.0&lt;/p&gt;
+&lt;p&gt;$ python build.py&lt;br /&gt;
+$ ./tinypy-sdl julia.py *&lt;br /&gt;
+$ ./tinypy your-program-goes-here.py&lt;/p&gt;
+&lt;p&gt;The win32.zip includes the tinypy.exe and tinypy-sdl.exe binaries, so you can skip the building process.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.philhassey.com/blog/wp-content/uploads/2008/02/tp-mandel.png&quot; title=&quot;tp-mandel.png&quot;&gt;&lt;img src=&quot;http://www.philhassey.com/blog/wp-content/uploads/2008/02/tp-mandel.thumbnail.png&quot; alt=&quot;tp-mandel.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Features include the ability to parse and compile to bytecode a pretty decent subset of python code. Its got a pretty simple API, incremental garbage collection, and a handful of builtin functions. The vm supports strings, dicts, lists, numbers, functions, methods, and custom data types. tinypy even has exotic features like list comprehensions, variable and named function arguments, inheritance, and exceptions with tracebacks. All this in just 64k** of code!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.philhassey.com/blog/wp-content/uploads/2008/02/ld105-philshot.png&quot; title=&quot;ld105-philshot.png&quot;&gt;&lt;img src=&quot;http://www.philhassey.com/blog/wp-content/uploads/2008/02/ld105-philshot.thumbnail.png&quot; alt=&quot;ld105-philshot.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also had some fun this past weekend testing tinypy &amp;#8220;in the field&amp;#8221; making an OpenGL tetris knock-off. My apologies to Alexey Pajitnov for my &lt;a href=&quot;http://slashdot.org/articles/08/02/26/1859249.shtml&quot;&gt;misguided&lt;/a&gt; contribution of tinypy to the open source stack.  &lt;a href=&quot;http://www.imitationpickles.org/tmp/ld105-philhassey.zip&quot;&gt;win32.zip&lt;/a&gt; | svn://www.imitationpickles.org/ld105/trunk&lt;/p&gt;
+&lt;p&gt;I hope you enjoy checking out tinypy - I&amp;#8217;ve had a pretty wild ride building it.&lt;/p&gt;
+&lt;p&gt;*julia.py included is a low-res &amp;#8220;realtime&amp;#8221; jula fractal demo.  I felt like rendering a mandelbrot for this article.&lt;/p&gt;
+&lt;p&gt;**See README.txt for my definition of 64k.  It&amp;#8217;s close enough.&lt;/p&gt;
+
+&lt;span class=&quot;slashdigglicious&quot;&gt;
+&lt;a href=&quot;http://slashdot.org/bookmark.pl?url=http%3A%2F%2Fwww.philhassey.com%2Fblog%2F2008%2F02%2F28%2Ftinypy-10-mit-license-and-swell-opengl-demo%2F&amp;amp;title=tinypy+1.0+-+MIT+License+and+swell+OpenGL+demo+%3A%29&quot; title=&quot;Slashdot It!&quot;&gt;&lt;img src=&quot;http://slashdot.org/favicon.ico&quot; height=&quot;16&quot; width=&quot;16&quot; alt=&quot;[Slashdot]&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://digg.com/submit?phase=2&amp;amp;url=http%3A%2F%2Fwww.philhassey.com%2Fblog%2F2008%2F02%2F28%2Ftinypy-10-mit-license-and-swell-opengl-demo%2F&amp;amp;title=tinypy+1.0+-+MIT+License+and+swell+OpenGL+demo+%3A%29&quot; title=&quot;Digg This Story&quot;&gt;&lt;img src=&quot;http://digg.com/favicon.ico&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;[Digg]&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://reddit.com/submit?url=http%3A%2F%2Fwww.philhassey.com%2Fblog%2F2008%2F02%2F28%2Ftinypy-10-mit-license-and-swell-opengl-demo%2F&amp;amp;title=tinypy+1.0+-+MIT+License+and+swell+OpenGL+demo+%3A%29&quot; title=&quot;Reddit&quot;&gt;&lt;img src=&quot;http://reddit.com/favicon.ico&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;[Reddit]&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://del.icio.us/post?url=http%3A%2F%2Fwww.philhassey.com%2Fblog%2F2008%2F02%2F28%2Ftinypy-10-mit-license-and-swell-opengl-demo%2F&amp;amp;title=tinypy+1.0+-+MIT+License+and+swell+OpenGL+demo+%3A%29&quot; title=&quot;Save to del.icio.us&quot;&gt;&lt;img src=&quot;http://del.icio.us/favicon.ico&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;[del.icio.us]&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.philhassey.com%2Fblog%2F2008%2F02%2F28%2Ftinypy-10-mit-license-and-swell-opengl-demo%2F&quot; title=&quot;Share on Facebook&quot;&gt;&lt;img src=&quot;http://www.facebook.com/favicon.ico&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;[Facebook]&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://technorati.com/faves?add=http%3A%2F%2Fwww.philhassey.com%2Fblog%2F2008%2F02%2F28%2Ftinypy-10-mit-license-and-swell-opengl-demo%2F&quot; title=&quot;Add to my Technorati Favorites&quot;&gt;&lt;img src=&quot;http://technorati.com/favicon.ico&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;[Technorati]&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.google.com/bookmarks/mark?op=edit&amp;amp;output=popup&amp;amp;bkmk=http%3A%2F%2Fwww.philhassey.com%2Fblog%2F2008%2F02%2F28%2Ftinypy-10-mit-license-and-swell-opengl-demo%2F&amp;amp;title=tinypy+1.0+-+MIT+License+and+swell+OpenGL+demo+%3A%29&quot; title=&quot;Save to Google Bookmarks&quot;&gt;&lt;img src=&quot;http://www.google.com/favicon.ico&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;[Google]&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.philhassey.com%2Fblog%2F2008%2F02%2F28%2Ftinypy-10-mit-license-and-swell-opengl-demo%2F&amp;amp;title=tinypy+1.0+-+MIT+License+and+swell+OpenGL+demo+%3A%29&quot; title=&quot;Stumble it!&quot;&gt;&lt;img src=&quot;http://www.stumbleupon.com/favicon.ico&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;[StumbleUpon]&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;</content:encoded>
+	<dc:date>2008-02-28T08:26:37+00:00</dc:date>
+</item>
+<item rdf:about="http://blog.delaguardia.com.mx/index.php?op=ViewArticle&amp;articleId=103&amp;blogId=1">
+	<title>Carlos de la Guardia: Plone gives you 105%</title>
+	<link>http://blog.delaguardia.com.mx/index.php?op=ViewArticle&amp;articleId=103&amp;blogId=1</link>
+	<content:encoded>&lt;p&gt;You often hear sports figures talking about giving a 110 per cent effort for some important game, but Plone walks the talk. Witness the following screen capture, which is proof that Plone coaxed at least one machine into giving this seemingly impossible effort.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;http://blog.delaguardia.com.mx/resserver.php?blogId=1&amp;amp;resource=Screenshot.png&quot; alt=&quot;Plone gives you 105%&quot; /&gt;&lt;/p&gt;&lt;p&gt;Who says that Plone can't perform?&lt;/p&gt;&lt;br /&gt;</content:encoded>
+	<dc:date>2008-02-28T06:59:24+00:00</dc:date>
+</item>
+<item rdf:about="http://www.mechanicalcat.net/richard/log/Python/Language_metrics_from_ohloh">
+	<title>Richard Jones' Log: Python: Language metrics from ohloh</title>
+	<link>http://www.mechanicalcat.net/richard/log/Python/Language_metrics_from_ohloh</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;http://www.ohloh.net/&quot;&gt;ohloh&lt;/a&gt; tracks open-source projects and amongst other things has a neat set of tools that allow you to compare languages, projects, etc.&lt;/p&gt;
+&lt;p&gt;You can look at the relative number of commits to projects for &lt;a href=&quot;http://www.ohloh.net/languages/compare?measure=commits&amp;amp;percent=&amp;amp;l0=-1&amp;amp;l1=cncpp&amp;amp;l2=java&amp;amp;l3=perl&amp;amp;l4=php&amp;amp;l5=python&amp;amp;l6=ruby&quot;&gt;Python, Perl, Ruby and PHP with C/C++ and Java&lt;/a&gt; or just &lt;a href=&quot;http://www.ohloh.net/languages/compare?measure=commits&amp;amp;percent=&amp;amp;l0=php&amp;amp;l1=python&amp;amp;l2=ruby&amp;amp;l3=perl&quot;&gt;just Python, Perl, Ruby and PHP&lt;/a&gt;. Python's doing pretty well with a popularity about the same as PHP. Also quite interesting are the plots of contributors and active projects (Java and C/C++ in decline). Then there's the huge dive in C/C++ commits in the last 6 months as seen in the plot of the number of commits per language.&lt;/p&gt;
+&lt;p&gt;Interestingly C# (about the same popularity as Perl or Ruby) hasn't made nearly the same splash in open-source as Java did.&lt;/p&gt;
+&lt;p&gt;Via the &lt;a href=&quot;http://www.ohloh.net/languages/9&quot;&gt;Python language statistics page&lt;/a&gt; you can also find out that Fred Drake is apparently the most experienced contributor of Python code. I'm not sure how they calculate that one since I'm listed as the 7th most experienced Python contributor but there's got to be others with more - Guido for example ;). The Recently Active Contributors list is also interesting to find out about active Python-based projects.&lt;/p&gt;</content:encoded>
+	<dc:date>2008-02-27T23:32:28+00:00</dc:date>
+</item>
+<item rdf:about="http://base-art.net/Articles/97/">
+	<title>Base-Art / Articles: Hi Planet GNOME!</title>
+	<link>http://base-art.net/Articles/97/</link>
+	<content:encoded>&lt;p&gt;Just a quick post to say hi to the &lt;a class=&quot;reference&quot; href=&quot;http://planet.gnome.org&quot;&gt;GNOME community&lt;/a&gt;. Thanks Jeff for adding me!&lt;/p&gt;
+&lt;p&gt;So I'm Philippe (philn on IRC), working for Fluendo on the &lt;a class=&quot;reference&quot; href=&quot;http://elisa.fluendo.com&quot;&gt;Elisa&lt;/a&gt;
+MediaCenter, writing Python fluently during work hours for fun and
+profit and off work, only for fun :)&lt;/p&gt;
+&lt;p&gt;I regularly write news about &lt;a class=&quot;reference&quot; href=&quot;http://elisa.fluendo.com&quot;&gt;Elisa&lt;/a&gt;, did some posts about &lt;a class=&quot;reference&quot; href=&quot;https://code.fluendo.com/pigment/trac/timeline&quot;&gt;Pigment&lt;/a&gt;
+and &lt;a class=&quot;reference&quot; href=&quot;http://gstreamer.freedesktop.org&quot;&gt;GStreamer&lt;/a&gt; too and a good bunch of posts related to various
+hacks and ramblings about Python.&lt;/p&gt;
+&lt;p&gt;So expect new posts about Pigment and Elisa towards better
+integration in the GNOME desktop. I'll also try to blog about my
+little growing experience in the GStreamer world :)&lt;/p&gt;</content:encoded>
+	<dc:date>2008-02-27T22:49:37+00:00</dc:date>
+</item>
+<item rdf:about="http://jtauber.com/blog/2008/02/27/google_summer_of_code_2008/">
+	<title>James Tauber: Google Summer of Code 2008</title>
+	<link>http://jtauber.com/blog/2008/02/27/google_summer_of_code_2008/</link>
+	<content:encoded>&lt;p&gt;Well, the &lt;a class=&quot;external&quot; href=&quot;http://code.google.com/soc/&quot;&gt;Google Summer of Code&lt;/a&gt; is on again and the Python Software Foundation have asked me to coordinate for the second year (mustn't have screwed up enough last year :-)
+&lt;/p&gt;
+&lt;p&gt;
+It's early days (the organizations involved haven't even been picked yet) but if you are interested in participating in a Python project, either as a mentor or student, you should check out both the &lt;a class=&quot;external&quot; href=&quot;http://code.google.com/soc/&quot;&gt;official Google page&lt;/a&gt; and the &lt;a class=&quot;external&quot; href=&quot;http://wiki.python.org/moin/SummerOfCode&quot;&gt;SummerOfCode page on the Python wiki&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+You should also join the &lt;a class=&quot;external&quot; href=&quot;http://mail.python.org/mailman/listinfo/soc2008-general&quot;&gt;soc2008-general mailing list&lt;/a&gt;.
+&lt;/p&gt;</content:encoded>
+	<dc:date>2008-02-27T21:51:14+00:00</dc:date>
+</item>
+<item rdf:about="http://www.protocolostomy.com/2008/02/27/diving-into-django/">
+	<title>Brian Jones: Diving into Django</title>
+	<link>http://www.protocolostomy.com/2008/02/27/diving-into-django/</link>
+	<content:encoded>&lt;p&gt;Yeah, so&amp;#8230; &lt;a href=&quot;http://blog.doughellmann.com/&quot;&gt;Doug&lt;/a&gt; said if I was looking to make friends with Python for anything other than systems work, I should probably have a look at Django. Then I found &lt;a href=&quot;http://www.hoboes.com/Mimsy/?ART=627&quot;&gt;this&lt;/a&gt; install on OS X guide the other day, and went ahead and downloaded Django. About 15 minutes later, I was looking at the &amp;#8220;It worked!&amp;#8221; page. Nice.&lt;/p&gt;
+&lt;p&gt;One big win for me here is that I can do dev work on Django with just&amp;#8230; Django. I don&amp;#8217;t have to configure mod_python and apache and mysql and generally play sysadmin on my laptop to get work done. The thing comes with a simple web server meant strictly for development, and it&amp;#8217;ll use sqlite as a database for development as well.&lt;/p&gt;
+&lt;p&gt;That bit about sqlite had me slightly concerned at first, because I thought I was going to have to recode parts of whatever I produced to work with MySQL or PostgreSQL when I was ready to deploy it, but since your data model essentially lives in Django, and not the database, I&amp;#8217;m told it&amp;#8217;s trivial to move Django to another box, point it at a different database, and tell it to go create the existing data model there.&lt;/p&gt;
+&lt;p&gt;I just don&amp;#8217;t think it gets a whole lot easier than this to get started, and I think for lots of people, myself included, that&amp;#8217;s always the hardest part. I don&amp;#8217;t know if I&amp;#8217;ll like Django enough to use it in production &amp;#8212; it&amp;#8217;s just too early to tell &amp;#8212; but I love the way this has been packaged to make it easy to get going.&lt;/p&gt;</content:encoded>
+	<dc:date>2008-02-27T21:21:44+00:00</dc:date>
+</item>
+<item rdf:about="http://www.protocolostomy.com/2008/02/27/got-a-new-iphone/">
+	<title>Brian Jones: Got a new iPhone</title>
+	<link>http://www.protocolostomy.com/2008/02/27/got-a-new-iphone/</link>
+	<content:encoded>&lt;p&gt;Yeah, I dove into the iPhone after seeing Steve Jobs&amp;#8217;s keynote where he talked about all of the new features. When I first saw the iPhone, I had &lt;a href=&quot;http://www.protocolostomy.com/2007/01/10/the-iphone-compromise/&quot;&gt;no real interest&lt;/a&gt; in it, because I didn&amp;#8217;t like the idea that the only apps I could use were those deemed worthy by Apple. I tend to like Apple&amp;#8217;s applications, but to pay all that money and have zero say in the matter seemed&amp;#8230; wrong.&lt;/p&gt;
+&lt;p&gt;So far, I have to say that I&amp;#8217;m really happy with the iPhone, thanks in large part to the ability to run some non-Apple applications. Those of you who have read my blog for some time will remember my whole crazy &lt;a href=&quot;http://www.protocolostomy.com/2007/03/02/time-management-for-this-system-administrator/&quot;&gt;time management setup&lt;/a&gt; post where I go over how I use Google Calendar and Remember The Milk and stuff. I don&amp;#8217;t yet have iCal on the iPhone syncing with my Google Calendar, but I do have Remember the Milk installed and running like a champ. I&amp;#8217;ll get around to the calendar stuff soon and let you know if I hit any snags.&lt;/p&gt;
+&lt;p&gt;The email application works just the way I want it to, which is to say I can get it to alert me to new messages just like &lt;a href=&quot;http://www.protocolostomy.com/2004/11/11/my-new-blackberry-7290/&quot;&gt;my old Blackberry&lt;/a&gt; did - with a subtle vibrate+tone. The great new thing about the new iPhone email application is that I can use IMAP with GMail instead of being forced to have a Yahooo! account to take advantage of this feature. Far as I can tell, you can use the IMAP feature with whatever IMAP server you want. I&amp;#8217;ve already used three different servers, including GMail.&lt;/p&gt;
+&lt;p&gt;The phone functionality of the iPhone are, to be honest, nothing to get excited about. The interface features are kinda nice. It&amp;#8217;s easy to use speakerphone and add contacts and stuff, but aside from this really &lt;a href=&quot;http://www.hackszine.com/blog/archive/2008/02/iphone_webclip_speed_dial.html?CMP=OTC-7G2N43923558&quot;&gt;cool hack&lt;/a&gt; I found (and use), there&amp;#8217;s no way to do &amp;#8217;speed dial&amp;#8217; that I can find. In addition, I think the iPhone is probably the only phone on the market to *not* have voice commands &amp;#8212; so you can&amp;#8217;t rely on a bluetooth headset for complete hands-free operation of your iPhone while driving. This is *really* bad for me because starting Saturday, New Jersey will start enforcing the &amp;#8216;no handhelds while driving&amp;#8217; law. No more warnings. If you get caught now, it&amp;#8217;s $100 fine.&lt;/p&gt;
+&lt;p&gt;Yeah - I live in New Jersey. We all have to live somewhere :-/&lt;/p&gt;
+&lt;p&gt;So&amp;#8230; has anyone done any Python coding on/for the iPhone? If it&amp;#8217;s running OS X, it should be there, right? Let me know if you&amp;#8217;re doing anything cool with it - I&amp;#8217;d love to see a writeup in &lt;a href=&quot;http://pythonmagazine.com&quot;&gt;Python Magazine&lt;/a&gt; about it.&lt;/p&gt;</content:encoded>
+	<dc:date>2008-02-27T21:13:07+00:00</dc:date>
+</item>
+
+</rdf:RDF>

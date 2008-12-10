@@ -1,0 +1,221 @@
+<%inherit file="pydotorg.tmpl"/>
+ 
+<%def name="content()">
+        ## XXX should set breadcrumbs to empty here
+
+        <h1 class="pageheading">${title}</h1>
+	<div id="homepage-boxes">
+          <div class="homepage-box success">
+            <h4>NASA uses Python...</h4>
+            <a href="/about/success/usa">
+              <img class="success" alt="success story photo" 
+                src="/images/success/nasa.jpg" /></a>
+	      <p>... so does <a class="reference" href="about/success/rackspace">Rackspace</a>,
+	      <a class="reference" href="about/success/ilm">Industrial Light and Magic</a>,
+	      <a class="reference" href="about/success/astra">AstraZeneca</a>,
+	      <a class="reference" href="about/success/honeywell">Honeywell</a>,
+	      <a class="reference" href="about/success">and many others</a>.</p>
+          </div>
+
+
+	  <div class="homepage-box">
+	    <h4>Using Python For...</h4>
+	    <ul>
+	      %for link, sublinks in using:
+		<li class="group">${link.as_html()}</li>
+		%if sublinks:
+		  <li>
+		  %for sublink, children in sublinks[:-1]:
+		    ${sublink.as_html()}, 
+		  %endfor
+		  <% sublink, children = sublinks[-1] %>
+		  ${sublink.as_html()}
+		  </li>
+		%endif
+	      %endfor
+	    </ul>
+	    <a href="/about/apps" class="more">more...</a>      
+	  </div>
+	</div>
+
+        <div id="intro">
+          ${parent.content()}
+        </div>
+
+</%def>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>${title}</title>
+  <meta name="keywords" content="${keywords | entity}" />
+  <meta name="description" content="${description | entity}" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.python.org/channews.rdf" />
+  <link rel="stylesheet" type="text/css" media="screen" id="screen-switcher-stylesheet" href="/styles/screen-switcher-default.css" />
+  <link rel="stylesheet" type="text/css" media="sc&#82;een" href="/styles/netscape4.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/styles/print.css" />
+  <link rel="alternate stylesheet" type="text/css" media="screen" href="/styles/largestyles.css" title="large text" />
+  <link rel="alternate stylesheet" type="text/css" media="screen" href="/styles/defaultfonts.css" title="default fonts" />
+  <script type="text/javascript" src="/js/iotbs2-key-directors-load.js"></script>
+  <script type="text/javascript" src="/js/iotbs2-directors.js"></script>
+  <script type="text/javascript" src="/js/iotbs2-core.js"></script> 
+
+  %for js_url in javascript:
+    <script type="text/javascript" src="${js_url}"></script>
+  %endfor
+</head>
+
+<body>
+  <!-- Logo -->
+  <h1 id="logoheader">
+    <a href="/" id="logolink" accesskey="1"><img id="logo" src="/images/python-logo.gif" alt="homepage" border="0" /></a>
+  </h1>
+  <!-- Skip to Navigation -->
+  <div class="skiptonav"><a href="#left-hand-navigation" accesskey="2"><img src="/images/trans.gif" id="skiptonav" alt="skip to navigation" border="0" /></a></div>
+  <div class="skiptonav"><a href="#content-body" accesskey="3"><img src="/images/trans.gif" id="skiptocontent" alt="skip to content" border="0" /></a></div>
+  <!-- Utility Menu -->
+  <div id="utility-menu">
+    <!-- Search Box -->
+    <div id="searchbox">
+      <form method="get" action="http://google.com/search" id="searchform" name="searchform">
+        <div id="search">
+          <input type="hidden" id="domains" name="domains" value="www.python.org" />
+          <input type="hidden" id="sitesearch" name="sitesearch" value="www.python.org" />
+          <input type="hidden" id="sourceid" name="sourceid" value="google-search" />
+          <input type="text" class="input-text" name="q" id="q" />
+          <input type="submit" value="search" class="input-button" name="submit" id="submit" />
+          <a href="/search" class="reference">Advanced Search</a>
+        </div>
+      </form>
+    </div>
+    <div id="screen-switcher"></div>
+  </div>
+
+  <div id="left-hand-navigation">
+    <!-- Main Menu -->
+    <div id="menu">
+      <ul class="level-one">
+        %for link_1, level2_links in nav:
+          %if link_1.selected:
+            <li class="selected">
+          %else:
+            <li>
+          %endif
+          ${link_1.as_html()}
+          %if level2_links:
+	    <ul class="level-two">
+	    %for link_2, level3_links in level2_links:
+	      %if link_2.selected:
+		<li class="selected">
+	      %else:
+		<li>
+	      %endif
+	      ${link_2.as_html()}
+	      %if level3_links:
+		<ul class="level-three">
+		%for link_3, unused_links in level3_links:
+		  <li>${link_3.as_html()}</li>
+		%endfor
+		</ul>
+	      %endif
+              </li>
+	    %endfor
+	    </ul>
+          %endif
+        </li>
+        %endfor
+      </ul>
+    </div>
+    
+    <!-- Quick Links -->
+    %for link_1, level2_links in quicklinks:
+      <h4>${link_1.as_html()}</h4>
+
+      %if level2_links:
+	<ul class="quicklinks">
+	%for link_2, level3_links in level2_links:
+	  <li>${link_2.as_html()}</li>
+	%endfor
+	</ul>
+      %endif
+    %endfor
+  </div>
+
+  <div id="content-body">
+    <div id="body-main">
+      <div id="content">
+        <h1 class="pageheading">${title}</h1>
+	<div id="homepage-boxes">
+          <div class="homepage-box success">
+            <h4>NASA uses Python...</h4>
+            <a href="/about/success/usa">
+              <img class="success" alt="success story photo" 
+                src="/images/success/nasa.jpg" /></a>
+	      <p>... so does <a class="reference" href="about/success/rackspace">Rackspace</a>,
+	      <a class="reference" href="about/success/ilm">Industrial Light and Magic</a>,
+	      <a class="reference" href="about/success/astra">AstraZeneca</a>,
+	      <a class="reference" href="about/success/honeywell">Honeywell</a>,
+	      <a class="reference" href="about/success">and many others</a>.</p>
+          </div>
+
+          <% quotes = rss('quotes') %>
+          %if quotes:
+	    <div id="quote" class="homepage-box">
+	      <% quote = random(quotes) %>
+	      <h4>What they are saying...</h4>
+	      <div>
+                <b>${quote['title']}:</b><br />
+                ${quote['description']}
+              </div>
+	      <a href="/about/quotes" class="more" title="more quotes">more...</a>      
+	    </div>
+          %endif
+
+  <div class="homepage-box">
+    <h4>Using Python For...</h4>
+    <ul>
+      %for link, sublinks in using:
+	<li class="group">${link.as_html()}</li>
+	%if sublinks:
+	  <li>
+	  %for sublink, children in sublinks[:-1]:
+	    ${sublink.as_html()}, 
+	  %endfor
+          <% sublink, children = sublinks[-1] %>
+          ${sublink.as_html()}
+	  </li>
+	%endif
+      %endfor
+    </ul>
+    <a href="/about/apps" class="more">more...</a>      
+  </div>
+	</div>
+
+        <div id="intro">
+        ${text}
+        </div>
+        <div class="content-section">
+            <div id="newsindex" class="news-section">
+            <% news_items = read_news() %>
+            %for item in news_items[:5]:
+              <h2 class="news">${item['title']}</h2>
+  	        ${item['description']}
+              <div class="pubdate">Published: ${item['pubDate']}</div>
+            %endfor
+            [ <a href="/channews.rdf">RSS</a> ]
+        </div>
+      </div>
+      <div id="footer">
+	<div id="credits">
+ 	  <a href="/about/website">Website maintained by the Python community</a><br/>
+	  <a href="http://www.xs4all.com/" title="Web and email hosting provided by xs4all, Netherlands">hosting by xs4all</a> / 
+	  <a href="http://www.pollenation.net/" title="Design and content management system by Pollenation Internet, Yorkshire">design by pollenation</a>
+	</div>
+	Copyright &copy; 1990-2008, <a href='/psf'>Python Software Foundation</a><br/>
+	<a href="/about/legal">Legal Statements</a>
+  
+      </div>
+    </div>
+  </div>
+</body>
+</html>

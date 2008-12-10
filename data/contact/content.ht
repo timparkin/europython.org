@@ -1,0 +1,31 @@
+Title: Contacting Us
+Content-type: text/x-rst
+
+Contacting Us
+===============
+
+To report errors or shortcomings in Python's documentation,
+write to `docs@python.org <mailto:docs@python.org>`_
+
+To report problems with the python.org site (errors, broken links, 
+and typos) or to make suggestions about the material on python.org, 
+write to `webmaster@python.org <mailto:webmaster@python.org>`_.
+
+If you have a question about Python programming, post it to the
+`comp.lang.python newsgroup <community/lists.html#comp.lang.python>`_,
+a high-traffic forum for general discussions and questions about
+Python.  
+
+If you are learning how to program, join `the tutor mailing list
+<http://mail.python.org/mailman/listinfo/tutor>`_, a list especially
+for beginners.  
+
+Programming questions can also be sent to `help@python.org
+<mailto:help@python.org>`_, which is staffed by a group of volunteers
+who will provide brief answers to questions.
+
+Other mailing lists and newsgroups may also be helpful; see
+`the guide to Python mailing lists <community/lists.html>`_ for a list
+of available forums.
+
+

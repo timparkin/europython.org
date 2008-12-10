@@ -1,0 +1,8946 @@
+(dp1
+S''
+((((i__main__
+Link
+(dp2
+S'href'
+p3
+S'/about/'
+p4
+sS'link_text'
+p5
+S'About'
+p6
+sS'selected'
+p7
+I00
+sS'title'
+p8
+S'About The Python Language'
+p9
+sb(tt((i__main__
+Link
+(dp10
+g3
+S'/news/'
+p11
+sg5
+S'News'
+p12
+sg7
+I00
+sg8
+S'Major Happenings Within the Python Community'
+p13
+sb(tt((i__main__
+Link
+(dp14
+g3
+S'/doc/'
+p15
+sg5
+S'Documentation'
+p16
+sg7
+I00
+sg8
+S'Tutorials, Library Reference, C API'
+p17
+sb(tt((i__main__
+Link
+(dp18
+g3
+S'/download/'
+p19
+sg5
+S'Download'
+p20
+sg7
+I00
+sg8
+S'Start Running Python Under Windows, Mac, Linux and Others'
+p21
+sb(tt((i__main__
+Link
+(dp22
+g3
+S'/community/'
+p23
+sg5
+S'Community'
+p24
+sg7
+I00
+sg8
+S'Mailing Lists, Jobs, Conferences, SIGs, Online Chats'
+p25
+sb(tt((i__main__
+Link
+(dp26
+g3
+S'/psf/'
+p27
+sg5
+S'Foundation'
+p28
+sg7
+I00
+sg8
+S'Python Software Foundation'
+p29
+sb(tt((i__main__
+Link
+(dp30
+g3
+S'/dev/'
+p31
+sg5
+S'Core Development'
+p32
+sg7
+I00
+sg8
+S'Development of the Python language and website'
+p33
+sb(tt((i__main__
+Link
+(dp34
+g3
+S'/links/'
+p35
+sg5
+S'Links'
+p36
+sg7
+I00
+sg8
+S'Pointers to Useful Information'
+p37
+sb(tttS'Python Programming Language -- Official Website'
+Ntp38
+sS'about/success/st-andrews'
+p39
+(NS'Python Success Stories'
+Ntp40
+sS'psf/press-release/pr20030923'
+p41
+(NS'Python Software Foundation: Press Release 23-Sep-2003'
+Ntp42
+sS'psf/wirexfer'
+p43
+(NS'Python Software Foundation: Wire Transfer Information'
+Ntp44
+sS'dev/peps/pep-0286'
+p45
+(NVPEP 286 -- Enhanced Argument Tuples
+Ntp46
+sS'dev/peps/pep-0287'
+p47
+(NVPEP 287 -- reStructuredText Docstring Format
+Ntp48
+sS'dev/peps/pep-0284'
+p49
+(NVPEP 284 -- Integer for-loops
+Ntp50
+sS'dev/peps/pep-0285'
+p51
+(NVPEP 285 -- Adding a bool type
+Ntp52
+sS'dev/peps/pep-0282'
+p53
+(NVPEP 282 -- A Logging System
+Ntp54
+sS'dev/peps/pep-0283'
+p55
+(NVPEP 283 -- Python 2.3 Release Schedule
+Ntp56
+sS'dev/peps/pep-0280'
+p57
+(NVPEP 280 -- Optimizing access to globals
+Ntp58
+sS'dev/peps/pep-0281'
+p59
+(NVPEP 281 -- Loop Counter Iteration with range and xrange
+Ntp60
+sS'download/releases/2.5.1/license'
+p61
+(NS'Python 2.5 license'
+S'License'
+p62
+tp63
+sS'download/releases/2.3.2/bugs'
+p64
+(NS'Bugs in Python 2.3.2'
+S'Bugs'
+p65
+tp66
+sS'dev/summary/2005-10-16_2005-10-31'
+p67
+(NS'python-dev Summary for 2005-10-16 through 2005-10-31'
+Ntp68
+sS'psf/records/board/minutes/2003-04-08'
+p69
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (April 8, 2003)'
+Ntp70
+sS'dev/peps/pep-0288'
+p71
+(NVPEP 288 -- Generators Attributes and Exceptions
+Ntp72
+sS'dev/peps/pep-0289'
+p73
+(NVPEP 289 -- Generator Expressions
+Ntp74
+sS'dev/summary/2005-05-16_2005-05-31'
+p75
+(NS'python-dev Summary for 2005-05-16 through 2005-05-31'
+Ntp76
+sS'dev/summary/2005-09-16_2005-09-30'
+p77
+(NS'python-dev Summary for 2005-09-16 through 2005-09-30'
+Ntp78
+sS'community/sigs/current/distutils-sig/sig_charter'
+p79
+(NS'Python Distutils-SIG: Charter'
+S'SIG Charter'
+p80
+tp81
+sS'dev/summary/2006-06-16_2006-06-30'
+p82
+(NS'python.org'
+p83
+Ntp84
+sS'dev/summary/2002-08-16-2002-09-01'
+p85
+(NS'python-dev Summary for 2002-08-16 through 2002-09-01'
+Ntp86
+sS'dev/summary/2006-11-16_2006-11-30'
+p87
+(Ng83
+Ntp88
+sS'community/pycon'
+p89
+(NS'PyCon Home at python.org'
+S'PyCon'
+p90
+tp91
+sS'psf/mission'
+p92
+(NS'Mission'
+S'Mission Statement'
+p93
+tp94
+sS'dev/summary/2005-06-01_2005-06-15'
+p95
+(NS'python-dev Summary for 2005-06-01 through 2005-06-15'
+Ntp96
+sS'download/releases/2.3.4/rpms'
+p97
+(NS'Linux RPMs for Python 2.3.4'
+S'Linux RPMS'
+p98
+tp99
+sS'community/sigs/retired/pattern-sig/mission'
+p100
+(NS'PATTERN-SIG, SIG for Idioms, Patterns, and Frameworks in Python'
+S'Mission'
+p101
+tp102
+sS'psf/sponsorship'
+p103
+(NS'Sponsorship'
+S'Sponsor Memberships'
+p104
+tp105
+sS'download/mac'
+p106
+(NS'Python on the Macintosh'
+S'Macintosh'
+p107
+tp108
+sS'download/releases/2.2.1/rpms'
+p109
+(NS'Linux RPMs for Python 2.2.1'
+S'Linux RPMS'
+p110
+tp111
+sS'dev/peps/pep-0233'
+p112
+(NVPEP 233 -- Python Online Help
+Ntp113
+sS'dev/peps/pep-0232'
+p114
+(NVPEP 232 -- Function Attributes
+Ntp115
+sS'dev/peps/pep-0231'
+p116
+(NVPEP 231 -- __findattr__()
+Ntp117
+sS'dev/peps/pep-0230'
+p118
+(NVPEP 230 -- Warning Framework
+Ntp119
+sS'dev/peps/pep-0237'
+p120
+(NVPEP 237 -- Unifying Long Integers and Integers
+Ntp121
+sS'dev/peps/pep-0236'
+p122
+(NVPEP 236 -- Back to the __future__
+Ntp123
+sS'dev/peps/pep-0235'
+p124
+(NVPEP 235 -- Import on Case-Insensitive Platforms
+Ntp125
+sS'dev/peps/pep-0234'
+p126
+(NVPEP 234 -- Iterators
+Ntp127
+sS'dev/peps/pep-0239'
+p128
+(NVPEP 239 -- Adding a Rational Type to Python
+Ntp129
+sS'dev/peps/pep-0238'
+p130
+(NVPEP 238 -- Changing the Division Operator
+Ntp131
+sS'community/sigs/current/capi-sig'
+p132
+(NS'SIG for Supporting Use of the Python/C API'
+Ntp133
+sS'psf/records/board/minutes/2002-12-10'
+p134
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (December 10, 2002)'
+Ntp135
+sS'download/releases/2.2.3/bugs'
+p136
+(NS'Incompatibilities between Python 2.1[.x] and 2.2[.x]'
+S'Bugs'
+p137
+tp138
+sS'community/sigs/retired/types-sig/statictypes'
+p139
+(NS'Details on static typing in Python'
+S'Static Types'
+p140
+tp141
+sS'download/releases/2.3.2/license'
+p142
+(NS'Python 2.3.2 license'
+S'License'
+p143
+tp144
+sS'dev/summary/2006-01-01_2006-01-15'
+p145
+(NS'python-dev Summary for 2006-01-01 through 2006-01-15'
+Ntp146
+sS'dev/summary/2004-04-01_2004-04-30'
+p147
+(NS'python-dev Summary for 2004-04-01 through 2004-04-30'
+Ntp148
+sS'community/sigs/retired/getopt-sig'
+p149
+((((i__main__
+Link
+(dp150
+S'href'
+p151
+S'/community/sigs/retired/getopt-sig/compare/'
+p152
+sS'link_text'
+p153
+S'Compare'
+p154
+sS'selected'
+p155
+I00
+sS'title'
+p156
+Nsb(tttS'Python Getopt SIG'
+S'Getopt SIG'
+p157
+tp158
+sS'psf/records/board/minutes/2004-10-12'
+p159
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (October 12, 2004)'
+Ntp160
+sS'dev/summary/2002-10-13-2002-10-21'
+p161
+(NS'2002-10-13 -- 2002-10-21'
+Ntp162
+sS'doc/essays/comparisons'
+p163
+(NS'Comparing Python to Other Languages'
+Ntp164
+sS'about/success/verity'
+p165
+(NS'Python Success Stories'
+Ntp166
+sS'psf/records/board/minutes/2002-11-12'
+p167
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (November 12, 2002)'
+Ntp168
+sS'dev/summary/2003-11-16_2003-11-30'
+p169
+(NS'python-dev Summary for 2003-11-16 through 2003-11-30'
+Ntp170
+sS'psf/records/members/2007-02-23/proxy'
+p171
+(Ng83
+Ntp172
+sS'doc/essays/cp4e'
+p173
+(NS'Computer Programming for Everybody'
+Ntp174
+sS'doc/topics/database/persistence'
+p175
+(NS'Other Persistent Storage Modules'
+S'Persistence'
+p176
+tp177
+sS'download'
+p178
+((((i__main__
+Link
+(dp179
+g151
+S'/download/releases/'
+p180
+sg153
+S'Releases'
+p181
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp182
+g151
+S'/download/windows/'
+p183
+sg153
+S'Windows, DOS'
+p184
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp185
+g151
+S'/download/mac/'
+p186
+sg153
+g107
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp187
+g151
+S'/download/linux/'
+p188
+sg153
+S'Linux'
+p189
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp190
+g151
+S'/download/other/'
+p191
+sg153
+S'Other'
+p192
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp193
+g151
+S'/download/source/'
+p194
+sg153
+S'Source'
+p195
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp196
+g151
+S'/download/releases/3.0/'
+p197
+sg153
+S'Python 3000'
+p198
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp199
+g151
+S'/download/svn/'
+p200
+sg153
+S'SVN Access'
+p201
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp202
+g151
+S'/download/contributed/'
+p203
+sg153
+S'Contributed Software'
+p204
+sg155
+I00
+sg156
+Nsb(tttS'Download Python Software'
+S'Download'
+tp205
+sS'psf/cooperations'
+p206
+(NS'Organizations Cooperating with the Python Software Foundation'
+S'Cooperations'
+p207
+tp208
+sS'doc/editors/emacs'
+p209
+(NS'Emacs Goodies'
+S'Emacs'
+p210
+tp211
+sS'download/releases/1.6.1/download'
+p212
+(NS'Download Python 1.6.1 Source'
+S'Download Source'
+p213
+tp214
+sS'psf/forms/sponsor-application'
+p215
+(NS'Python Software Foundation: Membership Application for Sponsor Member'
+Ntp216
+sS'psf/records/board/minutes/2005-11-08'
+p217
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting, November 8, 2005'
+Ntp218
+sS'download/releases/2.3.5/bugs'
+p219
+(NS'Bugs in Python 2.3.5'
+S'Bugs'
+p220
+tp221
+sS'psf/records/board/minutes/2003-12-09'
+p222
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (December 9, 2003)'
+Ntp223
+sS'dev/peps/pep-0307'
+p224
+(NVPEP 307 -- Extensions to the pickle protocol
+Ntp225
+sS'dev/peps/pep-0306'
+p226
+(NVPEP 306 -- How to Change Python's Grammar
+Ntp227
+sS'dev/summary/2004-06-01_2004-06-15'
+p228
+(NS'python-dev Summary for 2004-06-01 through 2004-06-15'
+Ntp229
+sS'dev/peps/pep-0304'
+p230
+(NVPEP 304 -- Controlling Generation of Bytecode Files
+Ntp231
+sS'dev/peps/pep-0303'
+p232
+(NVPEP 303 -- Extend divmod() for Multiple Divisors
+Ntp233
+sS'dev/peps/pep-0302'
+p234
+(NVPEP 302 -- New Import Hooks
+Ntp235
+sS'dev/peps/pep-0301'
+p236
+(NVPEP 301 -- Package Index and Metadata for Distutils
+Ntp237
+sS'community/workshops'
+p238
+(NS'Conferences and Workshops'
+S'Python Conferences'
+p239
+tp240
+sS'about/quotes'
+p241
+(NS'Quotes about Python'
+S'Quotes'
+tp242
+sS'dev/peps/pep-0309'
+p243
+(NVPEP 309 -- Partial Function Application
+Ntp244
+sS'dev/peps/pep-0308'
+p245
+(NVPEP 308 -- Conditional Expressions
+Ntp246
+sS'dev/peps/pep-3113'
+p247
+(NVPEP 3113 -- Removal of Tuple Parameter Unpacking
+Ntp248
+sS'dev/peps/pep-3112'
+p249
+(NVPEP 3112 -- Bytes literals in Python 3000
+Ntp250
+sS'dev/peps/pep-0042'
+p251
+(NVPEP 42 -- Feature Requests
+Ntp252
+sS'dev/peps/pep-3110'
+p253
+(NVPEP 3110 -- Catching Exceptions in Python 3000
+Ntp254
+sS'dev/peps/pep-3117'
+p255
+(NVPEP 3117 -- Postfix type declarations
+Ntp256
+sS'dev/peps/pep-3116'
+p257
+(NVPEP 3116 -- New I/O
+Ntp258
+sS'download/releases/2.3.1/bugs'
+p259
+(NS'Bugs in Python 2.3.1'
+S'Bugs'
+p260
+tp261
+sS'dev/peps/pep-3114'
+p262
+(NVPEP 3114 -- Renaming iterator.next() to iterator.__next__()
+Ntp263
+sS'community/sigs/current/image-sig'
+p264
+((((i__main__
+Link
+(dp265
+g151
+S'/community/sigs/current/image-sig/status/'
+p266
+sg153
+S'Status'
+p267
+sg155
+I00
+sg156
+Nsb(tttS'Image-SIG - Image Processing with Python SIG'
+S'Image SIG'
+p268
+tp269
+sS'dev/peps/pep-3119'
+p270
+(NVPEP 3119 -- Introducing Abstract Base Classes
+Ntp271
+sS'dev/peps/pep-3118'
+p272
+(NVPEP 3118 -- Revising the buffer protocol
+Ntp273
+sS'doc/essays/cleanup'
+p274
+(NS'Proposed Improvements to Module Cleanup'
+Ntp275
+sS'download/other'
+p276
+(NS'Download Python for Other Platforms'
+g192
+tp277
+sS'dev/summary/2005-08-01_2005-08-15'
+p278
+(NS'python-dev Summary for 2005-08-01 through 2005-08-15'
+Ntp279
+sS'community/lists'
+p280
+(NS'Python Mailing Lists, Newsgroups, and Web Forums'
+S'Mailing Lists'
+p281
+tp282
+sS'dev/summary/2004-09-01_2004-09-15'
+p283
+(NS'python-dev Summary for 2004-09-01 through 2004-09-15'
+Ntp284
+sS'community/sigs/current/distutils-sig/doc/design'
+p285
+(NS'Python Distutils-SIG: Design Proposal'
+Ntp286
+sS'download/releases/2.5.1'
+p287
+((((i__main__
+Link
+(dp288
+g151
+S'/download/releases/2.5.1/NEWS.txt/'
+p289
+sg153
+S'Release Notes'
+p290
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp291
+g151
+S'/download/releases/2.5.1/bugs/'
+p292
+sg153
+S'Bugs'
+p293
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp294
+g151
+S'/download/releases/2.5.1/license/'
+p295
+sg153
+g62
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp296
+g151
+S'/download/releases/2.5/msi/'
+p297
+sg153
+S'Windows MSI Installer'
+p298
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.5.1 Release'
+Ntp299
+sS'download/releases/2.5.2'
+p300
+((((i__main__
+Link
+(dp301
+g151
+S'/download/releases/2.5.2/NEWS.txt/'
+p302
+sg153
+S'Release Notes'
+p303
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp304
+g151
+S'/download/releases/2.5.2/bugs/'
+p305
+sg153
+S'Bugs'
+p306
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp307
+g151
+S'/download/releases/2.5.2/license/'
+p308
+sg153
+S'License'
+p309
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp310
+g151
+S'/download/releases/2.5/msi/'
+p311
+sg153
+S'Windows MSI Installer'
+p312
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.5.2 Release'
+S'2.5.2'
+p313
+tp314
+sS'dev/summary/2002-12-01_2002-12-15'
+p315
+(NS'python-dev Summary for 2002-12-01 through 2002-12-15'
+Ntp316
+sS'psf/records/board/resolutions'
+p317
+(NS'Python Software Foundation Resolutions'
+Ntp318
+sS'search'
+p319
+(NS'Search Python Resources'
+Ntp320
+sS'download/releases/2.2/license'
+p321
+(NS'Python 2.2 license'
+S'License'
+p322
+tp323
+sS'dev/peps/pep-0344'
+p324
+(NVPEP 344 -- Exception Chaining and Embedded Tracebacks
+Ntp325
+sS'download/releases/2.3/bugs'
+p326
+(NS'Bugs in Python 2.3'
+S'Bugs'
+p327
+tp328
+sS'download/releases/2.4.1/bugs'
+p329
+(NS'Python 2.4.1 - Bugs'
+S'Bugs'
+p330
+tp331
+sS'community/workshops/historic'
+p332
+(NS'Historic Python Conferences and Workshops'
+Ntp333
+sS'about/success'
+p334
+(NS'Python Success Stories'
+S'Success Stories'
+tp335
+sS'community/sigs/retired/string-sig'
+p336
+(NS'String-SIG - SIG on Enhancement of Python String Processing'
+S'String SIG'
+p337
+tp338
+sS'doc/newstyle'
+p339
+(NS'New-style Classes'
+S'New-Style Classes'
+p340
+tp341
+sS'dev/summary/2006-07-16_2006-07-31'
+p342
+(Ng83
+Ntp343
+sS'download/releases/2.2.2/bugs'
+p344
+(NS'Incompatibilities between Python 2.1[.x] and 2.2[.x]'
+S'Bugs'
+p345
+tp346
+sS'dev/summary/2004-11-01_2004-11-15'
+p347
+(NS'python-dev Summary for 2004-11-01 through 2004-11-15'
+Ntp348
+sS'community/sigs/retired/thread-sig'
+p349
+(NS'Thread-SIG - SIG on Process Threading in Python'
+S'Thread SIG'
+p350
+tp351
+sS'dev/summary/2003-04-16_2003-04-30'
+p352
+(NS'python-dev Summary for 2003-04-16 through 2003-04-30'
+Ntp353
+sS'doc/editors/vim'
+p354
+(NS'Vim for Python'
+S'Vi(m)'
+p355
+tp356
+sS'community/sigs/current/doc-sig/otherlangs'
+p357
+(NS'Other Documentation Tools'
+S'Other Languages'
+p358
+tp359
+sS'community/awards/frank-willison/2006-martelli'
+p360
+(NS'A Journey to Python'
+Ntp361
+sS'doc/essays/styleguide'
+p362
+(NS'Python Style Guide'
+Ntp363
+sS'download/releases/2.4.3/bugs'
+p364
+(NS'Bugs in Python 2.4.3'
+S'Bugs'
+p365
+tp366
+sS'dev/summary/2003-05-16_2003-05-31'
+p367
+(NS'python-dev Summary for 2003-05-16 through 2003-05-31'
+Ntp368
+sS'community/sigs/current/edu-sig'
+p369
+(NS'EDU-SIG: Python in Education'
+S'Edu SIG'
+p370
+tp371
+sS'download/releases/2.6/license'
+p372
+(NS'Python 2.5 license'
+S'License'
+p373
+tp374
+sS'psf/trademarks'
+p375
+(NS'PSF Trademark Usage Policy'
+S'Trademark Policy'
+p376
+tp377
+sS'community/awards/psf-awards'
+p378
+(NS'PSF Community Awards'
+S'PSF Community Awards'
+p379
+tp380
+sS'psf/records/members/2002-02-06'
+p381
+(NS'Python Software Foundation: Minutes of Feb. 2002 Member Meeting'
+Ntp382
+sS'download/releases'
+p383
+((((i__main__
+Link
+(dp384
+g151
+S'/download/releases/3.0/'
+p385
+sg153
+S'3.0rc3'
+p386
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp387
+g151
+S'/download/releases/2.6/'
+p388
+sg153
+S'2.6'
+p389
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp390
+g151
+S'/download/releases/2.5.2/'
+p391
+sg153
+g313
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp392
+g151
+S'/download/releases/2.4.5/'
+p393
+sg153
+S'2.4.5'
+p394
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp395
+g151
+S'/download/releases/2.3.7/'
+p396
+sg153
+S'2.3.7'
+p397
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp398
+g151
+S'/download/releases/2.2.3/'
+p399
+sg153
+S'2.2.3'
+p400
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp401
+g151
+S'/download/releases/2.1.3/'
+p402
+sg153
+S'2.1.3'
+p403
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp404
+g151
+S'/download/releases/2.0.1/'
+p405
+sg153
+S'2.0.1'
+p406
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp407
+g151
+S'/download/releases/1.6.1/'
+p408
+sg153
+S'1.6.1'
+p409
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp410
+g151
+S'/download/releases/1.5/'
+p411
+sg153
+S'1.5.2'
+p412
+sg155
+I00
+sg156
+Nsb(tttS'Releases'
+g181
+tp413
+sS'download/windows'
+p414
+(NS'Python for Windows (and DOS)'
+g184
+tp415
+sS'dev/summary/2004-10-16_2004-10-31'
+p416
+(NS'python-dev Summary for 2004-10-16 through 2004-10-31'
+Ntp417
+sS'download/releases/2.3.2'
+p418
+((((i__main__
+Link
+(dp419
+g151
+S'/download/releases/2.3.2/NEWS.txt/'
+p420
+sg153
+S'Release Notes'
+p421
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp422
+g151
+S'/download/releases/2.3.2/bugs/'
+p423
+sg153
+g65
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp424
+g151
+S'/download/releases/2.3.2/license/'
+p425
+sg153
+g143
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp426
+g151
+S'/download/releases/2.3.2/rpms/'
+p427
+sg153
+S'Linux RPMS'
+p428
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.3.2'
+Ntp429
+sS'download/releases/2.3.3'
+p430
+((((i__main__
+Link
+(dp431
+g151
+S'/download/releases/2.3.3/NEWS.txt/'
+p432
+sg153
+S'Release Notes'
+p433
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp434
+g151
+S'/download/releases/2.3.3/bugs/'
+p435
+sg153
+S'Bugs'
+p436
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp437
+g151
+S'/download/releases/2.3.3/license/'
+p438
+sg153
+S'License'
+p439
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp440
+g151
+S'/download/releases/2.3.3/rpms/'
+p441
+sg153
+S'Linux RPMS'
+p442
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.3.3'
+Ntp443
+sS'download/releases/2.3.1'
+p444
+((((i__main__
+Link
+(dp445
+g151
+S'/download/releases/2.3.1/NEWS.txt/'
+p446
+sg153
+S'Release Notes'
+p447
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp448
+g151
+S'/download/releases/2.3.1/ChangeLog.txt/'
+p449
+sg153
+S'Change Log'
+p450
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp451
+g151
+S'/download/releases/2.3.1/bugs/'
+p452
+sg153
+g260
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp453
+g151
+S'/download/releases/2.3.1/license/'
+p454
+sg153
+S'License'
+p455
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp456
+g151
+S'/download/releases/2.3.1/rpms/'
+p457
+sg153
+S'Linux RPMS'
+p458
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.3.1'
+Ntp459
+sS'download/releases/2.3.6'
+p460
+((((i__main__
+Link
+(dp461
+g151
+S'/download/releases/2.3.6/NEWS.txt/'
+p462
+sg153
+S'Release Notes'
+p463
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp464
+g151
+S'/download/releases/2.3.6/bugs/'
+p465
+sg153
+S'Bugs'
+p466
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp467
+g151
+S'/download/releases/2.3.6/license/'
+p468
+sg153
+S'License'
+p469
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.3.6 Release'
+Ntp470
+sS'download/releases/2.3.7'
+p471
+((((i__main__
+Link
+(dp472
+g151
+S'/download/releases/2.3.7/NEWS.txt/'
+p473
+sg153
+S'Release Notes'
+p474
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp475
+g151
+S'/download/releases/2.3.7/bugs/'
+p476
+sg153
+S'Bugs'
+p477
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp478
+g151
+S'/download/releases/2.3.7/license/'
+p479
+sg153
+S'License'
+p480
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.3.7 Release'
+g397
+tp481
+sS'download/releases/2.3.4'
+p482
+((((i__main__
+Link
+(dp483
+g151
+S'/download/releases/2.3.4/NEWS.txt/'
+p484
+sg153
+S'Release Notes'
+p485
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp486
+g151
+S'/download/releases/2.3.4/bugs/'
+p487
+sg153
+S'Bugs'
+p488
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp489
+g151
+S'/download/releases/2.3.4/license/'
+p490
+sg153
+S'License'
+p491
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp492
+g151
+S'/download/releases/2.3.4/rpms/'
+p493
+sg153
+g98
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.3.4'
+Ntp494
+sS'download/releases/2.3.5'
+p495
+((((i__main__
+Link
+(dp496
+g151
+S'/download/releases/2.3.5/notes/'
+p497
+sg153
+S'Release Notes'
+p498
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp499
+g151
+S'/download/releases/2.3.5/bugs/'
+p500
+sg153
+g220
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp501
+g151
+S'/download/releases/2.3.5/license/'
+p502
+sg153
+S'License'
+p503
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp504
+g151
+S'/download/releases/2.3.5/rpms/'
+p505
+sg153
+S'Linux RPMSs'
+p506
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.3.5'
+Ntp507
+sS'community/sigs/current/image-sig/status'
+p508
+(NS'Image Processing with Python SIG Status'
+g267
+tp509
+sS'community/sigs/retired/locator-sig'
+p510
+((((i__main__
+Link
+(dp511
+g151
+S'/community/sigs/retired/locator-sig/mission/'
+p512
+sg153
+S'Mission'
+p513
+sg155
+I00
+sg156
+Nsb(tttS'Python Locator Special Interest Group'
+S'Locator SIG'
+p514
+tp515
+sS'doc/faq/it/windows'
+p516
+(NS'Python Windows FAQ'
+Ntp517
+sS'download/releases/2.3/license'
+p518
+(NS'Python 2.3 license'
+S'License'
+p519
+tp520
+sS'dev/summary/2000-12-1'
+p521
+(NS'Python-dev summary: 2000-12-01 to 2000-12-15'
+Ntp522
+sS'psf/records/board/minutes/2005-02-08'
+p523
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (February 8, 2005)'
+Ntp524
+sS'dev/summary/2000-12-2'
+p525
+(NS'Python-dev summary: 2000-12-16 to 2000-12-31'
+Ntp526
+sS'dev/summary/2001-02-1'
+p527
+(NS'Python-dev summary: 2001-02-01 to 2001-02-14'
+Ntp528
+sS'dev/summary/2001-02-2'
+p529
+(NS'Python-dev summary: 2001-02-15 to 2001-02-28'
+Ntp530
+sS'about/success/astra'
+p531
+(NS'Python Success Stories'
+Ntp532
+sS'psf/records/board/minutes/2006-10-09'
+p533
+(NS'Python Software Foundation Board Meeting Minutes 2006-10-09'
+Ntp534
+sS'download/releases/1.6/license_faq'
+p535
+(NS'Python 1.6 License FAQ'
+Ntp536
+sS'about'
+p537
+((((i__main__
+Link
+(dp538
+g3
+S'/about/gettingstarted/'
+p539
+sg5
+S'Getting Started'
+p540
+sg7
+I00
+sg8
+Nsb(tt((i__main__
+Link
+(dp541
+g3
+S'/about/apps/'
+p542
+sg5
+S'Applications'
+p543
+sg7
+I00
+sg8
+Nsb(tt((i__main__
+Link
+(dp544
+g3
+S'/about/success/'
+p545
+sg5
+S'Success Stories'
+p546
+sg7
+I00
+sg8
+Nsb(tt((i__main__
+Link
+(dp547
+g3
+S'/about/quotes/'
+p548
+sg5
+S'Quotes'
+p549
+sg7
+I00
+sg8
+Nsb(tt((i__main__
+Link
+(dp550
+g3
+S'/about/website/'
+p551
+sg5
+S'Website'
+p552
+sg7
+I00
+sg8
+Nsb(tt((i__main__
+Link
+(dp553
+g3
+S'/about/help/'
+p554
+sg5
+S'Help'
+p555
+sg7
+I00
+sg8
+Nsb(tttS'About'
+p556
+g6
+tp557
+sS'dev/summary/2006-09-01_2006-09-15'
+p558
+(Ng83
+Ntp559
+sS'psf/forms/emeritus'
+p560
+(NS'Conversion to Emeritus PSF Membership'
+Ntp561
+sS'about/success/tribon'
+p562
+(NS'Python Success Stories'
+Ntp563
+sS'download/releases/2.2.1/bugs'
+p564
+(NS'Known bugs in Python 2.2.1'
+S'Bugs'
+p565
+tp566
+sS'psf/records/members/2007-02-23'
+p567
+(NS"2007 PSF Members' Meeting Minutes"
+Ntp568
+sS'psf/volunteer'
+p569
+(NS'Volunteer'
+S'Volunteer'
+p570
+tp571
+sS'psf/records/board/minutes/2006-06-12'
+p572
+(NS'Python Software Foundation Board Meeting Minutes 2006-06-12'
+Ntp573
+sS'dev/summary/2001-06-1'
+p574
+(NS'Python-dev summary: 2001-05-24 to 2001-06-07'
+Ntp575
+sS'download/download_source'
+p576
+(NS'Download Python Sources'
+Ntp577
+sS'dev/summary/2001-06-2'
+p578
+(NS'Python-dev summary: 2001-06-07 to 2001-06-21'
+Ntp579
+sS'download/linux'
+p580
+(NS'Python for Linux'
+g189
+tp581
+sS'community/sigs/current/distutils-sig/doc/requirements'
+p582
+(NS'Python Distutils-SIG: Requirements'
+Ntp583
+sS'dev'
+p584
+((((i__main__
+Link
+(dp585
+g151
+S'/dev/why/'
+p586
+sg153
+S'Why Develop Python?'
+p587
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp588
+g151
+S'/dev/setup/'
+p589
+sg153
+S'Getting Set Up'
+p590
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp591
+g151
+S'/dev/implementations/'
+p592
+sg153
+S'Implementations'
+p593
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp594
+g151
+S'/dev/intro/'
+p595
+sg153
+S'Intro to Development'
+p596
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp597
+g151
+S'/dev/process/'
+p598
+sg153
+S'Development Process'
+p599
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp600
+g151
+S'/dev/culture/'
+p601
+sg153
+S'Culture'
+p602
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp603
+g151
+S'/dev/tools/'
+p604
+sg153
+S'Tools'
+p605
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp606
+g151
+S'/dev/patches/'
+p607
+sg153
+S'Patch Submission'
+p608
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp609
+g151
+S'/dev/buildbot/'
+p610
+sg153
+S'Buildbot'
+p611
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp612
+g151
+S'/dev/doc/'
+p613
+sg153
+S'Documenting Python'
+p614
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp615
+g151
+S'/dev/faq/'
+p616
+sg153
+S'FAQ'
+p617
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp618
+g151
+S'/dev/peps/'
+p619
+sg153
+S'PEP Index'
+p620
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp621
+g151
+S'/dev/summary/'
+p622
+sg153
+S'python-dev Summaries'
+p623
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp624
+g151
+S'/dev/pydotorg/'
+p625
+sg153
+S'Python.org'
+p626
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp627
+g151
+S'http://svn.python.org/view/'
+p628
+sg153
+S'Browse Subversion'
+p629
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp630
+g151
+S'/dev/bazaar/'
+p631
+sg153
+S'Experimental Bazaar branches'
+p632
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp633
+g151
+S'http://svn.python.org/snapshots/'
+p634
+sg153
+S'Daily Snapshots'
+p635
+sg155
+I00
+sg156
+Nsb(tttS'Python Developers Guide'
+S'Core Development'
+tp636
+sS'psf/records/board/minutes/2006-04-10'
+p637
+(NS'Python Software Foundation Board Meeting Minutes 2006-04-10'
+Ntp638
+sS'about/success/devnet'
+p639
+(NS'Python Success Stories'
+Ntp640
+sS'about/success/mayavi'
+p641
+(NS'Python Success Stories'
+Ntp642
+sS'dev/summary/2005-10-01_2005-10-15'
+p643
+(NS'python-dev Summary for 2005-10-01 through 2005-10-15'
+Ntp644
+sS'psf/records/board/minutes/2007-08-13'
+p645
+(NS'2007-08-13 PSF Board Meeting Minutes'
+Ntp646
+sS'doc/faq/it/installed'
+p647
+(NS'"Why is Python Installed on my Computer?" FAQ'
+Ntp648
+sS'dev/summary/2001-05-2'
+p649
+(NS'Python-dev summary: 2001-05-10 to 2001-05-24'
+Ntp650
+sS'dev/summary/2001-05-1'
+p651
+(NS'Python-dev summary: 2001-04-26 to 2001-05-09'
+Ntp652
+sS'dev/peps/pep-0343'
+p653
+(NVPEP 343 -- The "with" Statement
+Ntp654
+sS'dev/peps/pep-0342'
+p655
+(NVPEP 342 -- Coroutines via Enhanced Generators
+Ntp656
+sS'dev/peps/pep-0341'
+p657
+(NVPEP 341 -- Unifying try-except and try-finally
+Ntp658
+sS'dev/peps/pep-0340'
+p659
+(NVPEP 340 -- Anonymous Block Statements
+Ntp660
+sS'dev/peps/pep-0347'
+p661
+(NVPEP 347 -- Migrating the Python CVS to Subversion
+Ntp662
+sS'dev/peps/pep-0346'
+p663
+(NVPEP 346 -- User Defined ("with") Statements
+Ntp664
+sS'dev/peps/pep-0345'
+p665
+(NVPEP 345 -- Metadata for Python Software Packages 1.2
+Ntp666
+sS'download/releases/2.1.1/rpms'
+p667
+(NS'Linux RPMs for Python 2.1.1'
+S'Linux RPMS'
+p668
+tp669
+sS'download/releases/2.3.6/license'
+p670
+(NS'Python 2.3.6 license'
+g469
+tp671
+sS'dev/peps/pep-0349'
+p672
+(NVPEP 349 -- Allow str() to return unicode strings
+Ntp673
+sS'dev/peps/pep-0348'
+p674
+(NVPEP 348 -- Exception Reorganization for Python 3.0
+Ntp675
+sS'download/unpacking'
+p676
+(NS'Unpacking Archives'
+Ntp677
+sS'dev/summary/2006-02-16_2006-02-28'
+p678
+(Ng83
+Ntp679
+sS'dev/pydotorg'
+p680
+((((i__main__
+Link
+(dp681
+g151
+S'/dev/pydotorg/website/'
+p682
+sg153
+S'Website Maintenance'
+p683
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp684
+g151
+S'/dev/pydotorg/translations/'
+p685
+sg153
+S'Translations'
+p686
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp687
+g151
+S'http://mail.python.org/replybot/'
+p688
+sg153
+S'Replybot Texts'
+p689
+sg155
+I00
+sg156
+Nsb(tttS'Python.org Maintenance and Administration'
+g626
+tp690
+sS'dev/summary/2005-12-01_2005-12-15'
+p691
+(NS'python-dev Summary for 2005-12-01 through 2005-12-15'
+Ntp692
+sS'community/sigs/retired/types-sig/status'
+p693
+(NS'Types SIG Status'
+S'Status'
+p694
+tp695
+sS'psf/records/board/minutes/2002-10-08'
+p696
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (October 8, 2002)'
+Ntp697
+sS'community/sigs/retired'
+p698
+((((i__main__
+Link
+(dp699
+S'href'
+p700
+S'/community/sigs/retired/compiler-sig/'
+p701
+sS'link_text'
+p702
+S'Compiler SIG'
+p703
+sS'selected'
+p704
+I00
+sS'title'
+p705
+Nsb(tt((i__main__
+Link
+(dp706
+g700
+S'/community/sigs/retired/do-sig/'
+p707
+sg702
+S'Do SIG'
+p708
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp709
+g700
+S'/community/sigs/retired/getopt-sig/'
+p710
+sg702
+g157
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp711
+g700
+S'/community/sigs/retired/import-sig/'
+p712
+sg702
+S'Import SIG'
+p713
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp714
+g700
+S'/community/sigs/retired/parser-sig/'
+p715
+sg702
+S'Parser SIG'
+p716
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp717
+g700
+S'/community/sigs/retired/persistence-sig/'
+p718
+sg702
+S'Persistence SIG'
+p719
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp720
+g700
+S'/community/sigs/retired/plot-sig/'
+p721
+sg702
+S'Plot SIG'
+p722
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp723
+g700
+S'/community/sigs/retired/thread-sig/'
+p724
+sg702
+g350
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp725
+g700
+S'/community/sigs/retired/types-sig/'
+p726
+sg702
+S'Types SIG'
+p727
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp728
+g700
+S'/community/sigs/retired/string-sig/'
+p729
+sg702
+g337
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp730
+g700
+S'/community/sigs/retired/matrix-sig/'
+p731
+sg702
+S'Matrix SIG'
+p732
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp733
+g700
+S'/community/sigs/retired/gui-sig/'
+p734
+sg702
+S'Gui SIG'
+p735
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp736
+g700
+S'/community/sigs/retired/objc-sig/'
+p737
+sg702
+S'Objc SIG'
+p738
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp739
+g700
+S'/community/sigs/retired/locator-sig/'
+p740
+sg702
+g514
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp741
+g700
+S'/community/sigs/retired/pattern-sig/'
+p742
+sg702
+S'Pattern SIG'
+p743
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp744
+g700
+S'/community/sigs/retired/progenv-sig/'
+p745
+sg702
+S'Progenv SIG'
+p746
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp747
+g700
+S'/community/sigs/retired/pythonwin-sig/'
+p748
+sg702
+S'Pythonwin SIG'
+p749
+sg704
+I00
+sg705
+Nsb(tttS'Retired SIGS'
+S'Retired SIGs'
+p750
+tp751
+sS'download/releases/2.4/bugs'
+p752
+(NS'Bugs in Python 2.4'
+S'Bugs'
+p753
+tp754
+sS'doc/2.4.4/download'
+p755
+((((i__main__
+Link
+(dp756
+g151
+S'http://docs.python.org/'
+p757
+sg153
+S'Current Docs'
+p758
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp759
+g151
+S'http://wiki.python.org/moin/BeginnersGuide'
+p760
+sg153
+S"Beginner's Guide"
+p761
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp762
+g151
+S'/doc/faq/'
+p763
+sg153
+S'FAQs'
+p764
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp765
+g151
+S'http://wiki.python.org/moin/'
+p766
+sg153
+S'Wiki'
+p767
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp768
+g151
+S'/doc/other/'
+p769
+sg153
+S'Other doc resources'
+p770
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp771
+g151
+S'/dev/peps/'
+p772
+sg153
+S'PEP Index'
+p773
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp774
+g151
+S'http://wiki.python.org/moin/PythonBooks'
+p775
+sg153
+S'Book list'
+p776
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp777
+g151
+S'/doc/topics/'
+p778
+sg153
+S'Topic guides'
+p779
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp780
+g151
+S'/doc/newstyle/'
+p781
+sg153
+S'New-style classes'
+p782
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp783
+g151
+S'http://docs.python.org/library/re.html'
+p784
+sg153
+S'Regular expressions'
+p785
+sg155
+I00
+sg156
+Nsb(tttS'Download Python 2.4.4 Documentation'
+Ntp786
+sS'dev/peps/pep-0319'
+p787
+(NVPEP 319 -- Python Synchronize/Asynchronize Block
+Ntp788
+sS'community/pycon/register-onsite'
+p789
+(NS'PyCon Registration Form'
+Ntp790
+sS'dev/peps/pep-0268'
+p791
+(NVPEP 268 -- Extended HTTP functionality and WebDAV
+Ntp792
+sS'dev/peps/pep-0269'
+p793
+(NVPEP 269 -- Pgen Module for Python
+Ntp794
+sS'dev/peps/pep-0252'
+p795
+(NVPEP 252 -- Making Types Look More Like Classes
+Ntp796
+sS'dev/summary/2000-11-2'
+p797
+(NS'Python-dev summary: 2000-11-16 to 2000-11-30'
+Ntp798
+sS'download/releases/2.2/rpms'
+p799
+(NS'Linux RPMs for Python 2.2'
+S'Linux RPMS'
+p800
+tp801
+sS'dev/summary/2005-03-01_2005-03-15'
+p802
+(NS'python-dev Summary for 2005-03-01 through 2005-03-15'
+Ntp803
+sS'dev/summary/2000-11-1'
+p804
+(NS'Python-dev summary: 2000-11-01 to 2000-11-15'
+Ntp805
+sS'dev/summary/2006-10-01_2006-10-15'
+p806
+(Ng83
+Ntp807
+sS'dev/peps/pep-0261'
+p808
+(NVPEP 261 -- Support for "wide" Unicode characters
+Ntp809
+sS'dev/peps/pep-0262'
+p810
+(NVPEP 262 -- A Database of Installed Python Packages
+Ntp811
+sS'dev/peps/pep-0263'
+p812
+(NVPEP 0263 -- Defining Python Source Code Encodings
+Ntp813
+sS'dev/peps/pep-0264'
+p814
+(NVPEP 264 -- Future statements in simulated shells
+Ntp815
+sS'dev/peps/pep-0265'
+p816
+(NVPEP 265 -- Sorting Dictionaries by Value
+Ntp817
+sS'dev/summary/2004-07-16_2004-07-31'
+p818
+(NS'python-dev Summary for 2004-07-16 through 2004-07-31'
+Ntp819
+sS'dev/peps/pep-0267'
+p820
+(NVPEP 267 -- Optimized Access to Module Namespaces
+Ntp821
+sS'dev/peps/pep-0008'
+p822
+(NVPEP 8 -- Style Guide for Python Code
+Ntp823
+sS'dev/peps/pep-0009'
+p824
+(NVPEP 9 -- Sample Plaintext PEP Template
+Ntp825
+sS'dev/peps/pep-0004'
+p826
+(NVPEP 4 -- Deprecation of Standard Modules
+Ntp827
+sS'dev/peps/pep-0005'
+p828
+(NVPEP 5 -- Guidelines for Language Evolution
+Ntp829
+sS'doc/faq/programming'
+p830
+((((i__main__
+Link
+(dp831
+g151
+S'/doc/faq/programming/general/'
+p832
+sg153
+S'General'
+p833
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp834
+g151
+S'/doc/faq/programming/programming/'
+p835
+sg153
+S'Programming'
+p836
+sg155
+I00
+sg156
+Nsb(tttS'General Programming FAQ'
+S'Programming'
+p837
+tp838
+sS'dev/peps/pep-0007'
+p839
+(NVPEP 7 -- Style Guide for C Code
+Ntp840
+sS'dev/peps/pep-0000'
+p841
+(NVPEP 0 -- Index of Python Enhancement Proposals (PEPs)
+Ntp842
+sS'dev/peps/pep-0001'
+p843
+(NVPEP 1 -- PEP Purpose and Guidelines
+Ntp844
+sS'doc/essays/graphs'
+p845
+(NS'Python Patterns - Implementing Graphs'
+Ntp846
+sS'dev/peps/pep-0003'
+p847
+(NVPEP 3 -- Guidelines for Handling Bug Reports
+Ntp848
+sS'dev/peps/pep-0310'
+p849
+(NVPEP 310 -- Reliable Acquisition/Release Pairs
+Ntp850
+sS'dev/summary/2004-03-01_2004-03-15'
+p851
+(NS'python-dev Summary for 2004-03-01 through 2004-03-15'
+Ntp852
+sS'dev/peps/pep-0311'
+p853
+(NVPEP 311 -- Simplified Global Interpreter Lock Acquisition for Extensions
+Ntp854
+sS'dev/peps/pep-3099'
+p855
+(NVPEP 3099 -- Things that will Not Change in Python 3000
+Ntp856
+sS'community/sigs/retired/progenv-sig'
+p857
+((((i__main__
+Link
+(dp858
+g151
+S'/community/sigs/retired/progenv-sig/mission/'
+p859
+sg153
+S'Mission'
+p860
+sg155
+I00
+sg156
+Nsb(tttS'Progenv SIG - Python programming-environment issues'
+g746
+tp861
+sS'dev/summary/2006-04-01_2006-04-15'
+p862
+(Ng83
+Ntp863
+sS'dev/peps/pep-0371'
+p864
+(NVPEP 371 -- Addition of the multiprocessing package to the standard library
+Ntp865
+sS'psf/records/board/minutes/2005-09-13'
+p866
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting (September 13, 2005)'
+Ntp867
+sS'download/releases/1.6/download'
+p868
+(NS'Download Python 1.6 Source'
+Ntp869
+sS'about/success/ilm'
+p870
+(NS'Python Success Stories'
+Ntp871
+sS'dev/peps'
+p872
+(Ng83
+g620
+tp873
+sS'dev/peps/pep-0315'
+p874
+(NVPEP 315 -- Enhanced While Loop
+Ntp875
+sS'about/gettingstarted'
+p876
+(NS'Python For Beginners'
+S'Getting Started'
+tp877
+sS'dev/peps/pep-0316'
+p878
+(NVPEP 316 -- Programming by Contract for Python
+Ntp879
+sS'dev/intro'
+p880
+(NS'Guido, Some Guys, and a Mailing List: How Python is Developed'
+g596
+tp881
+sS'dev/summary/2001-01-2'
+p882
+(NS'Python-dev summary: 2001-01-16 to 2001-01-31'
+Ntp883
+sS'dev/summary/2001-01-1'
+p884
+(NS'Python-dev summary: 2001-01-01 to 2001-01-15'
+Ntp885
+sS'dev/summary/2003-01-01_2003-01-15'
+p886
+(NS'python-dev Summary for 2003-01-01 through 2002-01-15'
+Ntp887
+sS'dev/bazaar'
+p888
+(NS'Experimental Bazaar branches'
+g632
+tp889
+sS'dev/summary/2003-05-01_2003-05-15'
+p890
+(NS'python-dev Summary for 2003-05-01 through 2003-05-15'
+Ntp891
+sS'dev/peps/pep-3105'
+p892
+(NVPEP 3105 -- Make print a function
+Ntp893
+sS'community/sigs/current/doc-sig/stext'
+p894
+(NS'Structured Text Formatting Rules'
+S'Structured Text'
+p895
+tp896
+sS'download/releases/2.3.3/rpms'
+p897
+(NS'Linux RPMs for Python 2.3.3'
+g442
+tp898
+sS'dev/peps/pep-3106'
+p899
+(NVPEP 3106 -- Revamping dict.keys(), .values() and .items()
+Ntp900
+sS'psf/records/board/minutes/2003-02-11'
+p901
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (February 11, 2003)'
+Ntp902
+sS'psf/records/board/minutes/2007-06-11'
+p903
+(NS'2007-06-11 PSF Board Meeting Minutes'
+Ntp904
+sS'download/releases/2.4.3/license'
+p905
+(NS'Python 2.4.3 license'
+S'License'
+p906
+tp907
+sS'download/download_linux'
+p908
+(NS'Download Python for Linux'
+Ntp909
+sS'doc/essays/refcnt'
+p910
+(NS'Debugging Reference Count Problems'
+Ntp911
+sS'psf/press-release/pr200204'
+p912
+(NS'Python Software Foundation: Press Release 8-Apr-2002'
+Ntp913
+sS'community/sigs/retired/import-sig'
+p914
+(NS'Import Sig'
+g713
+tp915
+sS'dev/peps/pep-3102'
+p916
+(NVPEP 3102 -- Keyword-Only Arguments
+Ntp917
+sS'about/legal'
+p918
+(NS'Legal Statements'
+Ntp919
+sS'doc/faq/general'
+p920
+(NS'General Python FAQ'
+S'General'
+p921
+tp922
+sS'psf/contrib/contrib-form-python'
+p923
+(NS'PSF Contributor Agreement for Python'
+Ntp924
+sS'psf/records/board/minutes/2007-03-12'
+p925
+(NS'2007-03-12 PSF Board Meeting Minutes'
+Ntp926
+sS'download/download_other'
+p927
+(NS'Download Python for Other Platforms'
+Ntp928
+sS'download/releases/2.1/license'
+p929
+(NS'Python 2.1 license'
+S'License'
+p930
+tp931
+sS'psf/records/board/minutes/2006-02-14'
+p932
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting, February 14, 2006'
+Ntp933
+sS'dev/summary/2004-05-01_2004-05-31'
+p934
+(NS'python-dev Summary for 2004-05-01 through 2004-05-31'
+Ntp935
+sS'404'
+p936
+(NS'Page Not Found'
+Ntp937
+sS'dev/peps/pep-3140'
+p938
+(NVPEP 3140 -- str(container) should call str(item), not repr(item)
+Ntp939
+sS'dev/summary/2003-02-16_2003-02-28'
+p940
+(NS'python-dev Summary for 2003-02-16 through 2003-02-28'
+Ntp941
+sS'download/releases/2.1.1/license'
+p942
+(NS'Python 2.1.1 license'
+S'License'
+p943
+tp944
+sS'doc/humor'
+p945
+(NS'Python Humor'
+Ntp946
+sS'download/releases/2.2/descrintro'
+p947
+(NS'Unifying types and classes in Python 2.2'
+Ntp948
+sS'psf/records/board/minutes/2004-03-26'
+p949
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (March 26, 2004)'
+Ntp950
+sS'community/pycon/ok'
+p951
+(NS'PyCon Registration - Proceed to Checkout'
+Ntp952
+sS'community/sigs/retired/types-sig/interfaces'
+p953
+(NS'Details on Python interfaces'
+S'Interfaces'
+p954
+tp955
+sS'psf/records/board/minutes/2005-04-12'
+p956
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (April 12, 2005)'
+Ntp957
+sS'download/releases/2.5.1/bugs'
+p958
+(NS'Bugs in Python 2.5.1'
+g293
+tp959
+sS'download/releases/2.4/notes'
+p960
+(NS'Notes'
+S'Release Notes'
+p961
+tp962
+sS'dev/summary/2004-02-01_2004-02-29'
+p963
+(NS'python-dev Summary for 2004-02-01 through 2004-02-29'
+Ntp964
+sS'download/releases/2.4/msi'
+p965
+(NS'Using Windows Installer'
+S'Windows MSI Installer'
+p966
+tp967
+sS'community/sigs/current/distutils-sig/doc/interface'
+p968
+(NS'Python Distutils-SIG: Proposed User Interface'
+Ntp969
+sS'community/sigs/current/distutils-sig/design'
+p970
+(NS'Python Distutils-SIG: Design Proposal'
+Ntp971
+sS'dev/summary/2003-01-16_2003-01-31'
+p972
+(NS'python-dev Summary for 2003-01-16 through 2003-01-31'
+Ntp973
+sS'psf/records/board'
+p974
+(NS'PSF Board Records'
+Ntp975
+sS'psf/records/board/minutes/2004-05-11'
+p976
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (May 11, 2004)'
+Ntp977
+sS'download/releases/2.3.3/license'
+p978
+(NS'Python 2.3.3 license'
+g439
+tp979
+sS'dev/summary/2001-07-1'
+p980
+(NS'Python-dev summary: 2001-06-21 to 2001-07-04'
+Ntp981
+sS'dev/summary/2001-07-2'
+p982
+(NS'Python-dev summary: 2001-07-05 to 2001-07-15'
+Ntp983
+sS'dev/summary/2001-07-3'
+p984
+(NS'Python-dev summary: 2001-07-16 to 2001-07-31'
+Ntp985
+sS'psf/records/board/minutes/2003-08-12'
+p986
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (August 12, 2003)'
+Ntp987
+sS'dev/peps/pep-0266'
+p988
+(NVPEP 266 -- Optimizing Global Variable/Attribute Access
+Ntp989
+sS'psf/records/board/minutes/2006-11-13'
+p990
+(NS'2006-11-13 PSF Board Meeting Minutes'
+Ntp991
+sS'dev/summary/2001-04-2'
+p992
+(NS'Python-dev summary: 2001-04-12 to 2001-04-25'
+Ntp993
+sS'dev/summary/2001-04-1'
+p994
+(NS'Python-dev summary: 2001-03-29 to 2001-04-11'
+Ntp995
+sS'community/sigs/current/doc-sig'
+p996
+((((i__main__
+Link
+(dp997
+g151
+S'/community/sigs/current/doc-sig/status/'
+p998
+sg153
+S'Status'
+p999
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1000
+g151
+S'/community/sigs/current/doc-sig/stext/'
+p1001
+sg153
+g895
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1002
+g151
+S'/community/sigs/current/doc-sig/otherlangs/'
+p1003
+sg153
+g358
+sg155
+I00
+sg156
+Nsb(tttS'Doc-SIG - Python Documentation Special Interest Group'
+S'Doc SIG'
+p1004
+tp1005
+sS'community/jobs/howto'
+p1006
+(NS'How To Submit to the Python Job Board'
+Ntp1007
+sS'dev/peps/pep-0224'
+p1008
+(NVPEP 224 -- Attribute Docstrings
+Ntp1009
+sS'dev/peps/pep-0225'
+p1010
+(NVPEP 225 -- Elementwise/Objectwise Operators
+Ntp1011
+sS'dev/peps/pep-0226'
+p1012
+(NVPEP 226 -- Python 2.1 Release Schedule
+Ntp1013
+sS'dev/peps/pep-0227'
+p1014
+(NVPEP 227 -- Statically Nested Scopes
+Ntp1015
+sS'dev/peps/pep-0220'
+p1016
+(NVPEP 220 -- Coroutines, Generators, Continuations
+Ntp1017
+sS'dev/peps/pep-0221'
+p1018
+(NVPEP 221 -- Import As
+Ntp1019
+sS'dev/summary/2005-07-01_2005-07-15'
+p1020
+(NS'python-dev Summary for 2005-07-01 through 2005-07-15'
+Ntp1021
+sS'dev/peps/pep-0223'
+p1022
+(NVPEP 223 -- Change the Meaning of \u005Cx Escapes
+Ntp1023
+sS'dev/summary/2003-10-01_2003-10-15'
+p1024
+(NS'python-dev Summary for 2003-10-01 through 2003-10-15'
+Ntp1025
+sS'dev/peps/pep-0228'
+p1026
+(NVPEP 228 -- Reworking Python's Numeric Model
+Ntp1027
+sS'dev/peps/pep-0229'
+p1028
+(NVPEP 229 -- Using Distutils to Build Python
+Ntp1029
+sS'psf/press-release/pr200103'
+p1030
+(NS'Python Software Foundation: Press Release 6-Mar-2001'
+Ntp1031
+sS'psf/press-release/pr20041221'
+p1032
+(NS'Python Software Foundation: Press Release 27-Dec-2004'
+Ntp1033
+sS'about/success/bats'
+p1034
+(NS'Python Success Stories'
+Ntp1035
+sS'psf/records/board/minutes/2007-07-09'
+p1036
+(NS'2007-07-09 PSF Board Meeting Minutes'
+Ntp1037
+sS'doc/faq/windows'
+p1038
+(NS'Windows FAQ'
+S'Windows'
+p1039
+tp1040
+sS'doc/essays/blurb'
+p1041
+(NS'What is Python?  Executive Summary'
+Ntp1042
+sS'psf/records/members/2007-02-23/absentee-ballot'
+p1043
+(Ng83
+Ntp1044
+sS'dev/summary/2006-05-16_2006-05-31'
+p1045
+(Ng83
+Ntp1046
+sS'dev/peps/pep-0754'
+p1047
+(NVPEP 754 -- IEEE 754 Floating Point Special Values
+Ntp1048
+sS'doc/editors'
+p1049
+((((i__main__
+Link
+(dp1050
+g151
+S'/doc/editors/emacs/'
+p1051
+sg153
+g210
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1052
+g151
+S'/doc/editors/vim/'
+p1053
+sg153
+g355
+sg155
+I00
+sg156
+Nsb(tttS'Editors for Python'
+Ntp1054
+sS'doc/faq/it/gui'
+p1055
+(NS'Graphic User Interface FAQ'
+Ntp1056
+sS'dev/summary/2003-02-01_2003-02-15'
+p1057
+(NS'python-dev Summary from 2003-02-01 through 2003-02-15'
+Ntp1058
+sS'dev/summary/2000-10-2'
+p1059
+(NS'Python-dev summary: 2000-10-17 to 2000-10-31'
+Ntp1060
+sS'dev/summary/2000-10-1'
+p1061
+(NS'Python-dev summary: 2000-10-01 to 2000-10-16'
+Ntp1062
+sS'dev/peps/pep-3139'
+p1063
+(NVPEP 3139 -- Cleaning out sys and the "interpreter" module
+Ntp1064
+sS'doc/topics/database/docs'
+p1065
+(NS'Database Documentation'
+S'Documentation'
+p1066
+tp1067
+sS'dev/peps/pep-0006'
+p1068
+(NVPEP 6 -- Bug Fix Releases
+Ntp1069
+sS'about/success/philips'
+p1070
+(NS'Python Success Stories'
+Ntp1071
+sS'psf/press-release/pr20021022'
+p1072
+(NS'Python Software Foundation: Press Release 22-Oct-2002'
+Ntp1073
+sS'psf/records/members/2008-03-14/absentee-ballot'
+p1074
+(NS"Absentee Ballot - 2008-03-14 PSF Members' Meeting"
+Ntp1075
+sS'community/sigs/retired/do-sig/issues'
+p1076
+(NS'Python Distributed Objects Special Interest Group'
+S'Issues'
+p1077
+tp1078
+sS'about/success/usa'
+p1079
+(NS'Python Success Stories'
+Ntp1080
+sS'community/sigs/current/distutils-sig'
+p1081
+((((i__main__
+Link
+(dp1082
+g151
+S'/community/sigs/current/distutils-sig/list/'
+p1083
+sg153
+S'Mailing List'
+p1084
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1085
+g151
+S'/community/sigs/current/distutils-sig/sig_charter/'
+p1086
+sg153
+g80
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1087
+g151
+S'/community/sigs/current/distutils-sig/requirements/'
+p1088
+sg153
+S'Requirements'
+p1089
+sg155
+I00
+sg156
+Nsb(tttS'Python Distutils-SIG: Introduction'
+S'Distutils SIG'
+p1090
+tp1091
+sS'download/releases/2.5.1/rpms'
+p1092
+(NS'Linux RPMs for Python 2.4.2'
+Ntp1093
+sS'dev/peps/pep-0002'
+p1094
+(NVPEP 2 -- Procedure for Adding New Modules
+Ntp1095
+sS'download/releases/2.2.3/descrintro'
+p1096
+(NS'Unifying types and classes in Python 2.2'
+S'New Style Classes'
+p1097
+tp1098
+sS'psf/records/members/2008-03-14/proxy'
+p1099
+(NS"Proxy Form - 2008-03-14 PSF Members' Meeting"
+Ntp1100
+sS'doc/topics/database/other-db'
+p1101
+(NS'Other Database Modules'
+S'Other Database Modules'
+p1102
+tp1103
+sS'psf/grants/call-2004'
+p1104
+(NS'Python Software Foundation: Call for Grant Proposals 2004'
+Ntp1105
+sS'community/sigs/current/distutils-sig/tasks'
+p1106
+(NS'Python Distutils-SIG: Tasks and Division of Labour'
+Ntp1107
+sS'dev/summary/2006-03-16_2006-03-31'
+p1108
+(Ng83
+Ntp1109
+sS'dev/summary'
+p1110
+(NS'python-dev Summaries'
+g623
+tp1111
+sS'psf/grants/report-2006-10'
+p1112
+(NS'2006-10-15 Grants Committee Status Report'
+Ntp1113
+sS'psf/records/members/2008-03-14/agenda'
+p1114
+(NS"Agenda of 2008 PSF Members' Meeting, 14 March 2008"
+Ntp1115
+sS'dev/tools'
+p1116
+(NS'Development Tools'
+g605
+tp1117
+sS'download/releases/2.4/rpms'
+p1118
+(NS'Linux RPMs for Python 2.4'
+S'Linux RPMSs'
+p1119
+tp1120
+sS'dev/summary/2005-02-01_2005-02-14'
+p1121
+(NS'python-dev Summary for 2005-02-01 through 2005-02-14'
+Ntp1122
+sS'psf/records/board/minutes/2003-10-14'
+p1123
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (October 14, 2003)'
+Ntp1124
+sS'dev/peps/pep-0251'
+p1125
+(NVPEP 251 -- Python 2.2 Release Schedule
+Ntp1126
+sS'dev/peps/pep-0250'
+p1127
+(NVPEP 250 -- Using site-packages on Windows
+Ntp1128
+sS'dev/peps/pep-0253'
+p1129
+(NVPEP 253 -- Subtyping Built-in Types
+Ntp1130
+sS'doc/essays/metaclasses'
+p1131
+(NS'Metaclasses in Python 1.5'
+Ntp1132
+sS'dev/peps/pep-0255'
+p1133
+(NVPEP 255 -- Simple Generators
+Ntp1134
+sS'dev/peps/pep-0254'
+p1135
+(NVPEP 254 -- Making Classes Look More Like Types
+Ntp1136
+sS'psf/records/board/minutes/2005-03-08'
+p1137
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (March 8, 2005)'
+Ntp1138
+sS'dev/peps/pep-0256'
+p1139
+(NVPEP 256 -- Docstring Processing System Framework
+Ntp1140
+sS'dev/peps/pep-0259'
+p1141
+(NVPEP 259 -- Omit printing newline after newline
+Ntp1142
+sS'dev/peps/pep-0258'
+p1143
+(NVPEP 258 -- Docutils Design Specification
+Ntp1144
+sS'dev/peps/pep-0312'
+p1145
+(NVPEP 312 -- Simple Implicit Lambda
+Ntp1146
+sS'dev/peps/pep-0313'
+p1147
+(NVPEP 313 -- Adding Roman Numeral Literals to Python
+Ntp1148
+sS'dev/peps/pep-0314'
+p1149
+(NVPEP 314 -- Metadata for Python Software Packages v1.1
+Ntp1150
+sS'dev/summary/2001-03-1'
+p1151
+(NS'Python-dev summary: 2001-03-01 to 2001-03-14'
+Ntp1152
+sS'dev/summary/2001-03-2'
+p1153
+(NS'python-dev summary: 2001-03-15 - 2001-03-29'
+Ntp1154
+sS'dev/peps/pep-0317'
+p1155
+(NVPEP 317 -- Eliminate Implicit Exception Instantiation
+Ntp1156
+sS'dev/peps/pep-3104'
+p1157
+(NVPEP 3104 -- Access to Names in Outer Scopes
+Ntp1158
+sS'dev/patches'
+p1159
+((((i__main__
+Link
+(dp1160
+g151
+S'/dev/patches/style/'
+p1161
+sg153
+S'Style Guidelines'
+p1162
+sg155
+I00
+sg156
+Nsb(tttS'Python Patch Submission Guidelines'
+g608
+tp1163
+sS'doc/faq/it/general'
+p1164
+(NS'FAQ Generali su Python'
+Ntp1165
+sS'dev/peps/pep-3107'
+p1166
+(NVPEP 3107 -- Function Annotations
+Ntp1167
+sS'dev/peps/pep-3100'
+p1168
+(NVPEP 3100 -- Miscellaneous Python 3.0 Plans
+Ntp1169
+sS'dev/peps/pep-3101'
+p1170
+(NVPEP 3101 -- Advanced String Formatting
+Ntp1171
+sS'download/releases/2.3/rpms'
+p1172
+(NS'Linux RPMs for Python 2.3'
+S'Linux RPMS'
+p1173
+tp1174
+sS'dev/peps/pep-3103'
+p1175
+(NVPEP 3103 -- A Switch/Case Statement
+Ntp1176
+sS'download/releases/2.3.7/license'
+p1177
+(NS'Python 2.3.7 license'
+g480
+tp1178
+sS'dev/summary/2003-03-01_2003-03-15'
+p1179
+(NS'python-dev Summary for 2003-03-01 through 2003-03-15'
+Ntp1180
+sS'dev/peps/pep-3108'
+p1181
+(NVPEP 3108 -- Standard Library Reorganization
+Ntp1182
+sS'dev/peps/pep-3109'
+p1183
+(NVPEP 3109 -- Raising Exceptions in Python 3000
+Ntp1184
+sS'community/sigs/current/web-sig'
+p1185
+(NS'Web SIG'
+S'Web SIG'
+p1186
+tp1187
+sS'psf/records/board/minutes/2004-12-14'
+p1188
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting (December 14, 2004)'
+Ntp1189
+sS'psf/records/board/minutes/2003-01-14'
+p1190
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (January 14, 2003)'
+Ntp1191
+sS'dev/process'
+p1192
+(NS"Python's Development Process"
+g599
+tp1193
+sS'dev/summary/2006-02-01_2006-02-15'
+p1194
+(Ng83
+Ntp1195
+sS'psf/records/board/minutes/2008-10-13'
+p1196
+(NS'2008-10-13 PSF Board Meeting Minutes'
+Ntp1197
+sS'download/releases/2.4.1/license'
+p1198
+(NS'Python 2.4.1 - License'
+S'License'
+p1199
+tp1200
+sS'psf/records/board/treasurer/2003-12'
+p1201
+(NS"Python Software Foundation: Treasurer's Report (December 2003)"
+Ntp1202
+sS'about/success/superleague'
+p1203
+(NS'Python Success Stories'
+Ntp1204
+sS'psf/records/board/minutes/2006-07-10'
+p1205
+(NS'Python Software Foundation Board Meeting Minutes 2006-07-10'
+Ntp1206
+sS'download/releases/2.5'
+p1207
+((((i__main__
+Link
+(dp1208
+g151
+S'/download/releases/2.5/NEWS.txt/'
+p1209
+sg153
+S'Release Notes'
+p1210
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1211
+g151
+S'/download/releases/2.5/IDLENEWS.txt/'
+p1212
+sg153
+S'IDLE Release Notes'
+p1213
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1214
+g151
+S'/download/releases/2.5/highlights/'
+p1215
+sg153
+S'Highlights'
+p1216
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1217
+g151
+S'/download/releases/2.5/bugs/'
+p1218
+sg153
+S'Bugs'
+p1219
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1220
+g151
+S'/download/releases/2.5/license/'
+p1221
+sg153
+S'License'
+p1222
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1223
+g151
+S'/download/releases/2.5/msi/'
+p1224
+sg153
+S'Windows Installer Docs'
+p1225
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.5 Release'
+Ntp1226
+sS'download/releases/2.4'
+p1227
+((((i__main__
+Link
+(dp1228
+g151
+S'/download/releases/2.4/highlights/'
+p1229
+sg153
+S'Highlights'
+p1230
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1231
+g151
+S'/download/releases/2.4/notes/'
+p1232
+sg153
+g961
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1233
+g151
+S'/download/releases/2.4/bugs/'
+p1234
+sg153
+g753
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1235
+g151
+S'/download/releases/2.4/license/'
+p1236
+sg153
+S'License'
+p1237
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1238
+g151
+S'/download/releases/2.4/msi/'
+p1239
+sg153
+g966
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1240
+g151
+S'/download/releases/2.4/rpms/'
+p1241
+sg153
+g1119
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.4'
+Ntp1242
+sS'download/releases/2.4.3/rpms'
+p1243
+(NS'Linux RPMs for Python 2.4.3'
+Ntp1244
+sS'download/releases/2.6'
+p1245
+((((i__main__
+Link
+(dp1246
+g151
+S'/download/releases/2.6/NEWS.txt/'
+p1247
+sg153
+S'Release Notes'
+p1248
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1249
+g151
+S'/download/releases/2.6/IDLENEWS.txt/'
+p1250
+sg153
+S'IDLE Release Notes'
+p1251
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1252
+g151
+S'/download/releases/2.6/highlights/'
+p1253
+sg153
+S'Highlights'
+p1254
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1255
+g151
+S'/download/releases/2.6/bugs/'
+p1256
+sg153
+S'Bugs'
+p1257
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1258
+g151
+S'/download/releases/2.6/license/'
+p1259
+sg153
+g373
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1260
+g151
+S'/download/releases/2.6/msi/'
+p1261
+sg153
+S'Windows Installer Docs'
+p1262
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.6 Release'
+g389
+tp1263
+sS'download/releases/2.1'
+p1264
+((((i__main__
+Link
+(dp1265
+g151
+S'/download/releases/2.1/NEWS.txt/'
+p1266
+sg153
+S'Release Notes'
+p1267
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1268
+g151
+S'/download/releases/2.1/license/'
+p1269
+sg153
+g930
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1270
+g151
+S'/download/releases/2.1/rpms/'
+p1271
+sg153
+S'Linux RPMS'
+p1272
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1273
+g151
+S'/download/releases/2.1/press/'
+p1274
+sg153
+S'Press Release'
+p1275
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.1'
+Ntp1276
+sS'download/releases/2.0'
+p1277
+(NS'Python 2.0'
+Ntp1278
+sS'download/releases/2.3'
+p1279
+((((i__main__
+Link
+(dp1280
+g151
+S'/download/releases/2.3/highlights/'
+p1281
+sg153
+S'Highlights'
+p1282
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1283
+g151
+S'/download/releases/2.3/NEWS.txt/'
+p1284
+sg153
+S'Release Notes'
+p1285
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1286
+g151
+S'/download/releases/2.3/bugs/'
+p1287
+sg153
+g327
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1288
+g151
+S'/download/releases/2.3/license/'
+p1289
+sg153
+g519
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1290
+g151
+S'/download/releases/2.3/rpms/'
+p1291
+sg153
+g1173
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.3'
+Ntp1292
+sS'download/releases/2.2'
+p1293
+((((i__main__
+Link
+(dp1294
+g151
+S'/download/releases/2.2/NEWS.txt/'
+p1295
+sg153
+S'Release Notes'
+p1296
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1297
+g151
+S'/download/releases/2.2/bugs/'
+p1298
+sg153
+S'Bugs'
+p1299
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1300
+g151
+S'/download/releases/2.2/license/'
+p1301
+sg153
+g322
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1302
+g151
+S'/download/releases/2.2/rpms/'
+p1303
+sg153
+g800
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.2'
+Ntp1304
+sS'download/releases/2.1/rpms'
+p1305
+(NS'Linux RPMs for Python 2.1'
+g1272
+tp1306
+sS'download/releases/2.2.2'
+p1307
+((((i__main__
+Link
+(dp1308
+g151
+S'/download/releases/2.2.2/NEWS.txt/'
+p1309
+sg153
+S'Release Notes'
+p1310
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1311
+g151
+S'/download/releases/2.2.2/bugs/'
+p1312
+sg153
+g345
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1313
+g151
+S'/download/releases/2.2.2/license/'
+p1314
+sg153
+S'License'
+p1315
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1316
+g151
+S'/download/releases/2.2.2/rpms/'
+p1317
+sg153
+S'Linux RPMS'
+p1318
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1319
+g151
+S'/download/releases/2.2.2/macnotes.txt/'
+p1320
+sg153
+S'Mac Release Notes'
+p1321
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.2.2'
+Ntp1322
+sS'community/sigs/current/distutils-sig/doc/ipc7_devday'
+p1323
+(NS'Summary of "Extension Building" Session'
+Ntp1324
+sS'community/sigs/current/catalog-sig'
+p1325
+((((i__main__
+Link
+(dp1326
+g151
+S'/community/sigs/current/catalog-sig/others/'
+p1327
+sg153
+S'Other Systems'
+p1328
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1329
+g151
+S'/community/sigs/current/catalog-sig/requirements/'
+p1330
+sg153
+S'Requirements'
+p1331
+sg155
+I00
+sg156
+Nsb(tttS'SIG for Python Resource Cataloguing'
+S'Catalog SIG'
+p1332
+tp1333
+sS'psf/records/board/minutes/2006-02-25'
+p1334
+(NS'Python Software Foundation Board Meeting Minutes 2006-02-25'
+Ntp1335
+sS'download/releases/1.6.1/download_win'
+p1336
+(NS'Download Python 1.6.1 Windows Installer'
+S'Download Windows'
+p1337
+tp1338
+sS'community/sigs/retired/pythonwin-sig/mission'
+p1339
+(NS'PYTHONWIN-SIG, A Special Interest Group on Win95/NT GUI version of Python'
+Ntp1340
+sS'doc/topics/2003'
+p1341
+(NS'The Year in Python: 2003'
+Ntp1342
+sS'psf/records/board/minutes/2003-06-10'
+p1343
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (June 10, 2003)'
+Ntp1344
+sS'dev/summary/2005-06-16_2005-06-30'
+p1345
+(NS'Python-dev Summary for 2005-06-16 through 2005-06-30'
+Ntp1346
+sS'dev/summary/2004-07-01_2004-07-15'
+p1347
+(NS'python-dev Summary for 2004-07-01 through 2004-07-15'
+Ntp1348
+sS'community/sigs/current/catalog-sig/others'
+p1349
+(NS'Other Catalog Systems'
+g1328
+tp1350
+sS'download/releases/2.2.1'
+p1351
+((((i__main__
+Link
+(dp1352
+g151
+S'/download/releases/2.2.1/NEWS.txt/'
+p1353
+sg153
+S'Release Notes'
+p1354
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1355
+g151
+S'/download/releases/2.2.1/bugs/'
+p1356
+sg153
+g565
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1357
+g151
+S'/download/releases/2.2.1/license/'
+p1358
+sg153
+S'License'
+p1359
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1360
+g151
+S'/download/releases/2.2.1/rpms/'
+p1361
+sg153
+g110
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1362
+g151
+S'/download/releases/2.2.1/mac/'
+p1363
+sg153
+S'Macintosh Page'
+p1364
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1365
+g151
+S'/download/releases/2.2.1/macnotes.txt/'
+p1366
+sg153
+S'Mac Release Notes'
+p1367
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.2.1'
+Ntp1368
+sS'doc/faq/it'
+p1369
+(NS'Domande frequenti su Python'
+Ntp1370
+sS'doc/essays/stdexceptions'
+p1371
+(NS'Standard Exception Classes in Python 1.5'
+Ntp1372
+sS'about/success/rackspace'
+p1373
+(NS'Python Success Stories'
+Ntp1374
+sS'dev/summary/2005-11-01_2005-11-15'
+p1375
+(NS'python-dev Summary for 2005-11-01 through 2005-11-15'
+Ntp1376
+sS'download/releases/2.3/mro'
+p1377
+(NS'The Python 2.3 Method Resolution Order'
+Ntp1378
+sS'dev/peps/pep-0241'
+p1379
+(NVPEP 241 -- Metadata for Python Software Packages
+Ntp1380
+sS'psf/donations'
+p1381
+(NS'Donate to the PSF'
+S'Donations'
+p1382
+tp1383
+sS'psf/records/board/minutes/2008-08-11'
+p1384
+(NS'2008-08-11 PSF Board Meeting Minutes'
+Ntp1385
+sS'psf/records'
+p1386
+((((i__main__
+Link
+(dp1387
+g151
+S'/psf/records/board/minutes/'
+p1388
+sg153
+S'Board Meetings'
+p1389
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1390
+g151
+S'/psf/records/board/resolutions/'
+p1391
+sg153
+S'Board Resolutions'
+p1392
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1393
+g151
+S'/psf/records/members/'
+p1394
+sg153
+S"Members' Meetings"
+p1395
+sg155
+I00
+sg156
+Nsb(tttS'Python Software Foundation Public Records'
+S'Public Records'
+p1396
+tp1397
+sS'community/awards/frank-willison'
+p1398
+(NS'Frank Willison Award'
+S'Frank Willison Award'
+p1399
+tp1400
+sS'community/pycon/register'
+p1401
+(NS'PyCon Registration'
+Ntp1402
+sS'dev/summary/2006-07-01_2006-07-15'
+p1403
+(Ng83
+Ntp1404
+sS'community/sigs/retired/plot-sig/mission'
+p1405
+(NS'PLOT-SIG, a Special Interest Group on Data Plotting Solutions for Python'
+S'Mission'
+p1406
+tp1407
+sS'community/sigs/retired/plot-sig'
+p1408
+((((i__main__
+Link
+(dp1409
+g151
+S'/community/sigs/retired/plot-sig/mission/'
+p1410
+sg153
+g1406
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1411
+g151
+S'/community/sigs/retired/plot-sig/issues/'
+p1412
+sg153
+S'Issues'
+p1413
+sg155
+I00
+sg156
+Nsb(tttS'Plot-SIG - SIG on Data Plotting Solutions for Python'
+g722
+tp1414
+sS'community/sigs'
+p1415
+((((i__main__
+Link
+(dp1416
+g700
+S'/community/sigs/guidelines/'
+p1417
+sg702
+S'Guidelines'
+p1418
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp1419
+g700
+S'/community/sigs/coordination/'
+p1420
+sg702
+S'Coordination'
+p1421
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp1422
+g700
+S'/community/sigs/current/'
+p1423
+sg702
+S'Current SIGS'
+p1424
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp1425
+g700
+S'/community/sigs/retired/'
+p1426
+sg702
+g750
+sg704
+I00
+sg705
+Nsb(tttS'Python Special Interest Groups'
+S'Special Interest Groups'
+tp1427
+sS'psf/records/board/minutes/2006-12-11'
+p1428
+(NS'2006-12-11 PSF Board Meeting Minutes'
+Ntp1429
+sS'doc/faq/library'
+p1430
+(NS'Library and Extension FAQ'
+S'Library & Extensions'
+p1431
+tp1432
+sS'psf/committees'
+p1433
+(NS'Committees of the Python Software Foundation'
+S'Committees'
+p1434
+tp1435
+sS'about/success/nexedi'
+p1436
+(NS'Python Success Stories'
+Ntp1437
+sS'community/sigs/retired/do-sig'
+p1438
+((((i__main__
+Link
+(dp1439
+g151
+S'/community/sigs/retired/do-sig/issues/'
+p1440
+sg153
+g1077
+sg155
+I00
+sg156
+Nsb(tttS'DO-SIG - Python Distributed Objects Special Interest Group'
+g708
+tp1441
+sS'psf/records/board/minutes/2005-06-14'
+p1442
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (June 14, 2005)'
+Ntp1443
+sS'community/sigs/current/db-sig'
+p1444
+((((i__main__
+Link
+(dp1445
+g151
+S'/community/sigs/current/db-sig/status/'
+p1446
+sg153
+S'SIG Status'
+p1447
+sg155
+I00
+sg156
+Nsb(tttS'SIG on Tabular Databases in Python'
+S'Database SIG'
+p1448
+tp1449
+sS'download/releases/2.1.3/rpms'
+p1450
+(NS'Linux RPMs for Python 2.1.3'
+S'Linux RPMSs'
+p1451
+tp1452
+sS'doc/topics/yisl2002'
+p1453
+(NS'The Year in Scripting Languages'
+Ntp1454
+sS'psf/records/board/minutes/2005-03-24'
+p1455
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (March 25, 2005)'
+Ntp1456
+sS'news/archive'
+p1457
+(NS'News Archive'
+Ntp1458
+sS'download/releases/2.4.4/license'
+p1459
+(NS'Python 2.4.4 license'
+S'License'
+p1460
+tp1461
+sS'psf/summary'
+p1462
+(NS'Executive Summary: The Python Software Foundation'
+S'Executive Summary'
+p1463
+tp1464
+sS'dev/summary/2005-11-16_2005-11-30'
+p1465
+(NS'python-dev Summary for 2005-11-16 through 2005-11-30'
+Ntp1466
+sS'community/sigs/retired/progenv-sig/mission'
+p1467
+(NS'PROGENV-SIG, Discussion forum for Python programming-environment issues'
+g860
+tp1468
+sS'download/releases/2.0.1'
+p1469
+((((i__main__
+Link
+(dp1470
+g151
+S'/download/releases/2.0.1/NEWS.txt/'
+p1471
+sg153
+S'Release Notes'
+p1472
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1473
+g151
+S'/download/releases/2.0.1/press/'
+p1474
+sg153
+S'Press Release'
+p1475
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1476
+g151
+S'/download/releases/2.0.1/license/'
+p1477
+sg153
+S'License'
+p1478
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1479
+g151
+S'/download/releases/2.0.1/rpms/'
+p1480
+sg153
+S'Linux RPMS'
+p1481
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.0.1 Release'
+g406
+tp1482
+sS'doc/copyright'
+p1483
+(NS'Python Copyright'
+Ntp1484
+sS'download/releases/2.2.2/descrintro'
+p1485
+(NS'Unifying types and classes in Python 2.2'
+Ntp1486
+sS'community/sigs/current/distutils-sig/list'
+p1487
+(NS'Python Distutils-SIG: Mailing List'
+g1084
+tp1488
+sS'download/releases/2.1.1/press'
+p1489
+(NS'Python 2.1 Press Release'
+S'Press Release'
+p1490
+tp1491
+sS'contact'
+p1492
+(NS'Contacting Us'
+Ntp1493
+sS'psf/records/board/minutes/2008-07-14'
+p1494
+(NS'2008-07-14 PSF Board Meeting Minutes'
+Ntp1495
+sS'dev/peps/pep-0354'
+p1496
+(NVPEP 354 -- Enumerations in Python
+Ntp1497
+sS'dev/summary/2005-01-16_2005-01-31'
+p1498
+(NS'python-dev Summary for 2005-01-16 through 2005-01-31'
+Ntp1499
+sS'dev/peps/pep-0356'
+p1500
+(NVPEP 356 -- Python 2.5 Release Schedule
+Ntp1501
+sS'dev/peps/pep-0357'
+p1502
+(NVPEP 357 -- Allowing Any Object to be Used for Slicing
+Ntp1503
+sS'dev/peps/pep-0350'
+p1504
+(NVPEP 350 -- Codetags
+Ntp1505
+sS'dev/peps/pep-0351'
+p1506
+(NVPEP 351 -- The freeze protocol
+Ntp1507
+sS'dev/peps/pep-0352'
+p1508
+(NVPEP 352 -- Required Superclass for Exceptions
+Ntp1509
+sS'dev/peps/pep-0353'
+p1510
+(NVPEP 353 -- Using ssize_t as the index type
+Ntp1511
+sS'dev/summary/2005-02-15_2005-02-28'
+p1512
+(NS'python-dev Summary for 2005-02-15 through 2005-02-28'
+Ntp1513
+sS'dev/peps/pep-0358'
+p1514
+(NVPEP 358 -- The "bytes" Object
+Ntp1515
+sS'dev/peps/pep-0359'
+p1516
+(NVPEP 359 -- The "make" Statement
+Ntp1517
+sS'dev/summary/2006-05-01_2006-05-15'
+p1518
+(Ng83
+Ntp1519
+sS'psf/records/board/minutes/2008-04-14'
+p1520
+(NS'2008-04-14 PSF Board Meeting Minutes'
+Ntp1521
+sS'download/svn'
+p1522
+(NS'Source Access Via Subversion'
+g201
+tp1523
+sS'download/releases/2.4.5/license'
+p1524
+(NS'Python 2.4.4 license'
+S'License'
+p1525
+tp1526
+sS'dev/summary/2004-12-16_2004-12-31'
+p1527
+(NS'python-dev Summary for 2004-12-16 through 2004-12-31'
+Ntp1528
+sS'psf/about'
+p1529
+(NS'About the Python Software Foundation'
+S'About the PSF'
+p1530
+tp1531
+sS'community/sigs/retired/locator-sig/mission'
+p1532
+(NS'Mission'
+g513
+tp1533
+sS'doc'
+p1534
+((((i__main__
+Link
+(dp1535
+g151
+S'http://docs.python.org'
+p1536
+sg153
+S'Current Docs'
+p1537
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1538
+g151
+S'http://wiki.python.org/moin/BeginnersGuide'
+p1539
+sg153
+S"Beginner's Guide"
+p1540
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1541
+g151
+S'/doc/faq/'
+p1542
+sg153
+S'FAQs'
+p1543
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1544
+g151
+S'http://wiki.python.org/moin/'
+p1545
+sg153
+S'Wiki'
+p1546
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1547
+g151
+S'/doc/other/'
+p1548
+sg153
+S'Other Doc Resources'
+p1549
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1550
+g151
+S'/dev/peps/'
+p1551
+sg153
+S'PEP Index'
+p1552
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1553
+g151
+S'http://wiki.python.org/moin/PythonBooks'
+p1554
+sg153
+S'Book List'
+p1555
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1556
+g151
+S'/doc/topics/'
+p1557
+sg153
+S'Topic Guides'
+p1558
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1559
+g151
+S'/doc/newstyle/'
+p1560
+sg153
+g340
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1561
+g151
+S'http://docs.python.org/library/re.html'
+p1562
+sg153
+S'Regular Expressions'
+p1563
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1564
+g151
+S'/doc/av/'
+p1565
+sg153
+S'Audio/Visual Talks'
+p1566
+sg155
+I00
+sg156
+Nsb(tttS'Python Documentation Index'
+S'Documentation'
+tp1567
+sS'psf/forms'
+p1568
+(NS'PSF Membership Forms'
+S'Membership Forms'
+p1569
+tp1570
+sS'download/releases/2.5/bugs'
+p1571
+(NS'Bugs in Python 2.5'
+g1219
+tp1572
+sS'dev/summary/2004-08-16_2004-08-31'
+p1573
+(NS'python-dev Summary for 2004-08-16 through 2004-08-31'
+Ntp1574
+sS'dev/setup'
+p1575
+(NS'Setting Up for Developing Python'
+g590
+tp1576
+sS'dev/summary/2004-06-16_2004-06-30'
+p1577
+(NS'python-dev Summary for 2004-06-16 through 2004-06-30'
+Ntp1578
+sS'dev/peps/pep-0219'
+p1579
+(NVPEP 219 -- Stackless Python
+Ntp1580
+sS'dev/peps/pep-0218'
+p1581
+(NVPEP 218 -- Adding a Built-In Set Object Type
+Ntp1582
+sS'dev/peps/pep-0215'
+p1583
+(NVPEP 215 -- String Interpolation
+Ntp1584
+sS'download/releases/2.2.3'
+p1585
+((((i__main__
+Link
+(dp1586
+g151
+S'/download/releases/2.2.3/NEWS.txt/'
+p1587
+sg153
+S"What's New"
+p1588
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1589
+g151
+S'/download/releases/2.2.3/descrintro/'
+p1590
+sg153
+g1097
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1591
+g151
+S'/download/releases/2.2.3/bugs/'
+p1592
+sg153
+g137
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1593
+g151
+S'/download/releases/2.2.3/license/'
+p1594
+sg153
+S'License'
+p1595
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1596
+g151
+S'/download/releases/2.2.3/rpms/'
+p1597
+sg153
+S'Linux RPMS'
+p1598
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.2.3'
+g400
+tp1599
+sS'dev/peps/pep-0217'
+p1600
+(NVPEP 217 -- Display Hook for Interactive Use
+Ntp1601
+sS'dev/peps/pep-0216'
+p1602
+(NVPEP 216 -- Docstring Format
+Ntp1603
+sS'dev/peps/pep-0211'
+p1604
+(NVPEP 211 -- Adding A New Outer Product Operator
+Ntp1605
+sS'dev/peps/pep-0210'
+p1606
+(NVPEP 210 -- Decoupling the Interpreter Loop
+Ntp1607
+sS'dev/peps/pep-0213'
+p1608
+(NVPEP 213 -- Attribute Access Handlers
+Ntp1609
+sS'doc/faq/extending'
+p1610
+(NS'Extending and Embedding FAQ'
+S'Extending & Embedding'
+p1611
+tp1612
+sS'psf/records/exemption'
+p1613
+(NS'Python Software Foundation: Missing 1023 form'
+Ntp1614
+sS'dev/summary/2006-06-01_2006-06-15'
+p1615
+(Ng83
+Ntp1616
+sS'dev/summary/2006-08-01_2006-08-15'
+p1617
+(Ng83
+Ntp1618
+sS'about/success/xist'
+p1619
+(NS'Python Success Stories'
+Ntp1620
+sS'psf/records/members/2008-03-14'
+p1621
+(NS"2008 PSF Members' Meeting Minutes"
+Ntp1622
+sS'doc/essays/list2str'
+p1623
+(NS'Python Patterns - An Optimization Anecdote'
+Ntp1624
+sS'download/releases/2.4.2/license'
+p1625
+(NS'Python 2.4.2 license'
+S'License'
+p1626
+tp1627
+sS'psf/records/board/minutes/2003-05-13'
+p1628
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (May 13, 2003)'
+Ntp1629
+sS'dev/buildbot/community'
+p1630
+(NS'Python Community Buildbot'
+Ntp1631
+sS'community/sigs/retired/parser-sig'
+p1632
+((((i__main__
+Link
+(dp1633
+g151
+S'/community/sigs/retired/parser-sig/towards-standard/'
+p1634
+sg153
+S'Towards a Standard Parser'
+p1635
+sg155
+I00
+sg156
+Nsb(tttS'Parser-SIG - SIG on Parser Generation for Python'
+g716
+tp1636
+sS'community/sigs/retired/types-sig/typeclass'
+p1637
+(NS'Details on the types vs. classes dichotomy'
+S'Type Class'
+p1638
+tp1639
+sS'download/releases/2.0.1/rpms'
+p1640
+(NS'Linux RPMs for Python 2.1'
+g1481
+tp1641
+sS'doc/other'
+p1642
+(NS'Other Python Documentation Collections'
+g1549
+tp1643
+sS'dev/faq'
+p1644
+(NS'Frequently Asked Questions for Python Developers'
+g617
+tp1645
+sS'dev/peps/pep-0305'
+p1646
+(NVPEP 305 -- CSV File API
+Ntp1647
+sS'dev/peps/pep-0321'
+p1648
+(NVPEP 321 -- Date/Time Parsing and Formatting
+Ntp1649
+sS'dev/peps/pep-0320'
+p1650
+(NVPEP 320 -- Python 2.4 Release Schedule
+Ntp1651
+sS'community/sigs/current/catalog-sig/requirements'
+p1652
+(NS'Catalog Requirements'
+g1331
+tp1653
+sS'dev/peps/pep-0322'
+p1654
+(NVPEP 322 -- Reverse Iteration
+Ntp1655
+sS'dev/peps/pep-0325'
+p1656
+(NVPEP 325 -- Resource-Release Support for Generators
+Ntp1657
+sS'community/sigs/current/meta-sig'
+p1658
+(NS'SIG on PSF SIGs and Mailing Lists'
+S'Meta SIG'
+p1659
+tp1660
+sS'dev/peps/pep-0327'
+p1661
+(NVPEP 327 -- Decimal Data Type
+Ntp1662
+sS'dev/peps/pep-0326'
+p1663
+(NVPEP 326 -- A Case for Top and Bottom Values
+Ntp1664
+sS'dev/peps/pep-0329'
+p1665
+(NVPEP 329 -- Treating Builtins as Constants in the Standard Library
+Ntp1666
+sS'dev/summary/2004-11-16_2004-11-30'
+p1667
+(NS'python-dev Summary for 2004-11-16 through 2004-11-30'
+Ntp1668
+sS'psf/forms/application'
+p1669
+(NS'Python Software Foundation: Membership Application for Nominated Member'
+Ntp1670
+sS'doc/faq/installed'
+p1671
+(NS'Why is Python installed on my computer?'
+S'Why is Python on my computer?'
+p1672
+tp1673
+sS'about/success/cog'
+p1674
+(NS'Python Success Stories'
+Ntp1675
+sS'dev/peps/pep-0101'
+p1676
+(NVPEP 101 -- Doing Python Releases 101
+Ntp1677
+sS'dev/peps/pep-0100'
+p1678
+(NVPEP 100 -- Python Unicode Integration
+Ntp1679
+sS'dev/peps/pep-0102'
+p1680
+(NVPEP 102 -- Doing Python Micro Releases
+Ntp1681
+sS'dev/peps/pep-0666'
+p1682
+(NVPEP 666 -- Reject Foolish Indentation
+Ntp1683
+sS'community/sigs/retired/parser-sig/towards-standard'
+p1684
+(NS'Towards a Standard Parser Generator</title>'
+g1635
+tp1685
+sS'psf/records/members/2001-03-05'
+p1686
+(NS'Python Software Foundation: Minutes of the 1st Annual Meeting'
+Ntp1687
+sS'psf/records/board/minutes/2005-07-12'
+p1688
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting (July 12, 2005)'
+Ntp1689
+sS'doc/slideshows'
+p1690
+(NS'Slideshow Collections for Instructional Use'
+Ntp1691
+sS'download/releases/2.4.1'
+p1692
+((((i__main__
+Link
+(dp1693
+g151
+S'/download/releases/2.4.1/notes/'
+p1694
+sg153
+S'Release Notes'
+p1695
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1696
+g151
+S'/download/releases/2.4.1/bugs/'
+p1697
+sg153
+g330
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1698
+g151
+S'/download/releases/2.4.1/license/'
+p1699
+sg153
+g1199
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1700
+g151
+S'/download/releases/2.4/msi/'
+p1701
+sg153
+S'Windows MSI Installer'
+p1702
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1703
+g151
+S'/download/releases/2.4.1/rpms/'
+p1704
+sg153
+S'Linux RPMS'
+p1705
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.4.1'
+Ntp1706
+sS'download/releases/2.4.3'
+p1707
+((((i__main__
+Link
+(dp1708
+g151
+S'/download/releases/2.4.3/NEWS.txt/'
+p1709
+sg153
+S'Release Notes'
+p1710
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1711
+g151
+S'/download/releases/2.4.3/bugs/'
+p1712
+sg153
+g365
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1713
+g151
+S'/download/releases/2.4.3/license/'
+p1714
+sg153
+g906
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1715
+g151
+S'/download/releases/2.4/msi/'
+p1716
+sg153
+S'Windows MSI Installer'
+p1717
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.4.3 Release'
+Ntp1718
+sS'download/releases/2.4.2'
+p1719
+((((i__main__
+Link
+(dp1720
+g151
+S'/download/releases/2.4.2/NEWS.txt/'
+p1721
+sg153
+S'Release Notes'
+p1722
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1723
+g151
+S'/download/releases/2.4.2/bugs/'
+p1724
+sg153
+S'Bugs'
+p1725
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1726
+g151
+S'/download/releases/2.4.2/license/'
+p1727
+sg153
+g1626
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1728
+g151
+S'/download/releases/2.4/msi/'
+p1729
+sg153
+S'Windows MSI Installer'
+p1730
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1731
+g151
+S'/download/releases/2.4.2/rpms/'
+p1732
+sg153
+S'Linux RPMS'
+p1733
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.4.2 Release'
+Ntp1734
+sS'doc/av/5minutes'
+p1735
+(NS'5 Minutes with Python - A Video Series'
+S'5-Minutes with Python'
+p1736
+tp1737
+sS'download/releases/2.4.4'
+p1738
+((((i__main__
+Link
+(dp1739
+g151
+S'/download/releases/2.4.4/NEWS.txt/'
+p1740
+sg153
+S'Release Notes'
+p1741
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1742
+g151
+S'/download/releases/2.4.4/bugs/'
+p1743
+sg153
+S'Bugs'
+p1744
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1745
+g151
+S'/download/releases/2.4.4/license/'
+p1746
+sg153
+g1460
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1747
+g151
+S'/download/releases/2.4/msi/'
+p1748
+sg153
+S'Windows MSI Installer'
+p1749
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.4.4 Release'
+Ntp1750
+sS'doc/essays/packages'
+p1751
+(NS'Built-in Package Support in Python 1.5'
+Ntp1752
+sS'dev/summary/2005-01-01_2005-01-15'
+p1753
+(NS'python-dev Summary for 2005-01-01 through 2005-01-15'
+Ntp1754
+sS'dev/summary/2006-10-16_2006-10-31'
+p1755
+(Ng83
+Ntp1756
+sS'about/success/ezro'
+p1757
+(NS'Python Success Stories'
+Ntp1758
+sS'dev/summary/2002-10-01-2002-10-13'
+p1759
+(NS'python-dev Summary for 2003-10-01 through 2003-10-13'
+Ntp1760
+sS'dev/peps/pep-3138'
+p1761
+(NVPEP 3138 -- String representation in Python 3000
+Ntp1762
+sS'about/success/journyx'
+p1763
+(NS'Python Success Stories'
+Ntp1764
+sS'dev/peps/pep-3135'
+p1765
+(NVPEP 3135 -- New Super
+Ntp1766
+sS'dev/peps/pep-3134'
+p1767
+(NVPEP 3134 -- Exception Chaining and Embedded Tracebacks
+Ntp1768
+sS'dev/peps/pep-3137'
+p1769
+(NVPEP 3137 -- Immutable Bytes and Mutable Buffer
+Ntp1770
+sS'dev/peps/pep-3136'
+p1771
+(NVPEP 3136 -- Labeled break and continue
+Ntp1772
+sS'dev/peps/pep-3131'
+p1773
+(NVPEP 3131 -- Supporting Non-ASCII Identifiers
+Ntp1774
+sS'dev/peps/pep-3130'
+p1775
+(NVPEP 3130 -- Access to Current Module/Class/Function
+Ntp1776
+sS'dev/peps/pep-3133'
+p1777
+(NVPEP 3133 -- Introducing Roles
+Ntp1778
+sS'dev/peps/pep-3132'
+p1779
+(NVPEP 3132 -- Extended Iterable Unpacking
+Ntp1780
+sS'psf/records/board/minutes/2007-11-12'
+p1781
+(NS'2007-11-12 PSF Board Meeting Minutes'
+Ntp1782
+sS'dev/peps/pep-0323'
+p1783
+(NVPEP 323 -- Copyable Iterators
+Ntp1784
+sS'about/website'
+p1785
+(NS'About the Website'
+S'Website'
+tp1786
+sS'psf/grants'
+p1787
+(NS'PSF Grants Program'
+S'Grants Program'
+p1788
+tp1789
+sS'dev/summary/2003-08-16_2003-08-31'
+p1790
+(NS'python-dev Summary for 2003-08-16 through 2003-08-31'
+Ntp1791
+sS'dev/doc'
+p1792
+(NS'Documentation Development'
+g614
+tp1793
+sS'doc/topics'
+p1794
+((((i__main__
+Link
+(dp1795
+g151
+S'http://wiki.python.org/moin/BeginnersGuide'
+p1796
+sg153
+S"Beginner's Guide"
+p1797
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1798
+g151
+S'http://wiki.python.org/moin/WebProgramming'
+p1799
+sg153
+S'Web Programming'
+p1800
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1801
+g151
+S'http://pyxml.sourceforge.net/topics/'
+p1802
+sg153
+S'XML'
+p1803
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1804
+g151
+S'http://wiki.python.org/moin/DatabaseProgramming'
+p1805
+sg153
+S'Databases'
+p1806
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1807
+g151
+S'http://wiki.python.org/moin/GuiProgramming'
+p1808
+sg153
+S'GUI Programming'
+p1809
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1810
+g151
+S'http://wiki.python.org/moin/NumericAndScientific'
+p1811
+sg153
+S'Scientific Computing'
+p1812
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1813
+g151
+S'http://wiki.python.org/moin/TkInter'
+p1814
+sg153
+S'Tkinter'
+p1815
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1816
+g151
+S'http://wiki.python.org/moin/LanguageParsing'
+p1817
+sg153
+S'Parser Generators'
+p1818
+sg155
+I00
+sg156
+Nsb(tttS'Topics'
+g1558
+tp1819
+sS'dev/summary/2002-11-01_2002-11-15'
+p1820
+(NS'python-dev Summary, 2002-11-01 through 2002-11-15'
+Ntp1821
+sS'psf/press-release/pr20030213'
+p1822
+(NS'Python Software Foundation: Press Release 13-Feb-2003'
+Ntp1823
+sS'psf/records/board/minutes/2007-10-08'
+p1824
+(NS'2007-10-08 PSF Board Meeting Minutes'
+Ntp1825
+sS'dev/peps/pep-3115'
+p1826
+(NVPEP 3115 -- Metaclasses in Python 3000
+Ntp1827
+sS'doc/faq'
+p1828
+((((i__main__
+Link
+(dp1829
+g151
+S'/doc/faq/general/'
+p1830
+sg153
+g921
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1831
+g151
+S'/doc/faq/programming/'
+p1832
+sg153
+g837
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1833
+g151
+S'/doc/faq/library/'
+p1834
+sg153
+g1431
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1835
+g151
+S'/doc/faq/extending/'
+p1836
+sg153
+g1611
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1837
+g151
+S'/doc/faq/windows/'
+p1838
+sg153
+g1039
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1839
+g151
+S'/doc/faq/gui/'
+p1840
+sg153
+S'GUI Programming'
+p1841
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1842
+g151
+S'/doc/faq/installed/'
+p1843
+sg153
+g1672
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1844
+g151
+S'http://wiki.python.org/moin/'
+p1845
+sg153
+S'Wiki'
+p1846
+sg155
+I00
+sg156
+Nsb(tttS'Python Frequently Asked Questions'
+g1543
+tp1847
+sS'about/success/eztrip'
+p1848
+(NS'Python Success Stories'
+Ntp1849
+sS'dev/peps/pep-3111'
+p1850
+(NVPEP 3111 -- Simple input built-in in Python 3000
+Ntp1851
+sS'community/sigs/retired/matrix-sig/faq'
+p1852
+(NS'[PYTHON MATRIX-SIG] FAQ'
+S'FAQ'
+p1853
+tp1854
+sS'doc/essays/foreword2'
+p1855
+(NS'Foreword for "Programming Python" (2nd ed.)'
+Ntp1856
+sS'doc/faq/es/general'
+p1857
+(NS'FAQ General de Python'
+S'General'
+p1858
+tp1859
+sS'dev/peps/pep-0273'
+p1860
+(NVPEP 273 -- Import Modules from Zip Archives
+Ntp1861
+sS'dev/buildbot'
+p1862
+(NS'Python Buildbot'
+g611
+tp1863
+sS'dev/searchplugin'
+p1864
+(NS'Python Dev Firefox Search Plugin'
+Ntp1865
+sS'community/pycon/fatal'
+p1866
+(NS'PyCon Registration - Fatal Error'
+Ntp1867
+sS'doc/av'
+p1868
+((((i__main__
+Link
+(dp1869
+g151
+S'/doc/av/5minutes/'
+p1870
+sg153
+g1736
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1871
+g151
+S'/doc/slideshows/'
+p1872
+sg153
+S'Slideshow collections'
+p1873
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1874
+g151
+S'/doc/av/howto/'
+p1875
+sg153
+S'How to create screencasts'
+p1876
+sg155
+I00
+sg156
+Nsb(tttS'Audio/Video Resources for Python'
+g1566
+tp1877
+sS'psf/press-release/pr20020416'
+p1878
+(NS'Python Software Foundation: Press Release 10-Apr-2002'
+Ntp1879
+sS'psf/records/board/conference/2003-12'
+p1880
+(NS'Python Software Foundation: Python Conference Committee Report (December 2003)'
+Ntp1881
+sS'dev/summary/2004-01-01_2004-01-31'
+p1882
+(NS'python-dev Summary for 2004-01-01 through 2004-01-31'
+Ntp1883
+sS'dev/peps/pep-0270'
+p1884
+(NVPEP 270 -- uniq method for list objects
+Ntp1885
+sS'community/sigs/current/distutils-sig/requirements'
+p1886
+(NS'Python Distutils-SIG: Requirements'
+g1089
+tp1887
+sS'download/releases/2.4.4/bugs'
+p1888
+(NS'Bugs in Python 2.4.4'
+g1744
+tp1889
+sS'community/sigs/current/c++-sig'
+p1890
+(NS'SIG for development of Python/C++ integration'
+S'C++ SIG'
+p1891
+tp1892
+sS'psf/records/board/minutes/2005-10-11'
+p1893
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting, October 11, 2005 (Draft)'
+Ntp1894
+sS'dev/summary/2003-07-01_2003-07-31'
+p1895
+(NS'python-dev Summary for 2003-07-01 through 2003-07-31'
+Ntp1896
+sS'news'
+p1897
+((((i__main__
+Link
+(dp1898
+g700
+S'/news/security/'
+p1899
+sg702
+S'Security Advisories'
+p1900
+sg704
+I00
+sg705
+Nsb(tttS'Python News'
+S'News'
+tp1901
+sS'dev/peps/pep-0324'
+p1902
+(NVPEP 324 -- subprocess - New process module
+Ntp1903
+sS'psf/contrib/contrib-form'
+p1904
+(NS'PSF Contributor Agreement'
+Ntp1905
+sS'psf/records/board/minutes/2002-05-14'
+p1906
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (May 14, 2002)'
+Ntp1907
+sS'download/releases/2.3.4/bugs'
+p1908
+(NS'Bugs in Python 2.3.4'
+g488
+tp1909
+sS'dev/summary/2005-05-01_2005-05-15'
+p1910
+(NS'python-dev Summary for 2005-05-01 through 2005-05-15'
+Ntp1911
+sS'download/releases/2.1.1/fsf'
+p1912
+(NS'FSF statement'
+Ntp1913
+sS'dev/summary/2004-08-01_2004-08-15'
+p1914
+(NS'python-dev Summary for 2004-08-01 through 2004-08-15'
+Ntp1915
+sS'download/releases/2.4.5'
+p1916
+((((i__main__
+Link
+(dp1917
+g151
+S'/download/releases/2.4.5/NEWS.txt/'
+p1918
+sg153
+S'Release Notes'
+p1919
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1920
+g151
+S'/download/releases/2.4.5/bugs/'
+p1921
+sg153
+S'Bugs'
+p1922
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1923
+g151
+S'/download/releases/2.4.5/license/'
+p1924
+sg153
+g1525
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.4.5 Release'
+g394
+tp1925
+sS'dev/peps/pep-0370'
+p1926
+(NVPEP 370 -- Per user site-packages directory
+Ntp1927
+sS'community/pycon/register-early'
+p1928
+(NS'PyCon Registration Form'
+Ntp1929
+sS'about/success/testgo'
+p1930
+(NS'Python Success Stories'
+Ntp1931
+sS'about/success/honeywell'
+p1932
+(NS'Python Success Stories'
+Ntp1933
+sS'dev/summary/2006-01-16_2006-01-31'
+p1934
+(Ng83
+Ntp1935
+sS'dev/peps/pep-0278'
+p1936
+(NVPEP 278 -- Universal Newline Support
+Ntp1937
+sS'dev/peps/pep-0318'
+p1938
+(NVPEP 318 -- Decorators for Functions and Methods
+Ntp1939
+sS'psf/records/board/minutes/2008-03-14'
+p1940
+(NS'2008-03-14 PSF Board Meeting Minutes'
+Ntp1941
+sS'psf/records/board/minutes/2008-03-10'
+p1942
+(NS'2008-03-10 PSF Board Meeting Minutes'
+Ntp1943
+sS'download/releases/2.4/highlights'
+p1944
+(NS'Highlights: Python 2.4'
+g1230
+tp1945
+sS'community'
+p1946
+((((i__main__
+Link
+(dp1947
+g151
+S'/community/pycon/'
+p1948
+sg153
+g90
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1949
+g151
+S'/community/workshops/'
+p1950
+sg153
+g239
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1951
+g151
+S'/community/awards/'
+p1952
+sg153
+S'Awards'
+p1953
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1954
+g151
+S'/community/lists/'
+p1955
+sg153
+g281
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1956
+g151
+S'http://wiki.python.org/moin/LocalUserGroups'
+p1957
+sg153
+S'User Groups'
+p1958
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1959
+g151
+S'/community/sigs/'
+p1960
+sg153
+S'Special Interest Groups'
+p1961
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1962
+g151
+S'/community/irc/'
+p1963
+sg153
+S'Internet Relay Chat'
+p1964
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1965
+g151
+S'http://wiki.python.org/moin/'
+p1966
+sg153
+S'Python Wiki'
+p1967
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1968
+g151
+S'/community/logos/'
+p1969
+sg153
+S'Logos'
+p1970
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1971
+g151
+S'/community/jobs/'
+p1972
+sg153
+S'Jobs'
+p1973
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1974
+g151
+S'http://planet.python.org/'
+p1975
+sg153
+S'Weblogs'
+p1976
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1977
+g151
+S'http://wiki.python.org/moin/PythonEvents'
+p1978
+sg153
+S'Event Calendar'
+p1979
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1980
+g151
+S'http://wiki.python.org/moin/PythonTraining'
+p1981
+sg153
+S'Training Classes'
+p1982
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1983
+g151
+S'http://wiki.python.org/moin/PythonWriters'
+p1984
+sg153
+S'Writers/TechEditors'
+p1985
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp1986
+g151
+S'http://www.cafepress.com/pydotorg'
+p1987
+sg153
+S'Python Merchandise'
+p1988
+sg155
+I00
+sg156
+Nsb(tttS'Python Community'
+S'Community'
+tp1989
+sS'psf/records/board/minutes/2002-09-10'
+p1990
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (September 10, 2002)'
+Ntp1991
+sS'download/contributed'
+p1992
+(NS'Contributed Python Software'
+g204
+tp1993
+sS'dev/summary/2006-03-01_2006-03-15'
+p1994
+(Ng83
+Ntp1995
+sS'doc/essays/foreword'
+p1996
+(NS'Foreword for "Programming Python" (1st ed.)'
+Ntp1997
+sS'news/security/PSF-2006-001'
+p1998
+(NS'PSF-2006-001 - Buffer overrun in repr() for UCS-4 encoded unicode strings'
+Ntp1999
+sS'community/jobs'
+p2000
+((((i__main__
+Link
+(dp2001
+g151
+S'http://www.careerbuilder.com/JobSeeker/Jobs/JobResults.aspx?S%3Asbkw=python&S%3Asbcn=&S%3Asbsn=ALL&S%3Asbfr=30&S%3Asbsbmt=Search'
+p2002
+sg153
+S'Careerbuilder.com'
+p2003
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2004
+g151
+S'http://www.search.computerjobs.com/job_results.aspx?s_kw=python'
+p2005
+sg153
+S'ComputerJobs.com'
+p2006
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2007
+g151
+S'http://seeker.dice.com/jobsearch/servlet/JobSearch?FREE_TEXT=python&op=100'
+p2008
+sg153
+S'DICE'
+p2009
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2010
+g151
+S'http://www.indeed.com/jobs?q=python'
+p2011
+sg153
+S'Indeed (Aggregator)'
+p2012
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2013
+g151
+S'http://www.juju.com/keyword/python'
+p2014
+sg153
+S'Juju.com (Aggregator)'
+p2015
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2016
+g151
+S'http://www.mojolin.com/python_job.php'
+p2017
+sg153
+S'Mojolin'
+p2018
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2019
+g151
+S'http://jobsearch.monster.com/jobsearch.asp?q=Python&amp;sort=rv&amp;vw=b&amp;cy=US&amp;re=14&amp;brd=1,1862,1863'
+p2020
+sg153
+S'Monster.com'
+p2021
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2022
+g151
+S'http://www.opensourcexperts.com/Jobs/index_html/Python'
+p2023
+sg153
+S'opensourceXperts.com'
+p2024
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2025
+g151
+S'http://python.jobmart.com/'
+p2026
+sg153
+S'Python/Zope Job Mart'
+p2027
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2028
+g151
+S'http://www.uklug.co.uk/cgi-bin/gethtmljobs.pl?K=python'
+p2029
+sg153
+S'Uklug'
+p2030
+sg155
+I00
+sg156
+Nsb(tttS'Python Job Board'
+g1973
+tp2031
+sS'dev/peps/pep-0336'
+p2032
+(NVPEP 336 -- Make None Callable
+Ntp2033
+sS'dev/why'
+p2034
+(NS'Why Develop Python?'
+g587
+tp2035
+sS'psf/records/board/minutes/2007-04-09'
+p2036
+(NS'2007-04-09 PSF Board Meeting Minutes'
+Ntp2037
+sS'dev/peps/pep-0242'
+p2038
+(NVPEP 242 -- Numeric Kinds
+Ntp2039
+sS'dev/peps/pep-0243'
+p2040
+(NVPEP 243 -- Module Repository Upload Mechanism
+Ntp2041
+sS'dev/peps/pep-0240'
+p2042
+(NVPEP 240 -- Adding a Rational Literal to Python
+Ntp2043
+sS'psf/records/board/minutes/2002-02-12'
+p2044
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (Feb. 12, 2002)'
+Ntp2045
+sS'dev/peps/pep-0246'
+p2046
+(NVPEP 246 -- Object Adaptation
+Ntp2047
+sS'dev/peps/pep-0368'
+p2048
+(NVPEP 368 -- Standard image protocol and class
+Ntp2049
+sS'dev/peps/pep-0244'
+p2050
+(NVPEP 244 -- The `directive' statement
+Ntp2051
+sS'dev/peps/pep-0245'
+p2052
+(NVPEP 245 -- Python Interface Syntax
+Ntp2053
+sS'dev/peps/pep-0365'
+p2054
+(NVPEP 365 -- Adding the pkg_resources module
+Ntp2055
+sS'community/pycon/input_err'
+p2056
+(NS'PyCon Registration - Input Errors'
+Ntp2057
+sS'dev/peps/pep-0248'
+p2058
+(NVPEP 248 -- Python Database API Specification v1.0
+Ntp2059
+sS'dev/peps/pep-0249'
+p2060
+(NVPEP 249 -- Python Database API Specification v2.0
+Ntp2061
+sS'dev/peps/pep-0361'
+p2062
+(NVPEP 361 -- Python 2.6 and 3.0 Release Schedule
+Ntp2063
+sS'dev/peps/pep-0360'
+p2064
+(NVPEP 360 -- Externally Maintained Packages
+Ntp2065
+sS'dev/peps/pep-0363'
+p2066
+(NVPEP 363 -- Syntax For Dynamic Attribute Access
+Ntp2067
+sS'dev/peps/pep-0362'
+p2068
+(NVPEP 362 -- Function Signature Object
+Ntp2069
+sS'dev/summary/2003-12-01_2003-12-31'
+p2070
+(NS'python-dev Summary for 2003-12-01 through 2003-12-31'
+Ntp2071
+sS'community/sigs/retired/gui-sig'
+p2072
+(NS'SIG on Graphical User Interfaces for Python'
+g735
+tp2073
+sS'psf/records/board/treasurer'
+p2074
+(NS'Python Software Foundation Treasurer Reports'
+Ntp2075
+sS'dev/peps/pep-0208'
+p2076
+(NVPEP 208 -- Reworking the Coercion Model
+Ntp2077
+sS'dev/peps/pep-0020'
+p2078
+(NVPEP 20 -- The Zen of Python
+Ntp2079
+sS'community/sigs/current/email-sig/status'
+p2080
+(NS'email SIG: Status'
+S'Status'
+p2081
+tp2082
+sS'download/releases/2.4.4/rpms'
+p2083
+(NS'Linux RPMs for Python 2.4.4'
+Ntp2084
+sS'dev/peps/pep-0328'
+p2085
+(NVPEP 328 -- Imports: Multi-Line and Absolute/Relative
+Ntp2086
+sS'psf/records/board/minutes/2005-05-10'
+p2087
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (May 10, 2005)'
+Ntp2088
+sS'dev/peps/pep-3141'
+p2089
+(NVPEP 3141 -- A Type Hierarchy for Numbers
+Ntp2090
+sS'download/releases/2.3.1/rpms'
+p2091
+(NS'Linux RPMs for Python 2.3.1'
+g458
+tp2092
+sS'psf/records/board/minutes/2008-05-12'
+p2093
+(NS'2008-05-12 PSF Board Meeting Minutes'
+Ntp2094
+sS'community/sigs/current/image-sig/t1lib'
+p2095
+(NS't1python - A Type1 Font Renderer for Python'
+Ntp2096
+sS'psf/records/board/minutes/2002-04-09'
+p2097
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (Apr. 9, 2002)'
+Ntp2098
+sS'download/releases/2.3.3/bugs'
+p2099
+(NS'Bugs in Python 2.3.3'
+g436
+tp2100
+sS'psf/press-release/pr20040209'
+p2101
+(NS'Python Software Foundation: Press Release 9-Feb-2004'
+Ntp2102
+sS'download/releases/2.4/license'
+p2103
+(NS'Python 2.4 license'
+g1237
+tp2104
+sS'psf/press-release'
+p2105
+(NS'Python Software Foundation Press Releases'
+S'Press Releases'
+p2106
+tp2107
+sS'psf/records/board/minutes/2004-11-09'
+p2108
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting (November 9, 2004)'
+Ntp2109
+sS'community/sigs/retired/types-sig'
+p2110
+((((i__main__
+Link
+(dp2111
+g151
+S'/community/sigs/retired/types-sig/status/'
+p2112
+sg153
+g694
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2113
+g151
+S'/community/sigs/retired/types-sig/interfaces/'
+p2114
+sg153
+g954
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2115
+g151
+S'/community/sigs/retired/types-sig/statictypes/'
+p2116
+sg153
+g140
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2117
+g151
+S'/community/sigs/retired/types-sig/typeclass/'
+p2118
+sg153
+g1638
+sg155
+I00
+sg156
+Nsb(tttS'The Python type system SIG'
+g727
+tp2119
+sS'download/releases/2.3.6/bugs'
+p2120
+(NS'Bugs in Python 2.3.6'
+g466
+tp2121
+sS'community/sigs/current/pythonmac-sig'
+p2122
+(NS'Pythonmac-SIG - SIG on Python for the Apple Macintosh'
+S'Pythonmac SIG'
+p2123
+tp2124
+sS'dev/summary/2004-12-01_2004-12-15'
+p2125
+(NS'python-dev Summary for 2004-12-01 through 2004-12-15'
+Ntp2126
+sS'dev/summary/2002-09-01-2002-09-15'
+p2127
+(NS'python-dev Summary for 2002-09-01 through 2002-09-15'
+Ntp2128
+sS'doc/2.5.2'
+p2129
+((((i__main__
+Link
+(dp2130
+g151
+S'http://docs.python.org/'
+p2131
+sg153
+S'Current Docs'
+p2132
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2133
+g151
+S'http://wiki.python.org/moin/BeginnersGuide'
+p2134
+sg153
+S"Beginner's Guide"
+p2135
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2136
+g151
+S'/doc/faq/'
+p2137
+sg153
+S'FAQs'
+p2138
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2139
+g151
+S'http://wiki.python.org/moin/'
+p2140
+sg153
+S'Wiki'
+p2141
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2142
+g151
+S'/doc/other/'
+p2143
+sg153
+S'Other doc resources'
+p2144
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2145
+g151
+S'/dev/peps/'
+p2146
+sg153
+S'PEP Index'
+p2147
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2148
+g151
+S'http://wiki.python.org/moin/PythonBooks'
+p2149
+sg153
+S'Book list'
+p2150
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2151
+g151
+S'/doc/topics/'
+p2152
+sg153
+S'Topic guides'
+p2153
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2154
+g151
+S'/doc/newstyle/'
+p2155
+sg153
+S'New-style classes'
+p2156
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2157
+g151
+S'http://docs.python.org/library/re.html'
+p2158
+sg153
+S'Regular expressions'
+p2159
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.5.2 Documentation'
+Ntp2160
+sS'download/releases/2.4.1/rpms'
+p2161
+(NS'Python 2.4.1 - Linux RPMs'
+g1705
+tp2162
+sS'download/releases/2.1.2/license'
+p2163
+(NS'Python 2.1.2 license'
+S'License'
+p2164
+tp2165
+sS'psf/records/members/2004-03-25'
+p2166
+(NS'Minutes of the PSF Member Meeting at PyConDC 2004'
+Ntp2167
+sS'download/releases/2.2.3/rpms'
+p2168
+(NS'Linux RPMs for Python 2.2.3'
+g1598
+tp2169
+sS'download/releases/2.2/bugs'
+p2170
+(NS'Known bugs in Python 2.2'
+g1299
+tp2171
+sS'about/success/siena'
+p2172
+(NS'Python Success Stories'
+Ntp2173
+sS'dev/patches/style'
+p2174
+(NS'Python Patch Style Guidelines'
+g1162
+tp2175
+sS'community/sigs/current/doc-sig/status'
+p2176
+(NS'Documentation Special Interest Group'
+g999
+tp2177
+sS'dev/summary/2003-06-01_2003-06-30'
+p2178
+(NS'python-dev Summary for 2003-06-01 through 2003-06-30'
+Ntp2179
+sS'doc/essays/omg-darpa-mcc-position'
+p2180
+(NS'Glue It All Together With Python'
+Ntp2181
+sS'dev/summary/2003-09-01_2003-09-15'
+p2182
+(NS'python-dev Summary for 2003-09-01 through 2003-09-15'
+Ntp2183
+sS'community/sigs/retired/pattern-sig'
+p2184
+((((i__main__
+Link
+(dp2185
+g151
+S'/community/sigs/retired/pattern-sig/mission/'
+p2186
+sg153
+g101
+sg155
+I00
+sg156
+Nsb(tttS'SIG for Idioms, Patterns, and Frameworks in Python'
+g743
+tp2187
+sS'dev/culture'
+p2188
+(NS'Python Culture'
+g602
+tp2189
+sS'download/releases/2.1.2/rpms'
+p2190
+(NS'Linux RPMs for Python 2.1.2'
+S'Linux RPMS'
+p2191
+tp2192
+sS'dev/peps/pep-3001'
+p2193
+(NVPEP 3001 -- Procedure for reviewing and improving standard library modules
+Ntp2194
+sS'dev/peps/pep-3000'
+p2195
+(NVPEP 3000 -- Python 3000
+Ntp2196
+sS'dev/peps/pep-3002'
+p2197
+(NVPEP 3002 -- Procedure for Backwards-Incompatible Changes
+Ntp2198
+sS'psf/records/board/minutes/2002-06-11'
+p2199
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (June 11, 2002)'
+Ntp2200
+sS'psf/records/incorporation'
+p2201
+(NS'Python Software Foundation: Articles of Incorporation'
+Ntp2202
+sS'download/releases/2.3.5/rpms'
+p2203
+(NS'Linux RPMs for Python 2.3.5'
+g506
+tp2204
+sS'dev/peps/pep-0295'
+p2205
+(NVPEP 295 -- Interpretation of multiline string constants
+Ntp2206
+sS'dev/peps/pep-0294'
+p2207
+(NVPEP 294 -- Type Names in the types Module
+Ntp2208
+sS'dev/peps/pep-0297'
+p2209
+(NVPEP 297 -- Support for System Upgrades
+Ntp2210
+sS'dev/peps/pep-0296'
+p2211
+(NVPEP 296 -- Adding a bytes Object Type
+Ntp2212
+sS'dev/peps/pep-0291'
+p2213
+(NVPEP 291 -- Backward Compatibility for Standard Library
+Ntp2214
+sS'dev/peps/pep-0290'
+p2215
+(NVPEP 290 -- Code Migration and Modernization
+Ntp2216
+sS'dev/peps/pep-0293'
+p2217
+(NVPEP 293 -- Codec Error Handling Callbacks
+Ntp2218
+sS'dev/peps/pep-0292'
+p2219
+(NVPEP 292 -- Simpler String Substitutions
+Ntp2220
+sS'about/success/natsworld'
+p2221
+(NS'Python Success Stories'
+Ntp2222
+sS'community/irc'
+p2223
+(NS'Internet Relay Chat'
+g1964
+tp2224
+sS'dev/peps/pep-0299'
+p2225
+(NVPEP 299 -- Special __main__() function in modules
+Ntp2226
+sS'dev/peps/pep-0298'
+p2227
+(NVPEP 298 -- The Locked Buffer Interface
+Ntp2228
+sS'community/sigs/guidelines'
+p2229
+(NS'Python Special Interest Groups - Guidelines'
+g1418
+tp2230
+sS'dev/summary/2003-03-16_2003-03-31'
+p2231
+(NS'python-dev Summary for 2003-03-16 through 2003-03-31'
+Ntp2232
+sS'download/releases/2.3.5/notes'
+p2233
+(NS'Notes'
+g498
+tp2234
+sS'download/releases/2.3.2/rpms'
+p2235
+(NS'Linux RPMs for Python 2.3.2'
+g428
+tp2236
+sS'doc/2.5/download'
+p2237
+((((i__main__
+Link
+(dp2238
+g151
+S'http://docs.python.org/'
+p2239
+sg153
+S'Current Docs'
+p2240
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2241
+g151
+S'http://wiki.python.org/moin/BeginnersGuide'
+p2242
+sg153
+S"Beginner's Guide"
+p2243
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2244
+g151
+S'/doc/faq/'
+p2245
+sg153
+S'FAQs'
+p2246
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2247
+g151
+S'http://wiki.python.org/moin/'
+p2248
+sg153
+S'Wiki'
+p2249
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2250
+g151
+S'/doc/other/'
+p2251
+sg153
+S'Other doc resources'
+p2252
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2253
+g151
+S'/dev/peps/'
+p2254
+sg153
+S'PEP Index'
+p2255
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2256
+g151
+S'http://wiki.python.org/moin/PythonBooks'
+p2257
+sg153
+S'Book list'
+p2258
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2259
+g151
+S'/doc/topics/'
+p2260
+sg153
+S'Topic guides'
+p2261
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2262
+g151
+S'/doc/newstyle/'
+p2263
+sg153
+S'New-style classes'
+p2264
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2265
+g151
+S'http://docs.python.org/library/re.html'
+p2266
+sg153
+S'Regular expressions'
+p2267
+sg155
+I00
+sg156
+Nsb(tttS'Download Python 2.5 Documentation'
+Ntp2268
+sS'about/success/suzanne'
+p2269
+(NS'Python Success Stories'
+Ntp2270
+sS'about/apps'
+p2271
+(NS'Applications for Python'
+S'Applications'
+tp2272
+sS'dev/summary/2000-08-1'
+p2273
+(NS'Python-dev summary: 2000-08-01 to 2000-08-15'
+Ntp2274
+sS'dev/summary/2000-08-2'
+p2275
+(NS'Python-dev summary: 2000-08-16 to 2000-08-31'
+Ntp2276
+sS'psf/records/members/2006-02/ballot-february-2006'
+p2277
+(NS'Absentee ballot for February 24, 2006 member meeting in Dallas, TX'
+Ntp2278
+sS'doc/faq/gui'
+p2279
+(NS'GUI Programming FAQ'
+g1841
+tp2280
+sS'download/releases/1.6/download_win'
+p2281
+(NS'Download Python 1.6 Windows Installer'
+Ntp2282
+sS'psf/records/board/minutes/2007-09-10'
+p2283
+(NS'2007-09-10 PSF Board Meeting Minutes'
+Ntp2284
+sS'psf/records/board/minutes/2004-08-10'
+p2285
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (August 10, 2004)'
+Ntp2286
+sS'community/sigs/retired/plot-sig/issues'
+p2287
+(NS'Python Data Plotting Solutions SIG Issues'
+g1413
+tp2288
+sS'download/releases/2.3.7/bugs'
+p2289
+(NS'Bugs in Python 2.3.7'
+g477
+tp2290
+sS'download/releases/2.0/license'
+p2291
+(NS'Python 2.0 License'
+Ntp2292
+sS'psf/records/board/minutes/2004-04-13'
+p2293
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting (April 13, 2004)'
+Ntp2294
+sS'doc/2.5.2/download'
+p2295
+((((i__main__
+Link
+(dp2296
+g151
+S'http://docs.python.org/'
+p2297
+sg153
+S'Current Docs'
+p2298
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2299
+g151
+S'http://wiki.python.org/moin/BeginnersGuide'
+p2300
+sg153
+S"Beginner's Guide"
+p2301
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2302
+g151
+S'/doc/faq/'
+p2303
+sg153
+S'FAQs'
+p2304
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2305
+g151
+S'http://wiki.python.org/moin/'
+p2306
+sg153
+S'Wiki'
+p2307
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2308
+g151
+S'/doc/other/'
+p2309
+sg153
+S'Other doc resources'
+p2310
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2311
+g151
+S'/dev/peps/'
+p2312
+sg153
+S'PEP Index'
+p2313
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2314
+g151
+S'http://wiki.python.org/moin/PythonBooks'
+p2315
+sg153
+S'Book list'
+p2316
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2317
+g151
+S'/doc/topics/'
+p2318
+sg153
+S'Topic guides'
+p2319
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2320
+g151
+S'/doc/newstyle/'
+p2321
+sg153
+S'New-style classes'
+p2322
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2323
+g151
+S'http://docs.python.org/library/re.html'
+p2324
+sg153
+S'Regular expressions'
+p2325
+sg155
+I00
+sg156
+Nsb(tttS'Download Python 2.5.2 Documentation'
+Ntp2326
+sS'dev/summary/2003-04-01_2003-04-15'
+p2327
+(NS'python-dev Summary for 2003-04-01 through 2003-04-15'
+Ntp2328
+sS'community/sigs/retired/pythonwin-sig'
+p2329
+(NS'PythonWin Special Interest Group'
+g749
+tp2330
+sS'download/releases/2.5/msi'
+p2331
+(NS'Using Windows Installer'
+g1225
+tp2332
+sS'download/releases/2.4.2/bugs'
+p2333
+(NS'Bugs in Python 2.4.2'
+g1725
+tp2334
+sS'psf/records/board/minutes/2005-12-13'
+p2335
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting, December 13, 2005'
+Ntp2336
+sS'psf/records/board/minutes/2008-06-16'
+p2337
+(NS'2008-06-16 PSF Board Meeting Minutes'
+Ntp2338
+sS'dev/summary/2005-09-01_2005-09-15'
+p2339
+(NS'python-dev Summary for 2005-09-01 through 2005-09-15'
+Ntp2340
+sS'dev/summary/2006-09-16_2006-09-30'
+p2341
+(Ng83
+Ntp2342
+sS'dev/summary/2003-09-16_2003-09-30'
+p2343
+(NS'python-dev Summary from 2003-09-16 through 2003-09-30'
+Ntp2344
+sS'news/rdf'
+p2345
+(NS'python.org'
+Ntp2346
+sS'doc/topics/database/books'
+p2347
+(NS'Database Books'
+S'Database Books'
+p2348
+tp2349
+sS'psf/records/board/minutes/2003-03-11'
+p2350
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (March 11, 2003)'
+Ntp2351
+sS'dev/summary/2007-04-01_2007-04-15'
+p2352
+(Ng83
+Ntp2353
+sS'dev/peps/pep-0257'
+p2354
+(NVPEP 257 -- Docstring Conventions
+Ntp2355
+sS'doc/faq/es'
+p2356
+((((i__main__
+Link
+(dp2357
+g151
+S'/doc/faq/es/general/'
+p2358
+sg153
+g1858
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2359
+g151
+S'/doc/faq/'
+p2360
+sg153
+S'Indice Principal de FAQs'
+p2361
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2362
+g151
+S'http://wiki.python.org/moin/'
+p2363
+sg153
+S'Wiki'
+p2364
+sg155
+I00
+sg156
+Nsb(tttS'Preguntas Frecuentes de Python'
+Ntp2365
+sS'download/releases/2.0.1/press'
+p2366
+(NS'Python 2.1 Press Release'
+g1475
+tp2367
+sS'dev/peps/pep-0209'
+p2368
+(NVPEP 209 -- Multi-dimensional Arrays
+Ntp2369
+sS'dev/peps/pep-0206'
+p2370
+(NVPEP 206 -- Python Advanced Library
+Ntp2371
+sS'dev/peps/pep-0207'
+p2372
+(NVPEP 207 -- Rich Comparisons
+Ntp2373
+sS'dev/peps/pep-0204'
+p2374
+(NVPEP 204 -- Range Literals
+Ntp2375
+sS'dev/peps/pep-0205'
+p2376
+(NVPEP 205 -- Weak References
+Ntp2377
+sS'dev/peps/pep-0202'
+p2378
+(NVPEP 202 -- List Comprehensions
+Ntp2379
+sS'dev/peps/pep-0203'
+p2380
+(NVPEP 203 -- Augmented Assignments
+Ntp2381
+sS'dev/peps/pep-0200'
+p2382
+(NVPEP 200 -- Python 2.0 Release Schedule
+Ntp2383
+sS'dev/peps/pep-0201'
+p2384
+(NVPEP 201 -- Lockstep Iteration
+Ntp2385
+sS'psf/records/board/minutes/2008-02-11'
+p2386
+(NS'2008-02-11 PSF Board Meeting Minutes'
+Ntp2387
+sS'psf/press-release/pr20050309'
+p2388
+(NS'Python Software Foundation: Press Release 9-Mar-2005'
+Ntp2389
+sS'community/sigs/current/i18n-sig'
+p2390
+(NS'Python Internationalization-SIG'
+S'i18n SIG'
+p2391
+tp2392
+sS'about/success/wingide'
+p2393
+(NS'Python Success Stories'
+Ntp2394
+sS'download/releases/2.4.2/rpms'
+p2395
+(NS'Linux RPMs for Python 2.4.2'
+g1733
+tp2396
+sS'doc/2.5'
+p2397
+((((i__main__
+Link
+(dp2398
+g151
+S'http://docs.python.org/'
+p2399
+sg153
+S'Current Docs'
+p2400
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2401
+g151
+S'http://wiki.python.org/moin/BeginnersGuide'
+p2402
+sg153
+S"Beginner's Guide"
+p2403
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2404
+g151
+S'/doc/faq/'
+p2405
+sg153
+S'FAQs'
+p2406
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2407
+g151
+S'http://wiki.python.org/moin/'
+p2408
+sg153
+S'Wiki'
+p2409
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2410
+g151
+S'/doc/other/'
+p2411
+sg153
+S'Other doc resources'
+p2412
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2413
+g151
+S'/dev/peps/'
+p2414
+sg153
+S'PEP Index'
+p2415
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2416
+g151
+S'http://wiki.python.org/moin/PythonBooks'
+p2417
+sg153
+S'Book list'
+p2418
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2419
+g151
+S'/doc/topics/'
+p2420
+sg153
+S'Topic guides'
+p2421
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2422
+g151
+S'/doc/newstyle/'
+p2423
+sg153
+S'New-style classes'
+p2424
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2425
+g151
+S'http://docs.python.org/library/re.html'
+p2426
+sg153
+S'Regular expressions'
+p2427
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.5 Documentation'
+Ntp2428
+sS'community/sigs/current/db-sig/status'
+p2429
+(NS'Python Tabular Databases SIG: Status'
+g1447
+tp2430
+sS'psf/press-release/pr20031219'
+p2431
+(NS'Python Software Foundation: Press Release 19-Dec-2003'
+Ntp2432
+sS'doc/essays'
+p2433
+((((i__main__
+Link
+(dp2434
+g151
+S'http://docs.python.org'
+p2435
+sg153
+S'Current Docs'
+p2436
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2437
+g151
+S'http://wiki.python.org/moin/BeginnersGuide'
+p2438
+sg153
+S"Beginner's Guide"
+p2439
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2440
+g151
+S'/doc/essays/faq/'
+p2441
+sg153
+S'FAQs'
+p2442
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2443
+g151
+S'/doc/essays/intros/'
+p2444
+sg153
+S'Introductions'
+p2445
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2446
+g151
+S'http://wiki.python.org/moin'
+p2447
+sg153
+S'Wiki'
+p2448
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2449
+g151
+S'/doc/essays/other/'
+p2450
+sg153
+S'Other doc resources'
+p2451
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2452
+g151
+S'/doc/essays/peps/'
+p2453
+sg153
+S'PEP Index'
+p2454
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2455
+g151
+S'/doc/essays/nonenglish/'
+p2456
+sg153
+S'Non-English docs'
+p2457
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2458
+g151
+S'/doc/essays/editors/'
+p2459
+sg153
+S'Editors'
+p2460
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2461
+g151
+S'http://wiki.python.org/moin/PythonBooks'
+p2462
+sg153
+S'Book list'
+p2463
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2464
+g151
+S'/doc/essays/topics/'
+p2465
+sg153
+S'Topic guides'
+p2466
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2467
+g151
+S'/doc/essays/newstyle/'
+p2468
+sg153
+S'New-style classes'
+p2469
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2470
+g151
+S'http://docs.python.org/library/re.html'
+p2471
+sg153
+S'Regular expressions'
+p2472
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2473
+g151
+S'http://wiki.python.org/moin/DatabaseProgramming/'
+p2474
+sg153
+S'Databases'
+p2475
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2476
+g151
+S'http://wiki.python.org/moin/Audio'
+p2477
+sg153
+S'Audio Recordings'
+p2478
+sg155
+I00
+sg156
+Nsb(tttS'Python Documentation Index'
+Ntp2479
+sS'psf'
+p2480
+((((i__main__
+Link
+(dp2481
+g151
+S'/psf/about/'
+p2482
+sg153
+g1530
+sg155
+I00
+sg156
+S'About the Python Software Foundation'
+p2483
+sb(tt((i__main__
+Link
+(dp2484
+g151
+S'/psf/summary/'
+p2485
+sg153
+g1463
+sg155
+I00
+sg156
+S'Executive Summary'
+p2486
+sb(tt((i__main__
+Link
+(dp2487
+g151
+S'/psf/mission/'
+p2488
+sg153
+g93
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2489
+g151
+S'/psf/donations/'
+p2490
+sg153
+g1382
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2491
+g151
+S'/psf/volunteer/'
+p2492
+sg153
+g570
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2493
+g151
+S'/psf/membership/'
+p2494
+sg153
+S'Membership FAQ'
+p2495
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2496
+g151
+S'/psf/sponsorship/'
+p2497
+sg153
+g104
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2498
+g151
+S'/psf/members/'
+p2499
+sg153
+S'Membership Roster'
+p2500
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2501
+g151
+S'/psf/records/'
+p2502
+sg153
+g1396
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2503
+g151
+S'/psf/committees/'
+p2504
+sg153
+g1434
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2505
+g151
+S'/psf/reports/'
+p2506
+sg153
+S'Miscellaneous Reports'
+p2507
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2508
+g151
+S'/psf/bylaws/'
+p2509
+sg153
+S'Bylaws'
+p2510
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2511
+g151
+S'/psf/trademarks/'
+p2512
+sg153
+g376
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2513
+g151
+S'/psf/grants/'
+p2514
+sg153
+g1788
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2515
+g151
+S'/psf/cooperations/'
+p2516
+sg153
+g207
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2517
+g151
+S'http://wiki.python.org/moin/PythonSoftwareFoundation'
+p2518
+sg153
+S'PSF Wiki'
+p2519
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2520
+g151
+S'http://pyfound.blogspot.com'
+p2521
+sg153
+S'PSF Weblog'
+p2522
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2523
+g151
+S'/psf/weblog-policy/'
+p2524
+sg153
+S'Weblog Policy'
+p2525
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2526
+g151
+S'/psf/press-release/'
+p2527
+sg153
+g2106
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2528
+g151
+S'/psf/forms/'
+p2529
+sg153
+g1569
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2530
+g151
+S'/psf/contrib/'
+p2531
+sg153
+S'Contribution Forms'
+p2532
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2533
+g151
+S'/psf/license/'
+p2534
+sg153
+S'License'
+p2535
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2536
+g151
+S'/psf/fraud/'
+p2537
+sg153
+S'Suspicious Checks'
+p2538
+sg155
+I00
+sg156
+Nsb(tttS'Python Software Foundation'
+S'Foundation'
+tp2539
+sS'download/download_mac'
+p2540
+(NS'Python on the Macintosh'
+Ntp2541
+sS'download/source'
+p2542
+(NS'Download Python Sources'
+g195
+tp2543
+sS'dev/peps/pep-0332'
+p2544
+(NVPEP 332 -- Byte vectors and String/Unicode Unification
+Ntp2545
+sS'dev/summary/2000-07-2'
+p2546
+(NS'Python-dev summary: 2000-07-16 to 2000-07-31'
+Ntp2547
+sS'psf/records/board/minutes/2001-03-08'
+p2548
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting (March 8, 2001)'
+Ntp2549
+sS'dev/peps/pep-0331'
+p2550
+(NVPEP 331 -- Locale-Independent Float/String Conversions
+Ntp2551
+sS'psf/records/board/minutes/2006-09-18'
+p2552
+(NS'Python Software Foundation Board Meeting Minutes 2006-09-18'
+Ntp2553
+sS'dev/peps/pep-0337'
+p2554
+(NVPEP 337 -- Logging Usage in the Standard Library
+Ntp2555
+sS'dev/peps/pep-0334'
+p2556
+(NVPEP 334 -- Simple Coroutines via SuspendIteration
+Ntp2557
+sS'dev/peps/pep-0335'
+p2558
+(NVPEP 335 -- Overloadable Boolean Operators
+Ntp2559
+sS'download/releases/2.2.1/license'
+p2560
+(NS'Python 2.2.1 license'
+g1359
+tp2561
+sS'dev/peps/pep-0339'
+p2562
+(NVPEP 339 -- Design of the CPython Compiler
+Ntp2563
+sS'psf/records/board/minutes/2001-03-05'
+p2564
+(NS'Python Software Foundation: Minutes of the 1st Meeting of Board of Directors'
+Ntp2565
+sS'dev/peps/pep-0355'
+p2566
+(NVPEP 355 -- Path - Object oriented filesystem paths
+Ntp2567
+sS'dev/summary/2002-11-16_2002-11-30'
+p2568
+(NS'python-dev Summary, 2002-11-16 through 2002-11-30'
+Ntp2569
+sS'community/sigs/current/email-sig'
+p2570
+((((i__main__
+Link
+(dp2571
+g151
+S'/community/sigs/current/email-sig/status/'
+p2572
+sg153
+g2081
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2573
+g151
+S'http://mail.python.org/mailman/listinfo/email-sig'
+p2574
+sg153
+S'Subscribe'
+p2575
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2576
+g151
+S'http://mail.python.org/pipermail/email-sig/'
+p2577
+sg153
+S'Archives'
+p2578
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2579
+g151
+S'/community/sigs/current/email-sig/docs/'
+p2580
+sg153
+S'Docs for 3.0'
+p2581
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2582
+g151
+S'http://www.python.org/doc/current/lib/module-email.html'
+p2583
+sg153
+S'Docs for 2.5.6'
+p2584
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2585
+g151
+S'http://pypi.python.org/packages/source/e/email/email-4.0a2.tar.gz'
+p2586
+sg153
+S'Download 4.0a2'
+p2587
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2588
+g151
+S'/ftp/python/contrib/email-3.0.tar.gz/'
+p2589
+sg153
+S'Download 3.0'
+p2590
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2591
+g151
+S'/ftp/python/contrib/email-2.5.6.tar.gz/'
+p2592
+sg153
+S'Download 2.5.6'
+p2593
+sg155
+I00
+sg156
+Nsb(tttS'email package SIG'
+S'Email SIG'
+p2594
+tp2595
+sS'psf/records/board/minutes/2007-02-25'
+p2596
+(NS'2007-02-25 PSF Board Meeting Minutes'
+Ntp2597
+sS'psf/records/board/minutes/2007-02-12'
+p2598
+(NS'2007-02-12 PSF Board Meeting Minutes'
+Ntp2599
+sS'psf/records/board/minutes/2003-11-11'
+p2600
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (November 11, 2003)'
+Ntp2601
+sS'psf/donations/paypal'
+p2602
+(NS'Python Software Foundation: Donate via PayPal'
+Ntp2603
+sS'about/success/strakt'
+p2604
+(NS'Python Success Stories'
+Ntp2605
+sS'dev/summary/2004-03-16_2004-03-31'
+p2606
+(NS'python-dev Summary for 2004-03-16 through 2004-03-31'
+Ntp2607
+sS'psf/bylaws'
+p2608
+(NS'Python Software Foundation: Bylaws of The Python Software Foundation'
+g2510
+tp2609
+sS'psf/records/board/minutes/2007-05-14'
+p2610
+(NS'2007-05-14 PSF Board Meeting Minutes'
+Ntp2611
+sS'psf/records/board/minutes/2006-03-13'
+p2612
+(NS'Python Software Foundation Board Meeting Minutes 2006-03-13'
+Ntp2613
+sS'about/success/esr'
+p2614
+(NS'Python Success Stories'
+Ntp2615
+sS'psf/records/board/minutes/2005-01-11'
+p2616
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (January 11, 2005)'
+Ntp2617
+sS'dev/peps/pep-0333'
+p2618
+(NVPEP 333 -- Python Web Server Gateway Interface v1.0
+Ntp2619
+sS'download/releases/1.6.1/license_faq'
+p2620
+(NS'Python 1.6 License FAQ'
+S'License FAQ'
+p2621
+tp2622
+sS'dev/summary/2000-07-1'
+p2623
+(NS'Python-dev summary: 2000-07-01 to 2000-07-15'
+Ntp2624
+sS'psf/contrib/contrib-form-jython'
+p2625
+(NS'PSF Contributor Agreement for Jython'
+Ntp2626
+sS'psf/records/board/minutes/2003-09-09'
+p2627
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (September 9, 2003)'
+Ntp2628
+sS'doc/faq/it/extending'
+p2629
+(NS'FAQ Estendere/Includere Python'
+Ntp2630
+sS'about/success/mmtk'
+p2631
+(NS'Python Success Stories'
+Ntp2632
+sS'dev/peps/pep-3128'
+p2633
+(NVPEP 3128 -- BList: A Faster List-like Type
+Ntp2634
+sS'dev/peps/pep-3129'
+p2635
+(NVPEP 3129 -- Class Decorators
+Ntp2636
+sS'dev/peps/pep-3126'
+p2637
+(NVPEP 3126 -- Remove Implicit String Concatenation
+Ntp2638
+sS'dev/peps/pep-3127'
+p2639
+(NVPEP 3127 -- Integer Literal Support and Syntax
+Ntp2640
+sS'dev/peps/pep-3124'
+p2641
+(NVPEP 3124 -- Overloading, Generic Functions, Interfaces, and Adaptation
+Ntp2642
+sS'dev/peps/pep-3125'
+p2643
+(NVPEP 3125 -- Remove Backslash Continuation
+Ntp2644
+sS'psf/records/members/2002-07'
+p2645
+(NS'Member meeting at OSCON'
+Ntp2646
+sS'dev/peps/pep-3123'
+p2647
+(NVPEP 3123 -- Making PyObject_HEAD conform to standard C
+Ntp2648
+sS'dev/peps/pep-3120'
+p2649
+(NVPEP 3120 -- Using UTF-8 as the default source encoding
+Ntp2650
+sS'dev/peps/pep-3121'
+p2651
+(NVPEP 3121 -- Extension Module Initialization and Finalization
+Ntp2652
+sS'psf/records/board/minutes/2002-03-12'
+p2653
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (Mar. 12, 2002)'
+Ntp2654
+sS'download/releases/2.2.2/license'
+p2655
+(NS'Python 2.2.2 license'
+g1315
+tp2656
+sS'community/sigs/current'
+p2657
+((((i__main__
+Link
+(dp2658
+g700
+S'/community/sigs/current/c++-sig/'
+p2659
+sg702
+g1891
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2660
+g700
+S'/community/sigs/current/catalog-sig/'
+p2661
+sg702
+g1332
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2662
+g700
+S'/community/sigs/current/db-sig/'
+p2663
+sg702
+g1448
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2664
+g700
+S'/community/sigs/current/distutils-sig/'
+p2665
+sg702
+g1090
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2666
+g700
+S'/community/sigs/current/doc-sig/'
+p2667
+sg702
+g1004
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2668
+g700
+S'/community/sigs/current/edu-sig/'
+p2669
+sg702
+g370
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2670
+g700
+S'/community/sigs/current/email-sig/'
+p2671
+sg702
+g2594
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2672
+g700
+S'/community/sigs/current/i18n-sig/'
+p2673
+sg702
+g2391
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2674
+g700
+S'/community/sigs/current/image-sig/'
+p2675
+sg702
+g268
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2676
+g700
+S'/community/sigs/current/meta-sig/'
+p2677
+sg702
+g1659
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2678
+g700
+S'/community/sigs/current/pythonmac-sig/'
+p2679
+sg702
+g2123
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2680
+g700
+S'/community/sigs/current/web-sig/'
+p2681
+sg702
+g1186
+sg704
+I00
+sg705
+Nsb(tt((i__main__
+Link
+(dp2682
+g700
+S'/community/sigs/current/xml-sig/'
+p2683
+sg702
+S'XML'
+p2684
+sg704
+I00
+sg705
+Nsb(tttS'Python Special Interest Groups'
+g1424
+tp2685
+sS'psf/license'
+p2686
+(NS'Python License'
+g2535
+tp2687
+sS'download/releases/2.1/fsf'
+p2688
+(NS'FSF response to the Python 2.1 license'
+Ntp2689
+sS'dev/peps/pep-0247'
+p2690
+(NVPEP 247 -- API for Cryptographic Hash Functions
+Ntp2691
+sS'download/releases/2.0.1/license'
+p2692
+(NS'Python 2.0.1 license'
+g1478
+tp2693
+sS'download/releases/2.5.2/license'
+p2694
+(NS'Python 2.5 license'
+g309
+tp2695
+sS'download/releases/2.3.5/license'
+p2696
+(NS'Python 2.3.5 license'
+g503
+tp2697
+sS'community/sigs/retired/compiler-sig'
+p2698
+(NS'Compiler-SIG'
+g703
+tp2699
+sS'community/sigs/current/xml-sig'
+p2700
+(NS'SIG for XML Processing in Python'
+g2684
+tp2701
+sS'doc/2.4.4'
+p2702
+((((i__main__
+Link
+(dp2703
+g151
+S'http://docs.python.org/'
+p2704
+sg153
+S'Current Docs'
+p2705
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2706
+g151
+S'http://wiki.python.org/moin/BeginnersGuide'
+p2707
+sg153
+S"Beginner's Guide"
+p2708
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2709
+g151
+S'/doc/faq/'
+p2710
+sg153
+S'FAQs'
+p2711
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2712
+g151
+S'http://wiki.python.org/moin/'
+p2713
+sg153
+S'Wiki'
+p2714
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2715
+g151
+S'/doc/other/'
+p2716
+sg153
+S'Other doc resources'
+p2717
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2718
+g151
+S'/dev/peps/'
+p2719
+sg153
+S'PEP Index'
+p2720
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2721
+g151
+S'http://wiki.python.org/moin/PythonBooks'
+p2722
+sg153
+S'Book list'
+p2723
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2724
+g151
+S'/doc/topics/'
+p2725
+sg153
+S'Topic guides'
+p2726
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2727
+g151
+S'/doc/newstyle/'
+p2728
+sg153
+S'New-style classes'
+p2729
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2730
+g151
+S'http://docs.python.org/library/re.html'
+p2731
+sg153
+S'Regular expressions'
+p2732
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.4.4 Documentation'
+Ntp2733
+sS'psf/press-release/pr20030729'
+p2734
+(NS'Python Software Foundation: Press Release 29-Jul-2003'
+Ntp2735
+sS'psf/records/board/minutes/2005-08-09'
+p2736
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting (August 9, 2005)'
+Ntp2737
+sS'dev/peps/pep-0338'
+p2738
+(NVPEP 338 -- Executing modules as scripts
+Ntp2739
+sS'psf/records/board/minutes/2001-03-05-2'
+p2740
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting (March 5, 2001)'
+Ntp2741
+sS'psf/records/board/minutes/2007-12-10'
+p2742
+(NS'2007-12-10 PSF Board Meeting Minutes'
+Ntp2743
+sS'dev/pydotorg/translations'
+p2744
+(Ng83
+g686
+tp2745
+sS'about/success/carmanah'
+p2746
+(NS'Python Success Stories'
+Ntp2747
+sS'community/sigs/current/distutils-sig/doc/tasks'
+p2748
+(NS'Python Distutils-SIG: Tasks and Division of Labour'
+Ntp2749
+sS'community/awards'
+p2750
+((((i__main__
+Link
+(dp2751
+g151
+S'/community/awards/psf-awards/'
+p2752
+sg153
+g379
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2753
+g151
+S'/community/awards/frank-willison/'
+p2754
+sg153
+g1399
+sg155
+I00
+sg156
+Nsb(tttS'Python Community Awards'
+g1953
+tp2755
+sS'psf/grants/report-2007-02'
+p2756
+(Ng83
+Ntp2757
+sS'psf/records/board/minutes/2004-07-13'
+p2758
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (July 13, 2004)'
+Ntp2759
+sS'psf/records/board/minutes'
+p2760
+(NS'Python Software Foundation Board Meeting Minutes'
+Ntp2761
+sS'about/success/forecastwatch'
+p2762
+(NS'Python Success Stories'
+Ntp2763
+sS'download/releases/2.5.2/bugs'
+p2764
+(NS'Bugs in Python 2.5.2c1'
+g306
+tp2765
+sS'dev/pydotorg/website'
+p2766
+(NS'Python.org Website Maintenance'
+g683
+tp2767
+sS'search/search_news'
+p2768
+(NS'Search Python Newsgroup'
+Ntp2769
+sS'community/sigs/coordination'
+p2770
+(NS'Python Special Interest Groups - Coordinator Resource Guide'
+g1421
+tp2771
+sS'doc/essays/pepparade'
+p2772
+(NS'Parade of the PEPs'
+Ntp2773
+sS'community/sigs/retired/persistence-sig'
+p2774
+(NS'SIG for Development of Persistence and Transaction Frameworks'
+g719
+tp2775
+sS'psf/records/board/minutes/2004-01-13'
+p2776
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (Januar 13, 2004)'
+Ntp2777
+sS'psf/records/members'
+p2778
+(NS"Python Software Foundation: Members' Meetings"
+g1395
+tp2779
+sS'dev/summary/2006-11-01_2006-11-15'
+p2780
+(Ng83
+Ntp2781
+sS'dev/peps/pep-3122'
+p2782
+(NVPEP 3122 -- Delineation of the main module
+Ntp2783
+sS'download/releases/2.5/highlights'
+p2784
+(NS'Highlights: Python 2.5'
+g1216
+tp2785
+sS'download/releases/1.5/whatsnew'
+p2786
+(NS"What's new in Python 1.5 and beyond"
+Ntp2787
+sS'download/releases/2.4.5/bugs'
+p2788
+(NS'Bugs in Python 2.4.5'
+g1922
+tp2789
+sS'community/lists/archive'
+p2790
+(NS'Old Python Archives'
+Ntp2791
+sS'psf/press-release/pr20030531'
+p2792
+(NS'Python Software Foundation: Press Release 31-May-2003'
+Ntp2793
+sS'psf/records/members/2006-02'
+p2794
+(NS'Member meeting at PyCon 2006'
+Ntp2795
+sS'community/sigs/retired/objc-sig/status'
+p2796
+(NS'Objective-C SIG Status'
+S'Status'
+p2797
+tp2798
+sS'community/sigs/retired/matrix-sig'
+p2799
+((((i__main__
+Link
+(dp2800
+g151
+S'/community/sigs/retired/matrix-sig/faq/'
+p2801
+sg153
+g1853
+sg155
+I00
+sg156
+Nsb(tttS'SIG for Built-in Matrix Types in Python'
+g732
+tp2802
+sS'dev/summary/2005-12-16_2005-12-31'
+p2803
+(NS'python-dev Summary for 2005-12-16 through 2005-12-31'
+Ntp2804
+sS'download/releases/2.5/rpms'
+p2805
+(NS'Linux RPMs for Python 2.4.2'
+Ntp2806
+sS'download/releases/2.4.5/rpms'
+p2807
+(NS'Linux RPMs for Python 2.4.4'
+Ntp2808
+sS'dev/summary/2000-09-1'
+p2809
+(NS'Python-dev summary: 2000-09-01 to 2000-09-15'
+Ntp2810
+sS'psf/records/board/conference'
+p2811
+(NS'Python Software Foundation Conference Committee'
+Ntp2812
+sS'dev/peps/pep-0260'
+p2813
+(NVPEP 260 -- Simplify xrange()
+Ntp2814
+sS'psf/records/board/minutes/2002-08-13'
+p2815
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (August 13, 2002)'
+Ntp2816
+sS'psf/records/members/2002-07/proxy-july-2002'
+p2817
+(NS'Appointment of Proxy for July 24, 2002 member meeting in San Diego, CA'
+Ntp2818
+sS'news/security'
+p2819
+(NS'Python Security Advisories'
+g1900
+tp2820
+sS'dev/summary/2004-10-01_2004-10-15'
+p2821
+(NS'python-dev Summary for 2004-10-01 through 2004-10-15'
+Ntp2822
+sS'dev/summary/2006-12-01_2006-12-15'
+p2823
+(Ng83
+Ntp2824
+sS'dev/summary/2000-09-2'
+p2825
+(NS'Python-dev summary: 2000-09-16 to 2000-09-30'
+Ntp2826
+sS'dev/peps/pep-0369'
+p2827
+(NVPEP 369 -- Post import hooks
+Ntp2828
+sS'dev/summary/2002-12-16_2002-12-31'
+p2829
+(NS'python-dev Summary for 2002-12-15 through 2002-12-31'
+Ntp2830
+sS'dev/summary/2003-08-01_2003-08-15'
+p2831
+(NS'python-dev Summary for 2003-08-01 through 2003-08-15'
+Ntp2832
+sS'psf/fraud'
+p2833
+(NS'Statement about Suspicious Checks'
+g2538
+tp2834
+sS'doc/essays/everybody'
+p2835
+(NS'Computer Programming for Everybody'
+Ntp2836
+sS'about/help'
+p2837
+(NS'Help'
+S'Help'
+tp2838
+sS'community/sigs/current/distutils-sig/doc'
+p2839
+(NS'Python Distutils-SIG: Documentation'
+Ntp2840
+sS'dev/peps/pep-0330'
+p2841
+(NVPEP 330 -- Python Bytecode Verification
+Ntp2842
+sS'dev/summary/2006-04-16_2006-04-30'
+p2843
+(Ng83
+Ntp2844
+sS'download/releases/2.3.1/license'
+p2845
+(NS'Python 2.3.1 license'
+g455
+tp2846
+sS'about/success/projectpipe'
+p2847
+(NS'Python Success Stories'
+Ntp2848
+sS'dev/implementations'
+p2849
+(NS'Python Implementations'
+g593
+tp2850
+sS'download/releases/2.4.1/notes'
+p2851
+(NS'Python 2.4.1 - Release Notes'
+g1695
+tp2852
+sS'community/sigs/retired/getopt-sig/compare'
+p2853
+(NS'Comparing Option-Parsing Libraries'
+g154
+tp2854
+sS'doc/av/howto'
+p2855
+((((i__main__
+Link
+(dp2856
+g151
+S'/doc/av/howto/5minutes/'
+p2857
+sg153
+S'5-Minutes with Python'
+p2858
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2859
+g151
+S'/doc/av/howto/slideshows/'
+p2860
+sg153
+S'Slideshow collections'
+p2861
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2862
+g151
+S'/doc/av/howto/howto/'
+p2863
+sg153
+S'How to create screencasts'
+p2864
+sg155
+I00
+sg156
+Nsb(tttS'How to Create Screencasts'
+g1876
+tp2865
+sS'dev/summary/2003-10-16_2003-11-15'
+p2866
+(NS'python-dev Summary for 2003-10-16 through 2003-11-15'
+Ntp2867
+sS'doc/topics/database/modules'
+p2868
+(NS'Python Database Modules'
+S'Database Modules'
+p2869
+tp2870
+sS'psf/records/members/2007-02-23/agenda'
+p2871
+(NS"Agenda of 2007 PSF Members' Meeting, 23 February 2007"
+Ntp2872
+sS'dev/summary/2005-04-01_2005-04-15'
+p2873
+(NS'python-dev Summary for 2005-04-01 through 2005-04-15'
+Ntp2874
+sS'about/success/tttech'
+p2875
+(NS'Python Success Stories'
+Ntp2876
+sS'dev/peps/pep-0364'
+p2877
+(NVPEP 364 -- Transitioning to the Py3K Standard Library
+Ntp2878
+sS'community/pycon/register-regular'
+p2879
+(NS'PyCon Registration Form'
+Ntp2880
+sS'psf/records/board/minutes/2002-02-07'
+p2881
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (Feb. 7, 2002)'
+Ntp2882
+sS'dev/peps/pep-0367'
+p2883
+(NVPEP 367 -- New Super
+Ntp2884
+sS'download/releases/2.2.3/license'
+p2885
+(NS'Python 2.2.3 license'
+g1595
+tp2886
+sS'dev/peps/pep-0366'
+p2887
+(NVPEP 366 -- Main module explicit relative imports
+Ntp2888
+sS'download/releases/2.3/highlights'
+p2889
+(NS"What's new in Python 2.3"
+g1282
+tp2890
+sS'dev/summary/2002-09-16-2002-09-30'
+p2891
+(NS'python-dev Summary for 2002-09-16 through 2002-09-30'
+Ntp2892
+sS'download/download_windows'
+p2893
+(NS'Python for Windows (and DOS)'
+Ntp2894
+sS'psf/press-release/pr20031003'
+p2895
+(NS'Python Software Foundation: Press Release 3-Oct-2003'
+Ntp2896
+sS'dev/peps/pep-0277'
+p2897
+(NVPEP 277 -- Unicode file name support for Windows NT
+Ntp2898
+sS'dev/peps/pep-0276'
+p2899
+(NVPEP 276 -- Simple Iterator for ints
+Ntp2900
+sS'dev/peps/pep-0275'
+p2901
+(NVPEP 0275 -- Switching on Multiple Values
+Ntp2902
+sS'dev/peps/pep-0274'
+p2903
+(NVPEP 274 -- Dict Comprehensions
+Ntp2904
+sS'download/releases/2.5/license'
+p2905
+(NS'Python 2.5 license'
+g1222
+tp2906
+sS'dev/peps/pep-0272'
+p2907
+(NVPEP 272 -- API for Block Encryption Algorithms v1.0
+Ntp2908
+sS'dev/peps/pep-0271'
+p2909
+(NVPEP 271 -- Prefixing sys.path by command line option
+Ntp2910
+sS'download/releases/2.1.3/notes'
+p2911
+(NS'Notes'
+S'Release Notes'
+p2912
+tp2913
+sS'dev/peps/pep-0374'
+p2914
+(NVPEP 374 -- Migrating from svn to a distributed VCS
+Ntp2915
+sS'psf/records/board/minutes/2006-08-14'
+p2916
+(NS'Python Software Foundation Board Meeting Minutes 2006-08-14'
+Ntp2917
+sS'dev/peps/pep-0372'
+p2918
+(NVPEP 372 -- Adding an ordered dictionary to collections
+Ntp2919
+sS'dev/peps/pep-0373'
+p2920
+(NVPEP 373 -- Python 2.7 Release Schedule
+Ntp2921
+sS'dev/peps/pep-0279'
+p2922
+(NVPEP 279 -- The enumerate() built-in function
+Ntp2923
+sS'dev/summary/2005-04-16_2005-04-30'
+p2924
+(NS'python-dev Summary for 2005-04-16 through 2005-04-30'
+Ntp2925
+sS'dev/summary/2006-08-16_2006-08-31'
+p2926
+(Ng83
+Ntp2927
+sS'download/releases/2.0.1/fsf'
+p2928
+(NS'FSF statement'
+Ntp2929
+sS'psf/records/board/minutes/2004-06-18'
+p2930
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (June 15, 2004)'
+Ntp2931
+sS'download/releases/1.6'
+p2932
+(NS'Python 1.6'
+Ntp2933
+sS'dev/summary/2005-08-16_2005-08-31'
+p2934
+(NS'python-dev Summary for 2005-08-16 through 2005-08-31'
+Ntp2935
+sS'links'
+p2936
+(NS'Python Links'
+g36
+tp2937
+sS'download/releases/1.5'
+p2938
+(NS'Python 1.5.2'
+g412
+tp2939
+sS'dev/peps/pep-0012'
+p2940
+(NVPEP 12 -- Sample reStructuredText PEP Template
+Ntp2941
+sS'dev/peps/pep-0011'
+p2942
+(NVPEP 11 -- Removing support for little used platforms
+Ntp2943
+sS'dev/peps/pep-0010'
+p2944
+(NVPEP 10 -- Voting Guidelines
+Ntp2945
+sS'community/logos'
+p2946
+(NS'The Python Logo'
+g1970
+tp2947
+sS'dev/peps/pep-0222'
+p2948
+(NVPEP 222 -- Web Library Enhancements
+Ntp2949
+sS'psf/records/members/2005-03-24'
+p2950
+(NS'Python Software Foundation Members Meeting Minutes 2005-03-24'
+Ntp2951
+sS'psf/records/board/minutes/2002-07-16'
+p2952
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (July 16, 2002)'
+Ntp2953
+sS'doc/topics/database'
+p2954
+((((i__main__
+Link
+(dp2955
+g151
+S'/dev/peps/pep-0249.html/'
+p2956
+sg153
+S'DB-API spec v2.0'
+p2957
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2958
+g151
+S'/dev/peps/pep-0248.html/'
+p2959
+sg153
+S'DB-API spec v1.0'
+p2960
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2961
+g151
+S'/doc/topics/database/modules/'
+p2962
+sg153
+g2869
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2963
+g151
+S'/doc/topics/database/docs/'
+p2964
+sg153
+g1066
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2965
+g151
+S'/doc/topics/database/other-db/'
+p2966
+sg153
+g1102
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2967
+g151
+S'/doc/topics/database/persistence/'
+p2968
+sg153
+g176
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2969
+g151
+S'/doc/topics/database/books/'
+p2970
+sg153
+g2348
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp2971
+g151
+S'/community/sig/current/db-sig/'
+p2972
+sg153
+S'Database SIG'
+p2973
+sg155
+I00
+sg156
+Nsb(tttS'Database Topic Guide'
+Ntp2974
+sS'download/releases/2.1.3/license'
+p2975
+(NS'Python 2.1.3 license'
+S'License'
+p2976
+tp2977
+sS'dev/summary/2005-03-16_2005-03-31'
+p2978
+(NS'python-dev Summary for 2005-03-16 through 2005-03-31'
+Ntp2979
+sS'psf/membership'
+p2980
+(NS'PSF Membership FAQ'
+g2495
+tp2981
+sS'download/releases/2.2.1/descrintro'
+p2982
+(NS'Unifying types and classes in Python 2.2'
+Ntp2983
+sS'download/releases/3.0'
+p2984
+(NS'Python 3.0rc3 Release'
+g386
+tp2985
+sS'psf/records/board/minutes/2008-01-14'
+p2986
+(NS'2008-01-14 PSF Board Meeting Minutes'
+Ntp2987
+sS'psf/grants/advocacy'
+p2988
+(NS'PSF Advocacy Initiative'
+Ntp2989
+sS'download/releases/2.1/press'
+p2990
+(NS'Python 2.1 Press Release'
+g1275
+tp2991
+sS'psf/reports'
+p2992
+(NS'Miscellaneous PSF Reports'
+g2507
+tp2993
+sS'psf/records/board/minutes/2004-02-10'
+p2994
+(NS'Python Software Foundation: Minutes of Board of Directors\n Meeting (February 10, 2004)'
+Ntp2995
+sS'download/releases/2.3.4/license'
+p2996
+(NS'Python 2.3.4 license'
+g491
+tp2997
+sS'download/releases/2.2.1/mac'
+p2998
+(NS'MacPython 2.2.1'
+g1364
+tp2999
+sS'psf/records/board/history'
+p3000
+(NS'History of PSF Officers & Directors'
+Ntp3001
+sS'dev/summary/2004-09-16_2004-09-30'
+p3002
+(NS'python-dev Summary for 2004-09-16 through 2004-09-30'
+Ntp3003
+sS'community/sigs/retired/objc-sig'
+p3004
+((((i__main__
+Link
+(dp3005
+g151
+S'/community/sigs/retired/objc-sig/status/'
+p3006
+sg153
+g2797
+sg155
+I00
+sg156
+Nsb(tttS'SIG on Python bindings for Objective-C/NeXTSTEP/OpenStep'
+g738
+tp3007
+sS'about/success/frequentis'
+p3008
+(NS'Python Success Stories'
+Ntp3009
+sS'about/success/loveintros'
+p3010
+(NS'Python Success Stories'
+Ntp3011
+sS'psf/records/board/minutes/2008-09-08'
+p3012
+(NS'2008-09-08 PSF Board Meeting Minutes'
+Ntp3013
+sS'dev/peps/pep-0214'
+p3014
+(NVPEP 214 -- Extended Print Statement
+Ntp3015
+sS'psf/members'
+p3016
+(NS'PSF Membership Roster'
+g2500
+tp3017
+sS'download/releases/2.1.1'
+p3018
+((((i__main__
+Link
+(dp3019
+g151
+S'/download/releases/2.1.1/NEWS.txt/'
+p3020
+sg153
+S'Release Notes'
+p3021
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3022
+g151
+S'/download/releases/2.1.1/license/'
+p3023
+sg153
+g943
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3024
+g151
+S'/download/releases/2.1.1/rpms/'
+p3025
+sg153
+g668
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3026
+g151
+S'/download/releases/2.1.1/press/'
+p3027
+sg153
+g1490
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.1.1'
+Ntp3028
+sS'download/releases/2.1.2'
+p3029
+((((i__main__
+Link
+(dp3030
+g151
+S'/download/releases/2.1.2/NEWS.txt/'
+p3031
+sg153
+S'Release Notes'
+p3032
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3033
+g151
+S'/download/releases/2.1.2/license/'
+p3034
+sg153
+g2164
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3035
+g151
+S'/download/releases/2.1.2/rpms/'
+p3036
+sg153
+g2191
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.1.2'
+Ntp3037
+sS'download/releases/2.1.3'
+p3038
+((((i__main__
+Link
+(dp3039
+g151
+S'/download/releases/2.1.3/NEWS.txt/'
+p3040
+sg153
+S"What's New"
+p3041
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3042
+g151
+S'/download/releases/2.1.3/notes/'
+p3043
+sg153
+g2912
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3044
+g151
+S'/download/releases/2.1.3/license/'
+p3045
+sg153
+g2976
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3046
+g151
+S'/download/releases/2.1.3/rpms/'
+p3047
+sg153
+g1451
+sg155
+I00
+sg156
+Nsb(tttS'Python 2.1.3'
+g403
+tp3048
+sS'psf/meetings'
+p3049
+((((i__main__
+Link
+(dp3050
+g151
+S'/psf/meetings/agenda/feb2006/'
+p3051
+sg153
+S'Next Meeting'
+p3052
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3053
+g151
+S'/psf/meetings/agenda/'
+p3054
+sg153
+S'Agenda'
+p3055
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3056
+g151
+S'/psf/meetings/minutes/'
+p3057
+sg153
+S'Minutes'
+p3058
+sg155
+I00
+sg156
+Nsb(tttS'PSF Meetings'
+Ntp3059
+sS'psf/records/members/2006-02-24'
+p3060
+(NS'Python Software Foundation Members Meeting Minutes 2006-02-24'
+Ntp3061
+sS'psf/records/members/2006-02/proxy-february-2006'
+p3062
+(NS'Appointment of Proxy for February 24, 2006 member meeting in Dallas, TX'
+Ntp3063
+sS'psf/reports/gsoc-2007'
+p3064
+(NS'PSF participation in the 2007 Google Summer of Code'
+Ntp3065
+sS'news/security/PSF-2005-001'
+p3066
+(NS'PSF-2005-001 - SimpleXMLRPCServer.py allows unrestricted traversal'
+Ntp3067
+sS'download/releases/2.2.2/rpms'
+p3068
+(NS'Linux RPMs for Python 2.2.2'
+g1318
+tp3069
+sS'psf/records/board/minutes/2007-01-08'
+p3070
+(NS'2007-01-08 PSF Board Meeting Minutes'
+Ntp3071
+sS'dev/summary/2005-07-16_2005-07-31'
+p3072
+(NS'python-dev Summary for 2005-07-16 through 2005-07-31'
+Ntp3073
+sS'download/releases/1.6.1'
+p3074
+((((i__main__
+Link
+(dp3075
+g151
+S'/download/releases/1.6.1/download/'
+p3076
+sg153
+g213
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3077
+g151
+S'/download/releases/1.6.1/download_win/'
+p3078
+sg153
+g1337
+sg155
+I00
+sg156
+Nsb(tt((i__main__
+Link
+(dp3079
+g151
+S'/download/releases/1.6.1/license_faq/'
+p3080
+sg153
+g2621
+sg155
+I00
+sg156
+Nsb(tttS'Python 1.6.1'
+g409
+tp3081
+sS'doc/versions'
+p3082
+(NS'Python Documentation by Version'
+Ntp3083
+sS'psf/contrib'
+p3084
+(NS'Contributing to the PSF'
+g2532
+tp3085
+sS'psf/records/board/minutes/2006-01-10'
+p3086
+(NS'Python Software Foundation: Minutes of Board of Directors Meeting, January 10, 2006'
+Ntp3087
+sS'dev/peps/pep-0212'
+p3088
+(NVPEP 212 -- Loop Counter Iteration
+Ntp3089
+sS'psf/weblog-policy'
+p3090
+(NS'PSF Weblog Policy'
+g2525
+tp3091
+sS'dev/peps/pep-0160'
+p3092
+(NVPEP 160 -- Python 1.6 Release Schedule
+Ntp3093
+s.

@@ -1,0 +1,83 @@
+title: Python Programming Language -- Official Website
+keywords: python programming language object oriented web free source
+description:
+      Home page for Python, an interpreted, interactive, object-oriented, extensible
+      programming language. It provides an extraordinary combination of clarity and
+      versatility, and is free and comprehensively ported.
+javascript:
+Content-type: text/x-rst
+Template: homepage
+Nav:
+    About {About The Python Language} about
+    News {Major Happenings Within the Python Community} news
+    Documentation {Tutorials, Library Reference, C API} doc
+    Download {Start Running Python Under Windows, Mac, Linux and Others} download
+    Community {Mailing Lists, Jobs, Conferences, SIGs, Online Chats} community
+    Foundation {Python Software Foundation} psf
+    Core Development {Development of the Python language and website} dev
+    Links {Pointers to Useful Information} links
+Quick-links:
+    Quick Links (2.6) /download/releases/2.6
+        Documentation {Manuals for Latest Stable Release} http://docs.python.org/
+        Windows Installer {Easy Installer of Python under Windows} /ftp/python/2.6/python-2.6.msi
+        Source Distribution {Grab the Source for the Latest Stable Release} /ftp/python/2.6/Python-2.6.tar.bz2
+        Package Index {Community Collection of Shared Python Modules} http://pypi.python.org/pypi
+    Python Jobs {Employers and Job Openings} /community/jobs
+    Donate to the PSF {Support the Python Software Foundation} /psf/donations/
+    Report website bug {Submission System for Problems/Suggestions with the Website} http://wiki.python.org/moin/PythonWebsiteCreatingNewTickets
+Using-Python:
+    Web Programming http://wiki.python.org/moin/WebProgramming
+      CGI http://wiki.python.org/moin/CgiScripts
+      Zope http://www.zope.org/
+      Django http://www.djangoproject.com/
+      TurboGears http://www.turbogears.org/
+      XML http://wiki.python.org/moin/PythonXml
+    Databases http://wiki.python.org/moin/DatabaseProgramming/
+      ODBC http://www.egenix.com/files/python/mxODBC.html
+      MySQL http://sourceforge.net/projects/mysql-python
+    GUI Development http://wiki.python.org/moin/GuiProgramming
+      wxPython http://wiki.python.org/moin/WxPython
+      tkInter http://wiki.python.org/moin/TkInter
+      PyGtk http://wiki.python.org/moin/PyGtk
+      PyQt http://wiki.python.org/moin/PyQt
+    Scientific and Numeric http://wiki.python.org/moin/NumericAndScientific
+      Bioinformatics http://www.pasteur.fr/recherche/unites/sis/formation/python/index.html
+      Physics http://www.pentangle.net/python/handbook/
+    Education /community/sigs/current/edu-sig
+      pyBiblio http://www.openbookproject.net/pybiblio/
+      Software Carpentry Course http://osl.iu.edu/~lums/swc/
+    Networking /about/apps
+      Sockets http://docs.python.org/howto/sockets.html
+      Twisted http://twistedmatrix.com/trac/
+    Software Development /about/apps
+      Buildbot http://buildbot.net/trac
+      Trac http://www.edgewall.com/trac/
+      Roundup http://roundup.sourceforge.net/
+      IDEs http://wiki.python.org/moin/IntegratedDevelopmentEnvironments
+    Game Development /about/apps
+      PyGame http://www.pygame.org/news.html
+      PyKyra http://www.alobbs.com/pykyra
+      3D Rendering http://www.vrplumber.com/py3d.py
+
+**Python is a dynamic object-oriented programming language that can be
+used for many kinds of software development. It offers strong support
+for integration with other languages and tools, comes with extensive
+standard libraries, and can be learned in a few days. Many Python
+programmers report substantial productivity gains and feel the language
+encourages the development of higher quality, more maintainable code.**
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm
+Handhelds, and Nokia mobile phones. Python has also been ported to the
+Java and .NET virtual machines.
+
+Python is distributed under an OSI-approved `open source license
+</psf/license>`__ that makes it free to use, even for commercial
+products. 
+
+The `Python Software Foundation (PSF) </psf>`__ holds and protects the
+intellectual property rights behind Python, underwrites the `PyCon
+conference <http://pycon.org/>`__, and funds grants and other projects
+in the Python community.
+
+`Read more </about>`__ -or- `try Python now </download>`__
+

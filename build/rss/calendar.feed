@@ -1,0 +1,585 @@
+http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&Op=RSS&Format=atom
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#">
+<author>
+<name>-</name>
+</author>
+<link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python" rel="alternate" type="text/html" />
+<tagline mode="escaped" type="text/html">Python User Groups Calendar of Events</tagline>
+<title type="text/plain">Python calendar events</title>
+<entry>
+<content mode="escaped" type="text/html">
+The Chicago Python Users Group (ChiPy)
+ABOUT: ChiPy is a group of Chicago Python Programmers, l33t, and n00bs.
+Meetings are held monthly at various locations around Chicago.
+Also, ChiPy is a proud sponsor of many Open Source and Educational efforts in Chicago. Stay tuned to the mailing list for more info.
+ChiPy website: http://chipy.org
+ChiPy Mailing List: http://mail.python.org/mailman/listinfo/chicago
+LOCATION: Google's Chicago office 20 West Kinzie Street, 9th Floor Chicago, IL 60610
+*** A Special Note from Fitz::
+I'm going to need a list of all people attending to give to building security, so if you're thinking of coming, please send me your name (just to me--use my fitz at google dot com address please).
+Location description:
+* &quot;18 story glass and steel building on the Northeast corner of Dearborn and Kinzie.&quot;
+* &quot;Across the street from Harry Carey's&quot;
+* &quot;Upstairs from Keefer's restaurant&quot;
+* Map http://tinyurl.com/ee8my
+EMAIL: chris@wirelion.com
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F2%2F14&amp;EventID=7</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F2%2F14&amp;EventID=7" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Feb 14 - Chicago Python Users Group (ChiPy)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+BostonPig 
+http://wiki.python.org/moin/BostonPig 
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F2%2F14&amp;EventID=13</id>
+<issued /><link <?xml version="1.0" encoding="UTF-8" ?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#">
+<author>
+<name>-</name>
+</author>
+<link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python" rel="alternate" type="text/html" />
+<tagline mode="escaped" type="text/html">Python User Groups Calendar of Events</tagline>
+<title type="text/plain">Python calendar events</title>
+<entry>
+<content mode="escaped" type="text/html">
+セミナー参加登録
+http://www.ospn.jp/osc2008-spring/
+
+Plone研究会・日本Zopeユーザー会 参加予定</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F1&amp;EventID=1</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F1&amp;EventID=1" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 1 - OSC 2008/Tokyo</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Clepy: The Cleveland Area Python Interest Group
+The location varies so check the calendar or Meetings section for more details.
+http://www.clepy.org/
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F3&amp;EventID=8</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F3&amp;EventID=8" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 3 - Clepy: Cleveland, OH</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+ZPUG DC: Zope/Python Users Group - Washington, DC. 
+Zope/Python Users Group of DC
+http://www.zpugdc.org 
+info@zpugdc.org
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F4&amp;EventID=11</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F4&amp;EventID=11" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 4 - Zope/Python Users Group (ZPUG DC)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Vancouver Python, Zope and Plone Users Group (VanPyZ) 
+7:00pm - 8:30pm
+http://www.vanpyz.org</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F4&amp;EventID=24</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F4&amp;EventID=24" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 4 - Vancouver Python, Zope and Plone Users Group (VanPyZ)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Social gathering of Sydney Python Users Group and
+any individuals interested in discussing Python, Web, Ruby, Perl etc.
+
+We meet in the ground floor area next to P.J. O'Briens Pub internal entrance.
+ </content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F6&amp;EventID=1</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F6&amp;EventID=1" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 6 - March SyPy Meetup</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+参加者登録
+http://groups.google.co.jp/group/pydevcamp2008w/
+場所
+http://www.mcci.or.jp/www/kagetsu/</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F7&amp;EventID=2</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F7&amp;EventID=2" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 7 - Python Developers Camp 2008 冬</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+参加者登録
+http://groups.google.co.jp/group/pydevcamp2008w/
+場所
+http://www.mcci.or.jp/www/kagetsu/</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F8&amp;EventID=2</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F8&amp;EventID=2" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 8 - Python Developers Camp 2008 冬</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Python Meetups &gt; DFW Pythoneers
+
+
+
+Welcome, those programming in Python and those wanting to start doing so.  At our Saturday afternoon meetings we set up a projector for presentations, code reviews of projects and demonstrations of useful add-on packages.  Our sessions are often hands-on so bring your laptops -- we have both wired and wireless Internet access at our meetings.
+
+Not every meeting has a formal presentation, and because our sessions are 3-hours long, we like to mix it up with different topics.  One way of doing so is for members to step forward and give short, 5-minute talks called lightning talks.  Relax, the format is casual and not intended to cover a topic but to introduce it to the attendees or show off something you're working on.  They are a lot of fun and stimulate ideas for future talks.  Please think about a topic and come prepared.  It could be an simple as just announcing this cool Python library you found on some website one day.  Look thru your bookmarks for ideas.
+
+For those just starting out with Python, we run a Beginner's Session from 1:00 pm until 2:00 pm, and then the regular meeting starts at 2:00 pm.  Our sessions run until 5 pm and then often go out for dinner as a group.
+
+Our club wiki page can be found at http://www.python.org/dfw.  Feel free to edit it, perhaps adding a topic of interest to you.  We also have a version control repository (based on Subversion) that anyone is welcome to use for their projects, and a mailing list separate from the Python meetup.com forum to which you can subscribe.  Details are on the wiki.
+
+Richardson, TX  75081 - USA
+
+Saturday, March 8 at 2:00 PM
+
+Photo: http://photos1.meetupstatic.com/photos/event/8/e/d/4/event_276564.jpeg
+
+Attending: 0
+
+Details: http://python.meetup.com/10/calendar/7301080/</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F8&amp;EventID=1</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F8&amp;EventID=1" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 8 - DFW Pythoneers 2nd Saturday Hands-On Coding Sprint</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+参加者登録
+http://groups.google.co.jp/group/pydevcamp2008w/
+場所
+http://www.mcci.or.jp/www/kagetsu/</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F9&amp;EventID=2</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F9&amp;EventID=2" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 9 - Python Developers Camp 2008 冬</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Leipzig Python User Group - Leipzig, Germany 
+http://www.python-academy.de/LE-Snakes/index.html
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F11&amp;EventID=21</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F11&amp;EventID=21" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 11 - Leipzig Python User Group</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Ottawa Python Authors Group (OPAG)
+TIME: 19:00 - 21:00. 
+The location is currently 3444 ME at Carleton U.
+http://opag.ca/ 
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F11&amp;EventID=15</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F11&amp;EventID=15" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 11 - Ottawa Python Authors Group (OPAG)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Python User Group K�ln - Cologne, Germany 
+http://wiki.python.de/User_Group_K%C3%B6ln
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F12&amp;EventID=20</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F12&amp;EventID=20" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 12 - Python User Group K�ln Germany</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">Check http://wiki.python.ie/, there might be talks on instead.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F12&amp;EventID=3</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F12&amp;EventID=3" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 12 - Python Meetup</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Fredericksburg ZPUG: Meets at the Zope Corporation building in Fredericksburg, Virginia. 
+Fredericksburg Zope and Python Users Group (ZPUG)
+http://www.zope.org/Members/poster/zpug_info 
+When: 7:30-9:00.
+Where: Zope Corporation offices. 513 Prince Edward Street; Fredericksburg, VA 22401 (tinyurl for map is http://tinyurl.com/duoab).
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F12&amp;EventID=10</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F12&amp;EventID=10" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 12 - Fredericksburg Zope and Python Users Group (ZPUG)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+http://us.pycon.org/2008/tutorials/
+</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=30</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=30" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 13 - PyCon 2008 Tutorial</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Python Meetups &gt; DFW Pythoneers
+
+The Python conference will be in Chicago this week and on this day there will be half-day tutorials.  You can read the list of classes offered at:
+
+    http://us.pycon.org/2008/tutorials/schedule/
+
+The tutorials are not free but cost $120 for the first one, $200 if you take two and $280 for three.
+
+Note that you do NOT have to be registered for the conference to attend the tutorials.
+
+Lunch and snacks at break time are included in the class registration fee.
+
+If you have any questions, drop an email to &lt;pycon@python.org&gt;.
+
+Des Plaines, IL  60018 - USA
+
+Thursday, March 13 at 9:00 AM
+
+Photo: http://photos1.meetupstatic.com/photos/event/8/e/d/4/event_276564.jpeg
+
+Attending: 0
+
+Details: http://python.meetup.com/10/calendar/7226590/</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=2</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=2" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 13 - PyCon 2008 Tutorial Day</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Python Meetups &gt; DFW Pythoneers
+
+Just for the month of January, we are meeting on the *third* Thursday instead of the *second* Thursday, due to a conflict with another group (DFWUUG) with which several of us are officers.
+
+Cafe Brazil gives us free WiFi and some number of electrical plugs so bring your laptops!  And they are open 24-hours on the day we meet.
+
+Come meet other Python programmers over dinner and talk into the late hours.  Come late if you need to, we'll still be there!
+
+Dallas, TX  75254 - USA
+
+Thursday, March 13 at 7:00 PM
+
+Photo: http://photos1.meetupstatic.com/photos/event/8/e/d/4/event_276564.jpeg
+
+Attending: 0
+
+Details: http://python.meetup.com/10/calendar/7333910/</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=3</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=3" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 13 - DFW Pythoneers March Meeting</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+BostonPig 
+http://wiki.python.org/moin/BostonPig 
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=13</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=13" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 13 - BostonPig</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+The Chicago Python Users Group (ChiPy)
+ABOUT: ChiPy is a group of Chicago Python Programmers, l33t, and n00bs.
+Meetings are held monthly at various locations around Chicago.
+Also, ChiPy is a proud sponsor of many Open Source and Educational efforts in Chicago. Stay tuned to the mailing list for more info.
+ChiPy website: http://chipy.org
+ChiPy Mailing List: http://mail.python.org/mailman/listinfo/chicago
+LOCATION: Google's Chicago office 20 West Kinzie Street, 9th Floor Chicago, IL 60610
+*** A Special Note from Fitz::
+I'm going to need a list of all people attending to give to building security, so if you're thinking of coming, please send me your name (just to me--use my fitz at google dot com address please).
+Location description:
+* &quot;18 story glass and steel building on the Northeast corner of Dearborn and Kinzie.&quot;
+* &quot;Across the street from Harry Carey's&quot;
+* &quot;Upstairs from Keefer's restaurant&quot;
+* Map http://tinyurl.com/ee8my
+EMAIL: chris@wirelion.com
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=7</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=7" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 13 - Chicago Python Users Group (ChiPy)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+BayPiggies - San Francisco Bay Area Python Interest Group
+http://www.baypiggies.net/
+Google 1600 Amphitheatre Pkwy, Mtn View, 94043 Bldg 43, room Tunis
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=3</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F13&amp;EventID=3" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 13 - BayPiggies</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+http://us.pycon.org/2008/
+</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F14&amp;EventID=3</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F14&amp;EventID=3" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 14 - PyCon 2008</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Python Meetups &gt; DFW Pythoneers
+
+Today begins the three days of presentations for the Python conference, being held in Chicago.  This year we have 63 talks, along with many evening activities.  We also have some really cool keynote speakers.
+
+You can read more about the conference at:
+
+    http://us.pycon.org/2008/about/
+
+The full conference schedule is online at:
+
+    http://us.pycon.org/2008/conference/schedule/
+
+The conference is not free and requires registration, but at $400 for corporate attendees, $220 for hobbyists and $125 for students, it is much more affordable than many corporate conferences.
+
+If you have questions, drop an email to &lt;pycon@python.org&gt;.
+
+Des Plaines, IL  60018 - USA
+
+Friday, March 14 at 9:00 AM
+
+Photo: http://photos1.meetupstatic.com/photos/event/8/e/d/4/event_276564.jpeg
+
+Attending: 0
+
+Details: http://python.meetup.com/10/calendar/7226610/</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F14&amp;EventID=4</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F14&amp;EventID=4" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 14 - PyCon 2008 Main Conference Days</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+http://us.pycon.org/2008/
+</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F15&amp;EventID=3</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F15&amp;EventID=3" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 15 - PyCon 2008</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+http://us.pycon.org/2008/
+</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F16&amp;EventID=3</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F16&amp;EventID=3" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 16 - PyCon 2008</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+http://us.pycon.org/2008/sprints/
+</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F17&amp;EventID=31</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F17&amp;EventID=31" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 17 - PyCon 2008 Sprints</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Python Meetups &gt; DFW Pythoneers
+
+Today begins  a free, four-day event of sprinting at the Python conference.
+
+A sprint is a focused development session, in which developers pair in a room and focus on building a particular subsystem. A sprint is organized with a coach leading the session. The coach sets the agenda, tracks activities, and keeps the development moving. The developers will sometimes work in pairs using the Extreme Programming (XP) pair programming approach.
+
+Sprinting days are excellent ways to program with others around the table, discussing Python and going out for lunch with your peers.  Sprints are not sit-and-listen events but very interactive.  However, you do NOT have to be a programming guru - sprints are an excellent way to get into Python and improve your skills.
+
+Sprints are free, and you do NOT have to have registered for the conference to attend.  Just show up at the hotel on a sprinting day, peek into the rooms and introduce yourself.  It is best that you show up on Monday, the first sprint day, when the projects are being discussed and people begin teaming, but if you can't make that, please come on down when you can.
+
+You can read more about what a sprint is at:
+
+    http://us.pycon.org/2008/sprints/
+
+And see the list of sprints scheduled so far at:
+
+    http://us.pycon.org/2008/sprints/projects/
+
+The list of sprints is flexible so if you don't see a topic in which you're interested, add it to the list using the wiki page, or drop an email to &lt;pycon@python.org&gt; to discuss it.
+
+Des Plaines, IL  60018 - USA
+
+Monday, March 17 at 8:00 AM
+
+Photo: http://photos1.meetupstatic.com/photos/event/8/e/d/4/event_276564.jpeg
+
+Attending: 0
+
+Details: http://python.meetup.com/10/calendar/7226624/</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F17&amp;EventID=5</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F17&amp;EventID=5" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 17 - PyCon 2008 Four Days of Sprinting</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Toronto Python/Zope User Group (PyGTA) 
+http://web.engcorp.com/pygta 
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F18&amp;EventID=16</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F18&amp;EventID=16" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 18 - Toronto Python/Zope User Group (PyGTA)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+SoCal Piggies - Southern California Python Interest Group. 
+URL: http://socal-piggies.org
+LOCATION: USC Salvatori Computer Science Center, room 222 
+The SoCal Piggies group came into existence when Southern California-based Pythonistas responded to a &quot;trying to organize LA/OC Python Interest Group&quot;  Grig offered to host the Wiki for the group, and Titus Brown created the group's mailing list. Titus hosted the group's first two meetings at the KML Marine Lab in Newport Beach. Daniel Arbuckle has been hosting the meetings at USC.
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F18&amp;EventID=4</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F18&amp;EventID=4" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 18 - SoCal Piggies</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+PIGIP NJ: Python Interest Group In Princeton, NJ. 
+Python Interest Group In Princeton (PIGIP)
+http://www.pigip.org 
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F19&amp;EventID=12</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F19&amp;EventID=12" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 19 - New Jersey Python Interest Group (PIGIP NJ)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+FrontRangePythoneers - 6-8 PM, in Boulder, Colorado. 
+http://wiki.python.org/moin/FrontRangePythoneers 
+The Front Range Pythoneers is an active Python users group in Boulder, Colorado, USA. We also hold a regular monthly sprint, usually on the first Saturday of each month.
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F19&amp;EventID=6</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F19&amp;EventID=6" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 19 - FrontRangePythoneers: Boulder, Colorado</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+MelbournePUG 
+WHERE: Intrepid Travel in Fitzroy (Intrepid Travel 
+12 Spring St, Fitzroy)
+http://wiki.python.org/moin/MelbournePUG 
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F20&amp;EventID=14</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F20&amp;EventID=14" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 20 - MelbournePUG</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+SnakeCharmers - San Diego Python Users' Group. 
+http://www.snakecharmers.org 
+6:30pm, in the SnakeCharmers Command &amp; Control Center located at: Cognitive Vision 8580 Production Avenue, Suite B San Diego, CA 92121 
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F20&amp;EventID=5</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F20&amp;EventID=5" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 20 - SnakeCharmers: San Diego, CA</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Python West Midlands (UK) 
+http://pywm.eu/pug/ 
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F21&amp;EventID=19</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F21&amp;EventID=19" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 21 - Python West Midlands (UK)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+TriZPUG: The Triangle Zope/Python User Group in the Raleigh-Durham-Chapel Hill area of North Carolina, USA. 
+http://trizpug.org 
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F25&amp;EventID=9</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F25&amp;EventID=9" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 25 - Triangle Zope/Python User Group (TriZPUG)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Kitchener/Waterloo Python User Group (KWPUG)
+http://www.kwpug.org/ 
+Meetings will be from 7-9pm 
+All meetings will be in the boardroom of the main branch of Waterloo Public Library.
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F25&amp;EventID=17</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F25&amp;EventID=17" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 25 - Kitchener/Waterloo Python User Group (KWPUG)</title>
+</entry>
+<entry>
+<content mode="escaped" type="text/html">
+Winnipeg Python Users Group (WinniPUG)
+http://wiki.python.org/moin/WinniPUG 
+7:30 p.m. to 9:00 or 9:30 p.m. 
+University of Winnipeg, currently in room 2M70, although this may move (with or without notice) to the room across the hall from 2M70. Room 2M70 at the UW is on the second floor of Manitoba hall. 
+
+The Python Programming Language:  http://www.python.org
+Python� is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. Many Python programmers report substantial productivity gains and feel the language encourages the development of higher quality, more maintainable code.
+
+Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm Handhelds, and Nokia mobile phones. Python has also been ported to the Java and .NET virtual machines.  Python is distributed under an OSI-approved open source license that makes it free to use, even for commercial products.  The Python Software Foundation (PSF) holds and protects the intellectual property rights behind Python, underwrites the PyCon conference, and funds grants and other projects in the Python community.</content>
+<id>http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F26&amp;EventID=18</id>
+<issued /><link href="http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python&amp;Date=2008%2F3%2F26&amp;EventID=18" rel="alternate" type="text/html" />
+<modified /><title type="text/plain">Mar 26 - Winnipeg Python Users Group (WinniPUG)</title>
+</entry>
+</feed>
