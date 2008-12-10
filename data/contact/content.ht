@@ -1,31 +1,28 @@
 Title: Contacting Us
-Content-type: text/x-rst
+Content-type: text/html
 
-Contacting Us
-===============
 
-To report errors or shortcomings in Python's documentation,
-write to `docs@python.org <mailto:docs@python.org>`_
+      <h3 align="center">Contacting the Organisers of PyCon UK</h3>
 
-To report problems with the python.org site (errors, broken links, 
-and typos) or to make suggestions about the material on python.org, 
-write to `webmaster@python.org <mailto:webmaster@python.org>`_.
+      <br />
 
-If you have a question about Python programming, post it to the
-`comp.lang.python newsgroup <community/lists.html#comp.lang.python>`_,
-a high-traffic forum for general discussions and questions about
-Python.  
+      <p align="center">
+      <img src="images/lord_kitchener.jpg" width="136" height="179" alt="We need your input" />
+      </p>
+      <br clear="all" />
 
-If you are learning how to program, join `the tutor mailing list
-<http://mail.python.org/mailman/listinfo/tutor>`_, a list especially
-for beginners.  
+      <h4 align="center">We want your input!</h4>
 
-Programming questions can also be sent to `help@python.org
-<mailto:help@python.org>`_, which is staffed by a group of volunteers
-who will provide brief answers to questions.
+      <p align="center">You can email us at
+                        <br />
+                        help -AT- pyconuk -DOT- org
+      </p>
 
-Other mailing lists and newsgroups may also be helpful; see
-`the guide to Python mailing lists <community/lists.html>`_ for a list
-of available forums.
-
+      <h3 align="center">Wiki</h3>
+      <p align="center">
+         We have a 
+         <a href="http://www.pyconuk.org/community/" >Conference Wiki</a>
+         where you can offer your help, suggest ideas, and contact other
+         Pythonistas attending the conference.
+      </p>
 

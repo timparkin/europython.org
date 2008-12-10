@@ -1,0 +1,45 @@
+Content-type: text/html
+Title: The Venue
+
+
+
+        <h2>PyCon UK Location</h2>
+
+        <img src="images/bmag.jpg" alt="Birmingham Museum and Art Gallery" title="Birmingham Museum and Art Gallery" width="200" height="266" align="right" />
+        <p>Birmingham Conservatoire, the venue for the conference, is
+           located in the city centre close to all the facilities
+           you'd wish:
+        </p>
+        <ul>
+            <li>Restaurants</li>
+            <li>Shops</li>
+            <li>Railway and Coach Stations</li>
+            <li>Museums and Art Galleries</li>
+            <li>Theatres</li>
+            <li>Symphony Hall</li>
+            <li>Night Clubs</li>
+            <li>Tourist Attractions</li>
+            <li>Hotels</li>
+        </ul>
+        <p>
+            All of these are within a short walking distance, yes
+            we mean this, no more than 1 to 10 minutes.
+        </p>
+        <br clear="all" />
+
+        <h3>More about Birmingham</h3>
+
+        <p>We've put together some information about:</p>
+        <ul>
+          <li><a href="brum.html">Birmingham</a></li>
+          <li><a href="travel.html">Directions</a></li>
+          <li><a href="accommodation.html">Hotels</a></li>
+          <li><a href="eating_out_in_brum.html">Eating Out</a></li>
+        </ul>
+
+        <h3>Street Map</h3>
+
+        <p>Here is a <a href="pdfs/conservatoire_map.pdf" title="Surrounding Street Map" >pdf Map (2.7Mb)</a>
+           of the city centre around the Conservatoire.
+        </p>
+

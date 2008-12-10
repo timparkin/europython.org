@@ -1,0 +1,138 @@
+Content-type: text/html
+Title: Travel
+
+
+
+        <h2>How to Get to PyCon UK</h2>
+
+        <p>Being slap bang in the middle of the country, Birmingham
+	is probably the easiest place to get to in the UK.
+        </p>
+
+	<h3>By Rail</h3>
+
+	<p><img src="images/train_by_canal.jpg" width="324" height="150" alt="Train by Canal" align="right" />
+	   Birmingham New Street and Moor Street stations are within
+	   10 minutes' walk from the conference venue and hotels.
+	   <a href="http://www.virgintrains.co.uk">Virgin Trains</a>
+	   and
+	   <a href="http://www.chilternrailways.co.uk">Chiltern Railways</a>
+	   offer direct services from major UK cities. Fares can be
+	   expensive, but if you book more than seven days in advance
+	   there are massive savings, for example return fares from
+	   London can be as low as &pound;10 (Chiltern) or &pound;25
+	   (Virgin).
+	</p>
+	<p>New Street station was opened by the London and
+	   North Western Railway (LNWR) on 1st June 1854. Today it handles
+	   around 31 million passengers every year.
+	</p>
+	<br clear="all" />
+
+	<h3>By Coach</h3>
+
+	<p>Digbeth coach station is about 15 minutes' walk from the
+	   conference and hotels. Fares are unbelievably low from
+	   UK cities.
+	   <a href="http://www.nationalexpress.com/">National Express</a>
+	   are the operators.
+	</p>
+
+	<h3>By Car</h3>
+
+	<p><img src="images/motorways.jpg" width="170" height="246" alt="Motorways by night" align="left" />
+	   Birmingham is at the heart of the UK road network, at the
+	   confluence of the M6, M5 and M42 motorways, and the conference
+	   venue and hotels are in the heart of the city. Directions can be
+	   downloaded or viewed <a href="pdfs/directions.pdf">here</a>.
+	</p>
+	<br clear="all" />
+
+	<h3>By Air</h3>
+
+	<p><img src="images/air_rail_link.jpg" width="170" height="128" alt="the Air Rail Link" align="right" />
+	   <a href="http://www.bhx.co.uk">Birmingham International Airport</a>
+	   is the Midlands hub, with connections to all major European
+	   cities and many further afield. The airport is adjacent to
+	   Birmingham International rail station, with a direct air/rail
+	   overhead link running every two minutes.  From the rail station
+	   there are frequent services to Birmingham New Street, 10 minutes'
+	   walk from the conference venue. The usual culprits provide
+	   cheap flights:
+	</p>
+	<ul>
+	   <li><a href="http://www.ryanair.com">Ryanair</a></li>
+	   <li><a href="http://www.aerlingus.com">Aer Lingus</a></li>
+	   <li><a href="http://www.flybe.com">flybe</a></li>
+	</ul>
+	<br clear="all" />
+
+	<h3>Taxis</h3>
+
+	<p>
+           <img src="images/taxi.jpg" width="108" height="53" alt="Taxi" align="left" />
+	   You're unlikely to need a taxi for this conference, as
+	   all our locations - stations, conference venue and hotels -
+	   are within a short walking distance. If you do need a cab,
+	   the Black Cabs may be hailed from the roadside, but private
+	   hire cabs must be booked in advance by telephone. Black Cabs
+	   can also be booked in advance from Birmingham TOA,
+	   telephone 0121 428 8888. TOA taxis take credit cards.
+	</p>
+	<br clear="all" />
+
+    <h3>Street Map and Pedestrian Directions</h3>
+
+    <a name="pdfs"></a>
+    <p>Here are a PDF map of the city centre around the Conservatoire 
+       (PyCon UK 2008 Venue),
+       and PDF pedestrian directions between the Conservatoire and
+       the Etap Hotel and New Street Station:
+    </p>
+    <ul>
+      <li><a href="pdfs/conservatoire_map.pdf" title="Surrounding Street Map" >pdf Map (2.7Mb)</a> of the city centre around the Conservatoire.
+      </li>
+      <li><a href="pdfs/etap_to_conservatoire.pdf" title="Etap to Conservatoire" >Etap to Conservatoire (297kb)</a>
+      </li>
+      <li><a href="pdfs/conservatoire_to_etap.pdf" title="Conservatoire to Etap" >Conservatoire to Etap (296kb)</a>
+      </li>
+      <li><a href="pdfs/new_street_station_to_etap.pdf" title="New Street Station to Etap" >New Street Station to Etap (294kb)</a>
+      </li>
+      <li><a href="pdfs/new_street_station_to_conservatoire.pdf" title="New Street Station to Conservatoire" >New Street Station to Conservatoire (293kb)</a>
+      </li>
+    </ul>
+    <p>Thanks to Simon Stanford for preparing the directions, which cost
+       him shoe leather as well as time. If you use these directions please
+       make sure you buy him a pint!
+    </p>
+
+    <p>Here are detailed directions to the Conservatoire, including advice
+       for exhibitors delivery goods.
+    </p>
+    <ul>
+      <li><a href="pdfs/how_to_find_the_conservatoire.pdf" title="Driving directions to Conservatoire" >Driving directions to Conservatoire (120kb)</a>
+      </li>
+    </ul>
+
+    <h3>Google Map</h3>
+
+    <a name="googlemap"></a>
+    <p>and here is a Google map of the area, which Alex has marked up with
+       all the locations (Venue, hotels, sprint space, etc) relevant to
+       PyCon UK
+    </p>
+
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=104670010414967360724.0004394ea19c66425808f&amp;om=1&amp;ll=52.477057,-1.906376&amp;spn=0.011301,0.018029&amp;output=embed&amp;s=AARTsJrxGYISyGf5LFTh5yF4bi5gJqDOtA"></iframe>
+    <br />
+    <small><a href="http://maps.google.co.uk/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=104670010414967360724.0004394ea19c66425808f&amp;om=1&amp;ll=52.477057,-1.906376&amp;spn=0.011301,0.018029&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a>
+    </small>
+
+    <h3>Venue Address</h3>
+
+    <p>
+      UCE Birmingham Conservatoire<br />
+      Paradise Place<br />
+      Birmingham<br />
+      B3 3HG
+    </p>
+
