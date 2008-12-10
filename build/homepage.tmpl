@@ -5,36 +5,13 @@
 
         <h1 class="pageheading">${title}</h1>
 	<div id="homepage-boxes">
-          <div class="homepage-box success">
-            <h4>NASA uses Python...</h4>
-            <a href="/about/success/usa">
-              <img class="success" alt="success story photo" 
-                src="/images/success/nasa.jpg" /></a>
-	      <p>... so does <a class="reference" href="about/success/rackspace">Rackspace</a>,
-	      <a class="reference" href="about/success/ilm">Industrial Light and Magic</a>,
-	      <a class="reference" href="about/success/astra">AstraZeneca</a>,
-	      <a class="reference" href="about/success/honeywell">Honeywell</a>,
-	      <a class="reference" href="about/success">and many others</a>.</p>
-          </div>
-
 
 	  <div class="homepage-box">
-	    <h4>Using Python For...</h4>
-	    <ul>
-	      %for link, sublinks in using:
-		<li class="group">${link.as_html()}</li>
-		%if sublinks:
-		  <li>
-		  %for sublink, children in sublinks[:-1]:
-		    ${sublink.as_html()}, 
-		  %endfor
-		  <% sublink, children = sublinks[-1] %>
-		  ${sublink.as_html()}
-		  </li>
-		%endif
-	      %endfor
-	    </ul>
-	    <a href="/about/apps" class="more">more...</a>      
+	    <h4>About Birmingham...</h4>
+    <ul>
+	<li class="group">Getting Around</li>
+	<li class="group">Eating Out</li>
+    </ul>
 	  </div>
 	</div>
 
@@ -68,7 +45,7 @@
 <body>
   <!-- Logo -->
   <h1 id="logoheader">
-    <a href="/" id="logolink" accesskey="1"><img id="logo" src="/images/python-logo.gif" alt="homepage" border="0" /></a>
+    <a href="/" id="logolink" accesskey="1"><img id="logo" src="/images/europython_logo.png" alt="homepage" border="0" /></a>
   </h1>
   <!-- Skip to Navigation -->
   <div class="skiptonav"><a href="#left-hand-navigation" accesskey="2"><img src="/images/trans.gif" id="skiptonav" alt="skip to navigation" border="0" /></a></div>
@@ -146,48 +123,13 @@
       <div id="content">
         <h1 class="pageheading">${title}</h1>
 	<div id="homepage-boxes">
-          <div class="homepage-box success">
-            <h4>NASA uses Python...</h4>
-            <a href="/about/success/usa">
-              <img class="success" alt="success story photo" 
-                src="/images/success/nasa.jpg" /></a>
-	      <p>... so does <a class="reference" href="about/success/rackspace">Rackspace</a>,
-	      <a class="reference" href="about/success/ilm">Industrial Light and Magic</a>,
-	      <a class="reference" href="about/success/astra">AstraZeneca</a>,
-	      <a class="reference" href="about/success/honeywell">Honeywell</a>,
-	      <a class="reference" href="about/success">and many others</a>.</p>
-          </div>
-
-          <% quotes = rss('quotes') %>
-          %if quotes:
-	    <div id="quote" class="homepage-box">
-	      <% quote = random(quotes) %>
-	      <h4>What they are saying...</h4>
-	      <div>
-                <b>${quote['title']}:</b><br />
-                ${quote['description']}
-              </div>
-	      <a href="/about/quotes" class="more" title="more quotes">more...</a>      
-	    </div>
-          %endif
 
   <div class="homepage-box">
-    <h4>Using Python For...</h4>
+    <h4>About Birmingham...</h4>
     <ul>
-      %for link, sublinks in using:
-	<li class="group">${link.as_html()}</li>
-	%if sublinks:
-	  <li>
-	  %for sublink, children in sublinks[:-1]:
-	    ${sublink.as_html()}, 
-	  %endfor
-          <% sublink, children = sublinks[-1] %>
-          ${sublink.as_html()}
-	  </li>
-	%endif
-      %endfor
+	<li class="group">Getting Around</li>
+	<li class="group">Eating Out</li>
     </ul>
-    <a href="/about/apps" class="more">more...</a>      
   </div>
 	</div>
 
@@ -211,7 +153,7 @@
 	  <a href="http://www.xs4all.com/" title="Web and email hosting provided by xs4all, Netherlands">hosting by xs4all</a> / 
 	  <a href="http://www.pollenation.net/" title="Design and content management system by Pollenation Internet, Yorkshire">design by pollenation</a>
 	</div>
-	Copyright &copy; 1990-2008, <a href='/psf'>Python Software Foundation</a><br/>
+	Parts of the HTML are Copyright &copy; 1990-2008, <a href='/psf'>Python Software Foundation</a><br/>
 	<a href="/about/legal">Legal Statements</a>
   
       </div>

@@ -68,7 +68,7 @@ H4
   background-image: url(../images/header-bg2.png);
   background-repeat: repeat-x;
   border-bottom: 1px solid #999999;
-  height:84px;
+  height:94px;
   }
 
 #logo
@@ -86,7 +86,7 @@ H4
 {
   position: absolute;
   left: 0;
-  top: 63px;
+  top: 73px;
   width: 93.9%;
   z-index: 0;
   font-size:75%;
@@ -116,7 +116,7 @@ min-width:660px;
   position: absolute;
   left: 3%;
   z-index: 1;
-  top: 100px;
+  top: 110px;
 }
 
 #menu

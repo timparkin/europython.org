@@ -1,83 +1,123 @@
-title: Python Programming Language -- Official Website
-keywords: python programming language object oriented web free source
+title: Europython 2009
+keywords: europython programming language conference object oriented web free source
 description:
-      Home page for Python, an interpreted, interactive, object-oriented, extensible
-      programming language. It provides an extraordinary combination of clarity and
-      versatility, and is free and comprehensively ported.
+      Home page for Europython
 javascript:
-Content-type: text/x-rst
+Content-type: text/html
 Template: homepage
 Nav:
-    About {About The Python Language} about
-    News {Major Happenings Within the Python Community} news
-    Documentation {Tutorials, Library Reference, C API} doc
-    Download {Start Running Python Under Windows, Mac, Linux and Others} download
-    Community {Mailing Lists, Jobs, Conferences, SIGs, Online Chats} community
-    Foundation {Python Software Foundation} psf
-    Core Development {Development of the Python language and website} dev
-    Links {Pointers to Useful Information} links
+    About {About The Europython Conference} about
+    Talks {Submitting and Schedules} talks
 Quick-links:
-    Quick Links (2.6) /download/releases/2.6
-        Documentation {Manuals for Latest Stable Release} http://docs.python.org/
-        Windows Installer {Easy Installer of Python under Windows} /ftp/python/2.6/python-2.6.msi
-        Source Distribution {Grab the Source for the Latest Stable Release} /ftp/python/2.6/Python-2.6.tar.bz2
-        Package Index {Community Collection of Shared Python Modules} http://pypi.python.org/pypi
-    Python Jobs {Employers and Job Openings} /community/jobs
-    Donate to the PSF {Support the Python Software Foundation} /psf/donations/
-    Report website bug {Submission System for Problems/Suggestions with the Website} http://wiki.python.org/moin/PythonWebsiteCreatingNewTickets
-Using-Python:
-    Web Programming http://wiki.python.org/moin/WebProgramming
-      CGI http://wiki.python.org/moin/CgiScripts
-      Zope http://www.zope.org/
-      Django http://www.djangoproject.com/
-      TurboGears http://www.turbogears.org/
-      XML http://wiki.python.org/moin/PythonXml
-    Databases http://wiki.python.org/moin/DatabaseProgramming/
-      ODBC http://www.egenix.com/files/python/mxODBC.html
-      MySQL http://sourceforge.net/projects/mysql-python
-    GUI Development http://wiki.python.org/moin/GuiProgramming
-      wxPython http://wiki.python.org/moin/WxPython
-      tkInter http://wiki.python.org/moin/TkInter
-      PyGtk http://wiki.python.org/moin/PyGtk
-      PyQt http://wiki.python.org/moin/PyQt
-    Scientific and Numeric http://wiki.python.org/moin/NumericAndScientific
-      Bioinformatics http://www.pasteur.fr/recherche/unites/sis/formation/python/index.html
-      Physics http://www.pentangle.net/python/handbook/
-    Education /community/sigs/current/edu-sig
-      pyBiblio http://www.openbookproject.net/pybiblio/
-      Software Carpentry Course http://osl.iu.edu/~lums/swc/
-    Networking /about/apps
-      Sockets http://docs.python.org/howto/sockets.html
-      Twisted http://twistedmatrix.com/trac/
-    Software Development /about/apps
-      Buildbot http://buildbot.net/trac
-      Trac http://www.edgewall.com/trac/
-      Roundup http://roundup.sourceforge.net/
-      IDEs http://wiki.python.org/moin/IntegratedDevelopmentEnvironments
-    Game Development /about/apps
-      PyGame http://www.pygame.org/news.html
-      PyKyra http://www.alobbs.com/pykyra
-      3D Rendering http://www.vrplumber.com/py3d.py
+    Resources /resources
+        ETAP {The ETAP Hotel} http://www.etap.com
+    Donate {Make a Donation} /donate
 
-**Python is a dynamic object-oriented programming language that can be
-used for many kinds of software development. It offers strong support
-for integration with other languages and tools, comes with extensive
-standard libraries, and can be learned in a few days. Many Python
-programmers report substantial productivity gains and feel the language
-encourages the development of higher quality, more maintainable code.**
 
-Python runs on Windows, Linux/Unix, Mac OS X, OS/2, Amiga, Palm
-Handhelds, and Nokia mobile phones. Python has also been ported to the
-Java and .NET virtual machines.
 
-Python is distributed under an OSI-approved `open source license
-</psf/license>`__ that makes it free to use, even for commercial
-products. 
+      <h2>PyCon UK : a Python Conference</h2>
 
-The `Python Software Foundation (PSF) </psf>`__ holds and protects the
-intellectual property rights behind Python, underwrites the `PyCon
-conference <http://pycon.org/>`__, and funds grants and other projects
-in the Python community.
+        <h4>PyCon UK 2008 - 12th to 14th September 2008</h4>
 
-`Read more </about>`__ -or- `try Python now </download>`__
+        <p>PyCon UK 2008 is now over. You can see how things went on the
+           <a href="http://www.pyconuk.org/community/">Wiki</a> and in the
+           <a href="http://gallery3.pyconuk.org/">Gallery</a>.
+        </p>
+        <p>PyCon UK was attended by 240 delegates, and 88 of these attended
+           the Tutorials Day on 12th September.
+        </p>
+        <p>Next year, there will be no PyCon UK. Instead the PyCon UK
+           Society is hosting
+           <a href="http://www.europython.eu/">EuroPython</a> 2009, which
+           takes place from Monday 29th June until Friday 3rd July.
+           Jazz fans will be glad to know that EP 2009 will be followed by the
+           <a href="http://www.birminghamjazzfestival.com/">Birmingham International Jazz Festival</a>.
+        </p>
+
+        <img src="/images/talk.jpg" width="281" height="200" alt="Talk at PyConUK 2007" />
+
+        <h4>Talks - Latest</h4>
+
+        <p>The <a href="timetable.html">Talks Schedule</a> has been
+           published.
+        </p>
+        <p><strong>Mano Marks</strong> of Google is holding a Google
+           AppEngine tutorial on Tutorials Day, 12th September.
+        </p>
+
+        <p>We're pleased that <strong>Ted Leung</strong> and
+           <strong>Mark Shuttleworth</strong> have accepted our
+           invitation to be Keynote speakers.
+        </p>
+
+        <h3>What is PyCon UK ?</h3>
+  
+        <p>PyCon UK is a conference all about the
+           <a href="http://www.python.org">Python programming language</a>,
+           it's aimed at the Python community: Python users and
+           programmers, of all skill levels.
+        </p>
+  
+        <h3>What will be included in the Programme ?</h3>
+
+        <p>We're planning talks, lightning talks and tutorials as well
+           as social events, and we've arranged space for sprints
+           after the conference.
+        </p>
+
+	<p>To get a rough idea, have a quick peek at <a href="http://www.pyconuk.org/schedule_2007.html">last year's programme</a>.</p>
+
+        <p>
+           For more information, and latest
+           talks news, see the <a href="/news/">News Page</a>.
+        </p>
+
+        <h3>When and where will it be held ?</h3>
+  
+        <p>PyCon UK 2008 will be held on the weekend of the 12th to 14th September 2008 at the Birmingham Conservatoire.
+        </p>
+	    <img src="images/centenarysquare.jpg" width="502" height ="121" alt="Centenary Square" />
+  
+        <h3>What's that ?</h3>
+  
+        <p>The School of Music at the Birmingham City University.
+           It has excellent facilities for our conference, and is
+           in short walking distance of train and coach stations and
+           hotels at all price levels.
+        </p>
+
+        <h3>How much will it cost me ?</h3>
+
+        <p>We are keeping costs to a minimum and expect that you will be
+           able to attend the whole conference for around &pound;100,
+	   <em>including</em> accommodation and food if you book at the early bird rate.
+           <!--
+	   you will be able to see more
+           details on the
+           <a href="/booking.html" title="Book your place at PyCon UK">Registration and Booking Page</a>.
+           There will be concessionary rates for the young and old,
+	   -->
+        </p> 
+
+	<h3>Who's organising PyCon UK ?</h3>
+
+	<p>The conference is being run by the PyCon UK Society,
+	   which has been set up specially for this and future
+	   conferences. The Conference and Society have been
+	   initiated by PyWM - the West Midlands Python Group :
+	   here we are at our Technical Meeting where we started
+	   plans for PyCon UK.
+	</p>
+
+	<img src="images/pywm240207-earlystart.jpg" width="500" height ="226" alt="PyWm Technical Meeting" />
+
+        <h3>I'm a member of the Python Community:
+            <br />
+            How can I Help ?</h3>
+
+        <p><a href="contacts.html">Contact the organisers!</a> We'd like
+           talks, tutorials and lots of help organising this event.
+        </p>
+
+
 
